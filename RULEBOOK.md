@@ -90,6 +90,8 @@ Validation is lightweight. The default is *yes*. You earn the die unless someone
 
 A thread is an unresolved question, tension, or connection in the fiction. "Why does Sonia hate me?" "What happened at the factory?" "Can I trust Peter with this?"
 
+If your character already knows it or feels it, just play it. If you're asking the fiction to answer something, that's a thread. You don't need permission to look. You just have to live with what you found.
+
 When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
 
 | Roll | Outcome |
