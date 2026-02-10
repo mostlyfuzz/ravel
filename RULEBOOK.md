@@ -100,7 +100,7 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 | **3–4** | **Cold.** The thread doesn't resolve, but its resistance is real. Something is missing, hidden, or inaccessible. The absence itself becomes established fiction. |
 | **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. |
 
-**There is no wasted roll.** Every outcome gives the table material to work with.
+**There is no wasted roll.** Every outcome gives the table material to work with. Cold is not "nothing happens." Cold is: the files from 1998 are missing. The door is welded shut from the inside. She won't meet your eyes. The answer exists, but something is in the way, and that something is now part of the fiction.
 
 **The odds:**
 
@@ -111,6 +111,8 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 | 3 | 70% | 26% | 4% |
 
 One die is a genuine gamble. Three dice is playing it safe, but it costs your whole reserve. The choice between spending cautiously and gambling cheap is the heartbeat of the economy.
+
+**Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
 
 ---
 
