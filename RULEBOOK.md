@@ -256,6 +256,37 @@ Violence is expensive. Not mechanically, but fictionally. It changes things, rev
 
 ---
 
+## Genre Module: Fractures (Horror)
+
+When playing Ravel in a horror register, characters gain two **fracture tracks**: **Body** and **Mind**. Each track has three marks.
+
+### Earning Fractures
+
+When a thread connected to physical consequences results in a **Break**, the affected character marks one fracture on **Body**. When a thread connected to psychological consequences results in a Break, mark one on **Mind**.
+
+The table validates whether a Break is physical, mental, or neither, using the same default-yes convention as honoring. Most of the time the fiction makes it obvious.
+
+Fractures earned during **the Tilt** follow the same rules. Random thread breaks that carry physical or mental consequences mark fractures on the relevant characters. This means the Tilt can wound or kill without anyone choosing it, the fiction cracking under its own weight.
+
+### Remedying Fractures
+
+A fracture can be remedied by pulling a related thread and achieving **Clarity**. The Clarity must fictionally address the source of the fracture: sealing the hull breach, stabilizing the wounded crew member, finding solid ground after a psychological shock. The table validates whether the remedy fits.
+
+Remedying a fracture costs the same as any thread pull (1–3 dice), and there is no guarantee of Clarity. Attempting to heal and rolling a Break instead marks an additional fracture.
+
+### Three Fractures
+
+- **Body: Third fracture, you die.** The fiction delivers this through normal delivery rules.
+- **Mind: Third fracture, you unravel.** The character is overtaken by madness, by the thing they saw, by whatever the horror demands. They may still be alive, but they are no longer themselves. The GM takes the character into the NPC pool.
+
+### Design Notes for the GM
+
+- Not every Break needs to be a fracture. Breaks on threads about trust, loyalty, or relationships are still just narrative Breaks unless they have clear physical or mental fallout.
+- Fractures should be visible to the table. Track them openly. The dread of watching marks accumulate is part of the horror.
+- "Unraveling" (third mental fracture) is not necessarily permanent across sessions. Whether and how a character recovers is a long thread for the table to explore.
+
+---
+
 ## The Rules on an Index Card
 
 1. **Create** a character: Drive, Approach, Belief, Memory, 2–3 Relationships
@@ -267,6 +298,7 @@ Violence is expensive. Not mechanically, but fictionally. It changes things, rev
 7. **The Tilt.** After the first round, 1–3 random threads automatically break
 8. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
 9. **Between sessions,** evolve one element on your sheet, carry threads forward
+10. **Fractures (horror).** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
 
 Teach in five minutes. The depth comes from play, not from rules.
 
