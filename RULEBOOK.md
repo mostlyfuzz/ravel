@@ -92,6 +92,8 @@ A thread is an unresolved question, tension, or connection in the fiction. "Why 
 
 If your character already knows it or feels it, just play it. If you're asking the fiction to answer something, that's a thread. You don't need permission to look. You just have to live with what you found.
 
+Threads point outward. You honor yourself to earn dice. You pull on other characters, the world, and the situation to spend them.
+
 When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
 
 | Roll | Outcome |
@@ -167,7 +169,9 @@ Ravel has a GM, but not in the traditional sense. The GM is a **player with a di
 
 ### The GM Plays by the Same Economy
 
-The GM earns dice by honoring established NPC elements, and the table validates just like for any player. The GM pulls threads and spends dice. When the GM pulls, **the players deliver the outcome**. This means:
+The GM earns dice by honoring established NPC elements, and the table validates just like for any player. The GM keeps a **single shared pool** across all NPCs. Dice earned by honoring any NPC go into the same pool, and the GM can spend them on any pull, anywhere. This makes the GM the player with the biggest portfolio and the most flexibility to apply pressure where the fiction needs it.
+
+When the GM pulls, **the players deliver the outcome**. This means:
 
 - The GM can't plant mysteries they already know the answer to.
 - Players get authorship over the world.
