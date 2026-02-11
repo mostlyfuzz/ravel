@@ -94,6 +94,8 @@ If your character already knows it or feels it, just play it. If you're asking t
 
 Threads point outward. You honor yourself to earn dice. You pull on other characters, the world, and the situation to spend them.
 
+**Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
+
 When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
 
 | Roll | Outcome |
@@ -133,7 +135,9 @@ This is the core tradeoff: **you never control both the situation and the invest
 
 ### Playing a Scene
 
-Once the scene is framed, play it. Roleplay the characters, honor elements, earn dice, and when the moment is right, pull threads. Multiple pulls can happen in a single scene if the fiction supports it.
+Once the scene is framed, name the threads that are live in it. "The threads on the table for this scene are..." This gives the whole table focus and makes it clear what's available to pull. New threads can still emerge during play, but starting with named ones keeps everyone oriented.
+
+Then play. Roleplay the characters, honor elements, earn dice, and when the moment is right, pull threads. Multiple pulls can happen in a single scene if the fiction supports it.
 
 ### Ending a Scene
 
@@ -192,13 +196,13 @@ The Tilt is where the game guarantees conflict. During normal play, spending mor
 ### How It Works
 
 1. Gather all the threads currently in play.
-2. Randomly select **1 to 3 threads**.
-3. These threads **automatically break**. No roll. No spending dice. They just snap.
+2. Randomly select **1 thread**.
+3. That thread **automatically breaks**. No roll. No spending dice. It just snaps.
 4. The table narrates the fallout using the normal delivery rules.
 
 The randomness matters. Nobody chose this, nobody targeted anyone. It just happened. The fiction cracked under its own weight.
 
-The GM decides how many threads break (1 to 3), reading the table and the fiction to gauge what feels right. Playtesting will refine this.
+In later sessions, as the thread web thickens, the GM may increase the Tilt to 2 breaks. The Tilt should create a crack, not a collapse. One break is enough to reshape the back half of a session.
 
 ### After the Tilt
 
@@ -210,7 +214,7 @@ Play continues with a second round of spotlight scenes. The landscape has shifte
 
 A session of Ravel follows this shape:
 
-1. **Setup** (first session) or **Recap** (subsequent sessions). Establish characters and connections, or review the thread state from last time.
+1. **Setup** (first session) or **Recap** (subsequent sessions). Establish characters and connections, or review the thread state from last time. In the first session, each player places their character in the opening situation: where they are and what they're doing. This serves as an introduction. In later sessions, players locate themselves in the space before scene construction begins.
 2. **First Round.** Spotlight rotates. Each player gets a scene. Honoring, earning, and pulling happen naturally.
 3. **The Tilt.** Random threads break. The fiction shifts.
 4. **Second Round.** Spotlight rotates again. Play in the aftermath of the Tilt.
@@ -303,7 +307,7 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 4. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
 5. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
 6. **Deliver.** The person the thread is about narrates the outcome
-7. **The Tilt.** After the first round, 1–3 random threads automatically break
+7. **The Tilt.** After the first round, a random thread automatically breaks (2 in later sessions)
 8. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
 9. **Between sessions,** evolve one element on your sheet, carry threads forward
 10. **Fractures (horror).** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.

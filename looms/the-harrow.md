@@ -32,7 +32,7 @@ Acheron-7 is still weeks away. Whatever they're now pointed at is closer.
 
 ---
 
-### Maren Voss, Systems Engineer
+### Maren Voss, Systems Engineer *(she/her)*
 
 - **Drive:** Debt. She owes Meridian for her son's medical treatment. This job clears the balance.
 - **Belief:** Machines are honest. People aren't.
@@ -42,7 +42,7 @@ She served on a previous Meridian contract with Daal. Something went wrong. They
 
 ---
 
-### Tariq Aslan, Mission Director
+### Tariq Aslan, Mission Director *(he/him)*
 
 - **Drive:** Loyalty to Meridian. Or maybe to something inside Meridian that the others don't know about.
 - **Memory:** He was the last person to communicate with Acheron-7 before it went dark. He has never told anyone what was said.
@@ -52,7 +52,7 @@ He hand-picked this crew. Every name on the roster is his choice, except Osei, w
 
 ---
 
-### Lian Zhao, Ship's Doctor
+### Lian Zhao, Ship's Doctor *(she/her)*
 
 - **Drive:** Her sister was stationed on Acheron-7. Lian is not here for the company.
 - **Approach:** Quiet observation. She watches before she speaks, and she remembers everything.
@@ -62,7 +62,7 @@ She doesn't trust Tariq, who she believes knows more about Acheron-7 than he's s
 
 ---
 
-### Daal Eriksen, Pilot
+### Daal Eriksen, Pilot *(he/they)*
 
 - **Drive:** Control. He needs to be the one flying. When he's not at the helm, nothing makes sense.
 - **Memory:** A navigation error that killed his co-pilot, years ago. He doesn't talk about it. He doesn't sleep well either.
@@ -72,7 +72,7 @@ He and Maren worked a contract together before. He blames her for something, or 
 
 ---
 
-### Osei Adjei, Security / EVA Specialist
+### Osei Adjei, Security / EVA Specialist *(they/them)*
 
 - **Drive:** Redemption. They did something at their last posting that they can't take back. This job was supposed to be a clean start.
 - **Belief:** Everyone deserves one more chance. Including themselves.
@@ -82,7 +82,7 @@ They were assigned by Meridian corporate, not chosen by Tariq, and Tariq has mad
 
 ---
 
-### Fen Nakamura, Comms / Signals Technician
+### Fen Nakamura, Comms / Signals Technician *(she/they)*
 
 - **Drive:** Curiosity. Something in Acheron-7's last transmissions doesn't add up, and they need to understand why.
 - **Approach:** Nervous energy channeled into relentless problem-solving. When things get bad, they get busy.
