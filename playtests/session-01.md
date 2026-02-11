@@ -29,7 +29,7 @@ Maren went to the bridge to find Daal running diagnostics on the course deviatio
 
 ### Daal's Spotlight (framed by player, other player GMing)
 
-Daal alone on the bridge, running the course data for the fourth time. He honored Drive: Control and earned a die. Attempted to engage manual override to correct the course back to Acheron-7. Pulled "should we stay the new course or point back to Acheron-7" with 1 die. Rolled a 4: Cold. Judith locked manual override with a safety protocol and refused to say who authorized the lockout.
+Daal alone on the bridge, running the course data for the fourth time. He honored Drive: Control and earned a die. Attempted to engage manual override to correct the course back to Acheron-9. Pulled "should we stay the new course or point back to Acheron-9" with 1 die. Rolled a 4: Cold. Judith locked manual override with a safety protocol and refused to say who authorized the lockout.
 
 - **Dice earned:** 1 (Drive: Control)
 - **Dice spent:** 1
@@ -39,7 +39,7 @@ Daal alone on the bridge, running the course data for the fourth time. He honore
 
 ### Lian's Spotlight (framed by GM)
 
-GM framed: Lian running post-cryo physicals in the med bay. Tariq on the table. Lian spotted a restricted file with Acheron-7 personnel medical records attached to Tariq's file. Her sister's name would be in there. Lian honored Approach: Quiet Observation during the physical exam. Earned a die. Pulled "any clues in the physicals that point to differences in cryo cycles" with 1 die. Rolled a 2: Breaks. Tariq grabbed Lian's wrist, shut down the exam, and on his way out said "Your sister. Jun, right?" He knew Jun's name without being told.
+GM framed: Lian running post-cryo physicals in the med bay. Tariq on the table. Lian spotted a restricted file with Acheron-9 personnel medical records attached to Tariq's file. Her sister's name would be in there. Lian honored Approach: Quiet Observation during the physical exam. Earned a die. Pulled "any clues in the physicals that point to differences in cryo cycles" with 1 die. Rolled a 2: Breaks. Tariq grabbed Lian's wrist, shut down the exam, and on his way out said "Your sister. Jun, right?" He knew Jun's name without being told.
 
 - **Dice earned:** 1 (Approach: Quiet Observation)
 - **Dice spent:** 1
