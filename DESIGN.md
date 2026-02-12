@@ -48,9 +48,7 @@ Ravel tries to do both.
 
 This is exactly what happens in the game. You pull a thread for clarity, and the clarity creates new complications. The fiction becomes more understood and more tangled at the same time. Every answer generates new questions. Every revealed truth complicates something else.
 
-Fray implied an endpoint. Everything wears down, eventually it's gone. Entropy.
-
-Ravel is ongoing. Every untangling is also a tangling. There's no final state. Just deeper and deeper into the weave.
+Every untangling is also a tangling. There's no final state. Just deeper and deeper into the weave.
 
 ---
 
