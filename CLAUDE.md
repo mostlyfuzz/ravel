@@ -4,19 +4,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Ravel is a tabletop RPG ("A Game of Threads") by Mostly Fuzz Studio. The repository currently contains the v1 design document (`README.md`) and no source code, build tooling, or tests.
+Ravel is a tabletop RPG ("A Game of Threads") by Mostly Fuzz Studio. The game is in active development and playtesting.
 
-## Design Document Key Concepts
+## Repository Structure
 
-Ravel's core mechanic is the **Honor → Dice → Pull** economy:
-- **Honor** established fiction (relationships, drives, prior events) to earn dice
-- **Pull threads** by spending dice to discover new fiction
-- Three outcomes: **Clarity** (fiction expands), **Cold** (absence is real), **Breaks** (something gets worse)
-- The GM plays by the same economy as players — no planted mysteries, shared authorship
-- No combat subsystem — fights are scenes resolved through the same thread-pulling engine
-- Campaign persistence through threads (short/mid/long timescales)
-- Character development is emergent and constrained by established fiction, not XP tracks
+- `README.md` - Landing page with cover art, pitch, and links
+- `RULEBOOK.md` - The complete playable rules (the source of truth for game mechanics)
+- `DESIGN.md` - Design philosophy: the TRPG thesis, Fiasco lineage, and the name
+- `looms/` - Prepared scenarios (looms). Currently: The Harrow (sci-fi horror)
+- `playtests/` - Session notes from playtesting
 
-## Repository State
+## Conventions
 
-This is a greenfield project. When code is added, update this file with build commands, architecture, and development workflow.
+- Writing style: avoid excessive em-dashes. Prefer periods, commas, and colons.
+- Game terminology: Honor (earn dice), Pull (spend dice on threads), Clarity/Cold/Breaks (outcomes), Tilt (midpoint), Fractures (accumulated damage), Loom (prepared scenario).
+- The rulebook is the canonical reference for mechanics. DESIGN.md is philosophy only, no rules.
+- Playtest notes capture what happened and what design issues were found. Changes from playtesting go into the rulebook directly.
