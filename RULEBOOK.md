@@ -114,7 +114,7 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 | 2 | 56% | 33% | 11% |
 | 3 | 70% | 26% | 4% |
 
-One die is a genuine gamble. Three dice is playing it safe, but it costs your whole reserve. The choice between spending cautiously and gambling cheap is the heartbeat of the economy.
+One die is a genuine gamble. Three dice is playing it safe, but it's expensive. The choice between spending cautiously and gambling cheap is the heartbeat of the economy.
 
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
 
