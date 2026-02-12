@@ -29,3 +29,5 @@ Every answer creates new questions. Every truth complicates something else. That
 ---
 
 *Ravel is in active development and playtesting. If you play it, we want to hear what happened.*
+
+*Copyright 2026 Mostly Fuzz Studio. All rights reserved.*
