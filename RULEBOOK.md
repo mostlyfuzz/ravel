@@ -268,9 +268,9 @@ Violence is expensive. Not mechanically, but fictionally. It changes things, rev
 
 ---
 
-## Genre Module: Fractures (Horror)
+## Fractures
 
-When playing Ravel in a horror register, characters gain two **fracture tracks**: **Body** and **Mind**. Each track has three marks.
+Breaks have narrative consequences, but some Breaks leave marks that accumulate. Characters have two **fracture tracks**: **Body** and **Mind**. Each track has three marks.
 
 ### Earning Fractures
 
@@ -289,12 +289,12 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 ### Three Fractures
 
 - **Body: Third fracture, you die.** The fiction delivers this through normal delivery rules.
-- **Mind: Third fracture, you unravel.** The character is overtaken by madness, by the thing they saw, by whatever the horror demands. They may still be alive, but they are no longer themselves. The GM takes the character into the NPC pool.
+- **Mind: Third fracture, you unravel.** The character is overtaken by whatever the pressure demands. They may still be alive, but they are no longer themselves. The GM takes the character into the NPC pool.
 
 ### Design Notes for the GM
 
 - Not every Break needs to be a fracture. Breaks on threads about trust, loyalty, or relationships are still just narrative Breaks unless they have clear physical or mental fallout.
-- Fractures should be visible to the table. Track them openly. The dread of watching marks accumulate is part of the horror.
+- Fractures should be visible to the table. Track them openly. Watching marks accumulate creates tension.
 - "Unraveling" (third mental fracture) is not necessarily permanent across sessions. Whether and how a character recovers is a long thread for the table to explore.
 
 ---
@@ -310,7 +310,7 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 7. **The Tilt.** After the first round, a random thread automatically breaks (2 in later sessions)
 8. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
 9. **Between sessions,** evolve one element on your sheet, carry threads forward
-10. **Fractures (horror).** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
+10. **Fractures.** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
 
 Teach in five minutes. The depth comes from play, not from rules.
 

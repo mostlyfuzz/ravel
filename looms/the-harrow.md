@@ -2,7 +2,7 @@
 
 ### A Ravel Loom for 3–4 Players + GM
 
-*Uses the Fractures horror module*
+*A horror loom*
 
 ---
 

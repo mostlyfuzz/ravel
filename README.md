@@ -20,7 +20,7 @@ Every answer creates new questions. Every truth complicates something else. That
 
 **[The Rulebook](RULEBOOK.md)** - Everything you need to play.
 
-**[The Harrow](looms/the-harrow.md)** - A starter scenario. Six crew on a cargo hauler pointed at something that isn't on any chart. Uses the Fractures horror module.
+**[The Harrow](looms/the-harrow.md)** - A starter scenario. Six crew on a cargo hauler. Something changed the course while they slept.
 
 **[Design Notes](DESIGN.md)** - The philosophy behind the game. Why this engine, why these choices.
 
