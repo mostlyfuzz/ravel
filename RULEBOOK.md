@@ -187,38 +187,57 @@ The GM should prepare a few key NPCs before the first session, each with at leas
 
 ---
 
-## The Tilt
+## Episode Structure
 
-After the first round of spotlights (every player has had one scene), the **Tilt** happens.
+A session of Ravel is an **episode**: a self-contained arc with a beginning, a middle, and an end. The same honor/earn/pull engine runs through every phase, but the session's shape ensures that play finds a focus and drives it to resolution.
 
-The Tilt is where the game guarantees conflict. During normal play, spending more dice pushes you toward Clarity and away from Breaks. The Tilt takes that safety away.
+Episodes have five phases:
 
-### How It Works
+### Cold Open: Positioning
 
-1. Gather all the threads currently in play.
-2. Randomly select **1 thread**.
-3. That thread **automatically breaks**. No roll. No spending dice. It just snaps.
-4. The table narrates the fallout using the normal delivery rules.
+No scenes yet. Each player answers three questions about their character: **Where are you? What are you doing? Why?**
 
-The randomness matters. Nobody chose this, nobody targeted anyone. It just happened. The fiction cracked under its own weight.
+This is honoring territory. The answers plant your character in the fiction and begin earning dice. Somewhere in these answers, tensions hide. Characters being who they are plants bombs nobody sees yet.
 
-In later sessions, as the thread web thickens, the GM may increase the Tilt to 2 breaks. The Tilt should create a crack, not a collapse. One break is enough to reshape the back half of a session.
+In later sessions, this is also where you review the thread state and locate yourself in the space.
 
-### After the Tilt
+### Act One: Establishment
 
-Play continues with a second round of spotlight scenes. The landscape has shifted. Threads that were simmering have snapped. New questions have emerged from the wreckage. The back half of the session is shaped by what the Tilt broke.
+Three scenes. The table plays freely: framing scenes, honoring elements, earning dice, pulling threads. Follow the energy, but nothing is locked. Play explores the characters' situations.
+
+By the end of Act One, the table identifies the **bomb**: the specific tension this episode is about. The bomb isn't planned. It emerges from what the characters have done and what the threads have revealed. At the end of Act One, the table names it explicitly. "This episode is about X." That's the commitment. You've chosen your slide.
+
+### Act Two: The Slide
+
+The bomb gets pressure-tested. Scenes in Act Two orbit the bomb. The GM's job is collaborative escalation: as scenes play, the GM asks what could go wrong, then pushes further. Characters are forced to make choices under pressure.
+
+This is the richest honoring territory in the session. Your elements are under stress. You're playing them hard. Dice accumulate.
+
+Meanwhile, a second thread (the **echo**) develops. It's thematically adjacent to the bomb but logically independent. The table watches for the moment when the echo and the bomb collide. That collision is the **detonation**: the point where escalation has nowhere left to go.
+
+Pulling is not forbidden during the Slide, but the structure naturally discourages it. The fiction is escalating so fast that pulling would slow the momentum. The slide wants to keep sliding.
+
+### Act Three: Aftermath
+
+The detonation did the heavy lifting. Now spend those dice. Pull threads. Find out what's true, what went cold, what broke.
+
+Clarity feeds discovery. Cold threads persist. Breaks leave marks. This phase moves fast because the pressure has already been built. You're reading the wreckage.
+
+### Tag: Breath
+
+One last moment. A callback, a final honoring, the exhale. No pulling. Just character texture after the dust settles.
+
+For campaigns, threads that went cold or transformed persist into the next episode's positioning. The long fuse keeps burning.
 
 ---
 
-## Session Structure
+## Session Shape at a Glance
 
-A session of Ravel follows this shape:
-
-1. **Setup** (first session) or **Recap** (subsequent sessions). Establish characters and connections, or review the thread state from last time. In the first session, each player places their character in the opening situation: where they are and what they're doing. This serves as an introduction. In later sessions, players locate themselves in the space before scene construction begins.
-2. **First Round.** Spotlight rotates. Each player gets a scene. Honoring, earning, and pulling happen naturally.
-3. **The Tilt.** Random threads break. The fiction shifts.
-4. **Second Round.** Spotlight rotates again. Play in the aftermath of the Tilt.
-5. **Close.** End the session. Note which threads are hot, which went cold, what new threads exist, and what broke. That's your campaign state.
+1. **Cold Open.** Position your characters. Earn dice through honoring.
+2. **Act One.** Three scenes. Explore freely. By the end, the table names the bomb.
+3. **Act Two.** The Slide. Escalation, pressure, choices. Dice pile up. The echo collides with the bomb.
+4. **Act Three.** Aftermath. Spend dice. Pull threads. Resolve, transform, or go cold.
+5. **Tag.** One breath. Then carry the threads forward.
 
 ---
 
@@ -278,7 +297,7 @@ When a thread connected to physical consequences results in a **Break**, the aff
 
 The table validates whether a Break is physical, mental, or neither, using the same default-yes convention as honoring. Most of the time the fiction makes it obvious.
 
-Fractures earned during **the Tilt** follow the same rules. Random thread breaks that carry physical or mental consequences mark fractures on the relevant characters. This means the Tilt can wound or kill without anyone choosing it, the fiction cracking under its own weight.
+Fractures can come from any Break, including those that emerge during the Slide's escalation or the Aftermath's thread pulls. The fiction doesn't distinguish between pressure you chose and pressure that found you.
 
 ### Remedying Fractures
 
@@ -303,11 +322,11 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 
 1. **Create** a character: Drive, Approach, Belief, Memory, 2–3 Relationships
 2. **Connect** to other characters through people, places, objects, or events
-3. **Scenes** rotate by spotlight. Frame your scene or let the table frame it
-4. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
-5. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
-6. **Deliver.** The person the thread is about narrates the outcome
-7. **The Tilt.** After the first round, a random thread automatically breaks (2 in later sessions)
+3. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
+4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
+5. **Deliver.** The person the thread is about narrates the outcome
+6. **Episodes.** Cold Open (position) → Act One (explore, name the bomb) → Act Two (escalate, collide) → Act Three (pull, resolve) → Tag (breathe)
+7. **Scenes.** Frame your scene or let the table frame it
 8. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
 9. **Between sessions,** evolve one element on your sheet, carry threads forward
 10. **Fractures.** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
