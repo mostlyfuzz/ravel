@@ -135,7 +135,7 @@ Youngest crew member, first deep-space contract. Lian is the closest thing to a 
 
 **For the first session,** the short threads provide immediate traction. Don't force them. Let the crew wake up, discover the course change, and start pulling. The paranoia will build itself.
 
-**For the Tilt,** lean toward 2 breaks in the first session. This crew is already under pressure; two random snaps will push them toward genuine crisis without overwhelming the fiction.
+**For the Slide,** this crew is already under pressure. The bomb will likely emerge from the web of secrets (Tariq's knowledge, Fen's discovery, Judith's behavior). Let the Cold Open and Act One reveal where the energy is. Don't force a bomb. It will find you.
 
 **On the threat:** This loom doesn't define what the horror *is*. Is it something on Acheron-9 that's reaching out? Is it Meridian's agenda? Is it something in the walls? Is it the crew turning on each other under pressure? Let the thread pulls answer that question. The best horror in Ravel will be the horror the table discovers together, not the horror you planned.
 

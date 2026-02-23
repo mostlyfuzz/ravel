@@ -116,6 +116,8 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 
 One die is a genuine gamble. Three dice is playing it safe, but it's expensive. The choice between spending cautiously and gambling cheap is the heartbeat of the economy.
 
+**Thread branching.** When a pull resolves a thread, the answer often raises more specific questions. The parent thread is resolved, and the new questions become its children. "What does Tariq know?" might resolve into "What did Jun find?" and "Why does it have to be Lian?" The fiction gets more precise as threads branch. A parent thread is done when its children are answered, or when a pull resolves it directly.
+
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
 
 ---
@@ -203,7 +205,7 @@ In later sessions, this is also where you review the thread state and locate you
 
 ### Act One: Establishment
 
-Three scenes. The table plays freely: framing scenes, honoring elements, earning dice, pulling threads. Follow the energy, but nothing is locked. Play explores the characters' situations.
+A few scenes. The table plays freely: framing scenes, honoring elements, earning dice, pulling threads. Follow the energy, but nothing is locked. Play explores the characters' situations. The table identifies which character's situation holds the most tension. That character's player frames the first scene.
 
 By the end of Act One, the table identifies the **bomb**: the specific tension this episode is about. The bomb isn't planned. It emerges from what the characters have done and what the threads have revealed. At the end of Act One, the table names it explicitly. "This episode is about X." That's the commitment. You've chosen your slide.
 
@@ -213,15 +215,17 @@ The bomb gets pressure-tested. Scenes in Act Two orbit the bomb. The GM's job is
 
 This is the richest honoring territory in the session. Your elements are under stress. You're playing them hard. Dice accumulate.
 
+During the Slide, the frame-or-pull tradeoff relaxes. The bomb is the table's shared focus. Anyone in the scene can pull. The structure wants momentum, not gatekeeping.
+
 Meanwhile, a second thread (the **echo**) develops. It's thematically adjacent to the bomb but logically independent. The table watches for the moment when the echo and the bomb collide. That collision is the **detonation**: the point where escalation has nowhere left to go.
 
-Pulling is not forbidden during the Slide, but the structure naturally discourages it. The fiction is escalating so fast that pulling would slow the momentum. The slide wants to keep sliding.
+The Slide has three beats: the bomb escalates, the echo develops, then they collide. That's the shape, not a fixed scene count.
 
 ### Act Three: Aftermath
 
 The detonation did the heavy lifting. Now spend those dice. Pull threads. Find out what's true, what went cold, what broke.
 
-Clarity feeds discovery. Cold threads persist. Breaks leave marks. This phase moves fast because the pressure has already been built. You're reading the wreckage.
+Clarity feeds discovery. Cold threads persist. Breaks leave marks. This phase moves fast because the pressure has already been built. You're reading the wreckage. The Aftermath can be pure pulls with minimal roleplay scaffolding. The fiction already did the work.
 
 ### Tag: Breath
 
@@ -234,7 +238,7 @@ For campaigns, threads that went cold or transformed persist into the next episo
 ## Session Shape at a Glance
 
 1. **Cold Open.** Position your characters. Earn dice through honoring.
-2. **Act One.** Three scenes. Explore freely. By the end, the table names the bomb.
+2. **Act One.** A few scenes. Explore freely. By the end, the table names the bomb.
 3. **Act Two.** The Slide. Escalation, pressure, choices. Dice pile up. The echo collides with the bomb.
 4. **Act Three.** Aftermath. Spend dice. Pull threads. Resolve, transform, or go cold.
 5. **Tag.** One breath. Then carry the threads forward.
