@@ -137,6 +137,14 @@ Two episodes in and thread 7 (Why was Osei forced onto this crew?) hasn't been e
 - The bomb emerged clearly from three scenes without forcing it.
 - Thread branching continues to give the fiction precision as it deepens.
 
+## Design Finding: Delivery Protects Agency Across Characters
+
+When Maren's pull affected Lian (the partition attack caused a nosebleed), the GM narrated the effect on Lian. This felt fine in the moment but technically broke the delivery rule: "the person the thread is about narrates the outcome." Lian's player should have decided what the damage looked like.
+
+At a full table with separate players on Maren and Lian, this matters more. One player's action affecting another player's character is exactly the situation the delivery rule was designed for. The rule already handles cross-character agency. We just need to follow it, even when the fiction is moving fast.
+
+This also clarifies a broader principle: **anyone can add pressure to any character, but only the player decides how their character responds.** The world has teeth. The GM and other players can put your character in danger, show them information, or affect their body through pull outcomes. But the character's reaction, their choices, their internal state, belongs to their player.
+
 ## Echo Candidates for Act Two
 
 When we resume, the echo needs to develop alongside the bomb (Lian is the partition). Candidates:
