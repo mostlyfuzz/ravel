@@ -90,7 +90,7 @@ Validation is lightweight. The default is *yes*. You earn the die unless someone
 
 A thread is an unresolved question, tension, or connection in the fiction. "Why does Sonia hate me?" "What happened at the factory?" "Can I trust Peter with this?"
 
-If your character already knows it or feels it, just play it. If you're asking the fiction to answer something, that's a thread. You don't need permission to look. You just have to live with what you found.
+If your character already knows it or feels it, just play it. If you're asking the fiction to answer something, that's a thread. You don't need permission to look. You just have to live with what you found. Pulling doesn't have to be a question asked out loud. An action that tests the fiction counts: attacking a system to see if it's connected to someone, opening a door to see what's behind it, trusting someone to see if they betray you.
 
 Threads point outward. You honor yourself to earn dice. You pull on other characters, the world, and the situation to spend them.
 
@@ -139,7 +139,7 @@ This is the core tradeoff: **you never control both the situation and the invest
 
 Once the scene is framed, name the threads that are live in it. "The threads on the table for this scene are..." This gives the whole table focus and makes it clear what's available to pull. New threads can still emerge during play, but starting with named ones keeps everyone oriented.
 
-Then play. Roleplay the characters, honor elements, earn dice, and when the moment is right, pull threads. Multiple pulls can happen in a single scene if the fiction supports it.
+Then play. Roleplay the characters, honor elements, earn dice, and when the moment is right, pull threads. Multiple pulls can happen in a single scene if the fiction supports it. A scene with no pulls is also fine. Sometimes the fiction is more powerful when a question sits unanswered.
 
 ### Ending a Scene
 
