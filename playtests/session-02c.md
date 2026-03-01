@@ -42,36 +42,32 @@ The lights came back section by section. Engines restarted. In the shuttle bay, 
 
 ## Thread State at End of Episode 2
 
+### Resolved / Retired
+- 1: Who changed the course? → Tariq, using Jun's coordinates
+- 1.1, 1.2: Blank credentials / who was at the console → implicitly answered (partition/Judith)
+- 2.1: Why didn't Judith flag the transmission? → absorbed into 3.3 (whose side is Judith on)
+- 2.3: What does "tell Lian" mean? → **Breaks**: message was for Fen, not Lian
+- 3: Why is Judith glitching? → partition (Clarity, ep1)
+- 5: What does Tariq know? → Jun contacted him (Clarity, ep1)
+- 5.2.1: Why does Jun's model match Lian's biology? → Lian is the interface (Clarity, ep1)
+- 5.2.1.1: What is on the other end of the bridge? → thousands of near-human organisms (Clarity, ep2)
+- 5.2.1.3: What happens if the partition is disrupted? → Cold, functionally answered: it adapts and hurts Lian
+- 5.3: What is at the deviation point? → organic web structure (Clarity, ep2)
+- 5.4: Why did Jun hide the model inside Judith? → absorbed into 5.2.1.2 (Jun's intent)
+
+### Active Threads (10/12)
 | # | Thread | Status |
 |---|--------|--------|
-| 1 | ~~Who changed the ship's course?~~ | Partially resolved (Tariq, using Jun's coordinates) |
-| 1.1 | Why were the authorization credentials blank? | Open |
-| 1.2 | Who was at the bridge console during cryo? | Open |
-| 2.1 | Why didn't Judith flag the transmission? | Open |
 | 2.2 | Who is speaking on the recording? | Cold (x2) |
-| 2.3 | ~~What does "tell Lian" mean?~~ | **Breaks**: message was for Fen, not Lian |
-| 3 | ~~Why is Judith glitching?~~ | Resolved (Clarity, ep1): partition |
+| 2.3.1 | What does the web want from Fen? | Open |
 | 3.3 | Whose side is Judith on? | Open |
 | 4 | What happened on Acheron-9? | Open |
-| 5 | ~~What does Tariq know?~~ | Resolved (Clarity, ep1) |
-| 5.1 | What did Jun find in the deep survey data? | Open (deepening) |
-| 5.2 | Why does it have to be Lian? | Open (deepening) |
-| 5.2.1 | ~~Why does Jun's model match Lian's biology?~~ | Resolved (Clarity, ep1): Lian is the interface |
-| 5.2.1.1 | ~~What is on the other end of the bridge?~~ | Resolved (Clarity): thousands of near-human organisms |
-| 5.2.1.2 | Did Jun do this to Lian knowingly? | Open |
-| 5.2.1.3 | What happens to Lian if the partition is disrupted? | Cold: partition adapts, follows her down |
-| 5.3 | ~~What is at the deviation point?~~ | Resolved (Clarity): organic web structure, ancient, grown |
-| 5.3.1 | What is alive at the deviation point? | Resolved (via 5.2.1.1): near-human organisms |
-| 5.4 | Why did Jun hide the model inside Judith? | Open |
-| 6 | What went wrong between Maren and Daal? | Open |
-| 7 | Why was Osei forced onto this crew? | Open |
-
-### New threads from episode 2:
-| # | Thread | Status |
-|---|--------|--------|
-| 2.3.1 | What does the web want from Fen? | Open |
+| 5.1 | What did Jun find in the deep survey data? | Open |
+| 5.2 | Why this crew? | Open (evolved) |
+| 5.2.1.2 | Did Jun do this knowingly? | Open |
 | 5.2.1.4 | What happens when the Harrow arrives at the web? | Open |
-| 5.2.1.5 | Is the "conversation" in Lian's neural monitor benign or hostile? | Open |
+| 5.2.1.5 | Is the conversation benign or hostile? | Open |
+| 6 | What went wrong between Maren and Daal? | Open |
 
 ## Dice at End
 
@@ -101,6 +97,10 @@ Maren saved Lian's cryo by rerouting shuttle power. This was the right call and 
 
 We discussed mid-session whether the Slide is doing mechanical work or just naming a pattern. Conclusion: the vocabulary is the contribution. "That's the echo" and "I think we're approaching the collision" are things a table can say to each other that orient play. The Slide doesn't need special rules. It needs the words.
 
+### 6. Thread Limit Keeps the Fiction Dense
+
+Post-session thread consolidation trimmed 15 threads down to 10. Several were implicitly answered by the fiction, others absorbed into broader threads, one (Osei) was dormant for three episodes. A 12-thread limit forces the table to stay focused: drop what's answered, absorb what's redundant, let go of what's dormant. Threads can also evolve: "Why does it have to be Lian?" became "Why this crew?" as the fiction revealed the web reached for Fen too.
+
 ---
 
 ## What Worked
@@ -117,5 +117,5 @@ We discussed mid-session whether the Slide is doing mechanical work or just nami
 - Does Fen have a Fracture from the Break? The table didn't validate in the moment.
 - Lian is still in cryo. Does she come out? Can she?
 - Daal has a live shuttle (hatch open) and 1 die. He stayed. Will he keep staying?
-- Osei and thread 7 remain completely untouched. Three episodes in.
+- Osei is present but unengaged. Thread 7 was dropped, but "Why this crew?" could bring them back.
 - The web is four days away. Does episode 3 arrive, or is there an episode before arrival?

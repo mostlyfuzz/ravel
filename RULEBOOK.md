@@ -118,6 +118,8 @@ One die is a genuine gamble. Three dice is playing it safe, but it's expensive. 
 
 **Thread branching.** When a pull resolves a thread, the answer often raises more specific questions. The parent thread is resolved, and the new questions become its children. "What does Tariq know?" might resolve into "What did Jun find?" and "Why does it have to be Lian?" The fiction gets more precise as threads branch. A parent thread is done when its children are answered, or when a pull resolves it directly.
 
+**Thread limit.** Keep no more than **12 active threads** on the board. When the fiction generates new threads beyond 12, the table decides what to drop, absorb, or let go cold. Threads answered implicitly by the fiction can be retired without a pull. Threads that no longer interest the table can be dropped. The limit keeps the fiction dense and focused. If everything is a question, nothing is.
+
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
 
 ---
