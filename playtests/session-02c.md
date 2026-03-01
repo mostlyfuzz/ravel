@@ -112,6 +112,14 @@ Post-session thread consolidation trimmed 15 threads down to 10. Several were im
 - The Tag gave each character a closing image that sets up episode 3
 - The Aftermath was fast: four pulls, done
 
+### 7. The GM Is a Default, Not a Role (v0.3 candidate)
+
+Across all sessions, the GM role has been fluid. Both players frame scenes, escalate fiction, and deliver outcomes. The baton passes constantly, sometimes within a single exchange. GM dice have been unused and unnecessary across three sessions. The GM's value is as the default baton holder: the person who picks up the fiction when nobody else does, who watches the thread web, who notices what's dormant. But the creative work of framing, escalating, and delivering is shared.
+
+For v0.3: soften "the GM does X" to "someone at the table does X, usually the GM." Drop the GM dice pool. Encourage multiple people to hold the baton. The episode structure already supports this: the bomb is named by the table, escalation is collaborative, delivery is distributed by rule. One step toward GMless without removing the safety net of a default holder.
+
+---
+
 ## Open Questions for Episode 3
 
 - Does Fen have a Fracture from the Break? The table didn't validate in the moment.
