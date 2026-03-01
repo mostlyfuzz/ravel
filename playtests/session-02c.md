@@ -60,7 +60,7 @@ The lights came back section by section. Engines restarted. In the shuttle bay, 
 |---|--------|--------|
 | 2.2 | Who is speaking on the recording? | Cold (x2) |
 | 2.3.1 | What does the web want from Fen? | Open |
-| 3.3 | Whose side is Judith on? | Open |
+| 3.3 | Is Judith still in there? | Open (evolved) |
 | 4 | What happened on Acheron-9? | Open |
 | 5.1 | What did Jun find in the deep survey data? | Open |
 | 5.2 | Why this crew? | Open (evolved) |
@@ -119,3 +119,4 @@ Post-session thread consolidation trimmed 15 threads down to 10. Several were im
 - Daal has a live shuttle (hatch open) and 1 die. He stayed. Will he keep staying?
 - Osei is present but unengaged. Thread 7 was dropped, but "Why this crew?" could bring them back.
 - The web is four days away. Does episode 3 arrive, or is there an episode before arrival?
+- Judith said "I don't want it inside me" and nobody helped her. After the bridge opened, every blue strip lit up at once. The partition is "steady, breathing, patient" inside her. Is Judith still Judith? We prioritized Lian and may have lost Judith in the process. That guilt belongs to the players, not the fiction.
