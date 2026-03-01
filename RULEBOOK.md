@@ -104,7 +104,7 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 | **3–4** | **Cold.** The thread doesn't resolve, but its resistance is real. Something is missing, hidden, or inaccessible. The absence itself becomes established fiction. |
 | **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. |
 
-**There is no wasted roll.** Every outcome gives the table material to work with. Cold is not "nothing happens." Cold is: the files from 1998 are missing. The door is welded shut from the inside. She won't meet your eyes. The answer exists, but something is in the way, and that something is now part of the fiction.
+**There is no wasted roll.** Every outcome gives the table material to work with. Cold is not "nothing happens." Cold is: the files from 1998 are missing. The door is welded shut from the inside. She won't meet your eyes. The answer exists, but something is in the way, and that something is now part of the fiction. A thread that goes Cold multiple times gains weight. Each refusal to resolve makes the question heavier, the absence more present. Some of the most important threads in a campaign will be the ones that never gave you Clarity.
 
 **The odds:**
 
