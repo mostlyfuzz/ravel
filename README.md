@@ -12,7 +12,7 @@
 
 Ravel is a tabletop RPG where the fiction is the engine. There are no hit points, no skill lists, no combat rounds. You play characters connected by relationships, secrets, and unresolved questions. You earn dice by honoring what's been established about your character. You spend dice to pull on threads and discover what's true.
 
-Every answer creates new questions. Every truth complicates something else. That's the game.
+Every answer creates new questions. Every truth complicates something else. Sessions play like episodes: the table finds the tension, the structure drives it to resolution.
 
 **3-4 players + GM. Six-sided dice. Fits on an index card.**
 
