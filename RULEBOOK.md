@@ -96,6 +96,12 @@ Threads point outward. You honor yourself to earn dice. You pull on other charac
 
 **Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
 
+**Manifestation.** You can show the thread pressure bleeding through your character. Look at what's unresolved around them. Ask what that pressure would look like if it leaked: through their body, their habits, their words, their choices. Show it. Your character doesn't need to know it's happening. Don't answer any thread. Just make the weight visible.
+
+Manifestation costs no dice and resolves nothing. It's not a pull. It deepens the fiction without narrowing it. The loom's pressure palette (if the loom has one) suggests what this looks like in the genre you're playing. In horror, it might be a body doing something its owner doesn't notice. In noir, it might be cruelty toward someone you love. In a political thriller, it might be a decision your character would never have made two sessions ago.
+
+Each episode should have at least one manifestation, ideally two: one during Act One or the Slide, and one during the Slide or the collision. Each player gets one manifestation. Once you've used yours, you wait until every player has manifested before you can manifest again. The pressure moves through the cast. Nobody carries it twice until everyone has carried it once.
+
 When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
 
 | Roll | Outcome |
@@ -333,9 +339,10 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 5. **Deliver.** The person the thread is about narrates the outcome
 6. **Episodes.** Cold Open (position) → Act One (explore, name the bomb) → Act Two (escalate, collide) → Act Three (pull, resolve) → Tag (breathe)
 7. **Scenes.** Frame your scene or let the table frame it
-8. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
-9. **Between sessions,** evolve one element on your sheet, carry threads forward
-10. **Fractures.** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
+8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
+9. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
+10. **Between sessions,** evolve one element on your sheet, carry threads forward
+11. **Fractures.** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
 
 Teach in five minutes. The depth comes from play, not from rules.
 
