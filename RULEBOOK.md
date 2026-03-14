@@ -100,7 +100,7 @@ Threads point outward. You honor yourself to earn dice. You pull on other charac
 
 Manifestation costs no dice and resolves nothing. It's not a pull. It deepens the fiction without narrowing it. The loom's pressure palette (if the loom has one) suggests what this looks like in the genre you're playing. In horror, it might be a body doing something its owner doesn't notice. In noir, it might be cruelty toward someone you love. In a political thriller, it might be a decision your character would never have made two sessions ago.
 
-Each episode should have at least one manifestation, ideally two: one during Act One or the Slide, and one during the Slide or the collision. Each player gets one manifestation. Once you've used yours, you wait until every player has manifested before you can manifest again. The pressure moves through the cast. Nobody carries it twice until everyone has carried it once.
+Each player gets one manifestation per episode. The bomb scene is always open: anyone can manifest during the collision or detonation regardless of whether they've already used theirs. That moment is the climax. The pressure peaks. Everyone should be present in it.
 
 When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
 
