@@ -207,37 +207,47 @@ Episodes have five phases:
 
 No scenes yet. Each player answers three questions about their character: **Where are you? What are you doing? Why?**
 
-This is honoring territory. The answers plant your character in the fiction and begin earning dice. Somewhere in these answers, tensions hide. Characters being who they are plants bombs nobody sees yet.
+This is honoring territory. Every character must honor at least one element before the Cold Open closes. The answers plant your character in the fiction and begin earning dice. Somewhere in these answers, tensions hide. Characters being who they are plants bombs nobody sees yet.
 
 In later sessions, this is also where you review the thread state and locate yourself in the space.
 
 ### Act One: Establishment
 
-A few scenes. The table plays freely: framing scenes, honoring elements, earning dice, pulling threads. Follow the energy, but nothing is locked. Play explores the characters' situations. The table identifies which character's situation holds the most tension. That character's player frames the first scene.
+A few scenes. The table plays freely: framing scenes, honoring elements, earning dice, pulling threads. Follow the energy, but nothing is locked. Every scene in Act One should open or branch at least one thread: deepen a question, make something more specific, find what's underneath. This is proliferation. The table is building the web, not resolving it.
+
+Every character must honor before a scene closes. If a scene wants to close and someone hasn't honored, the table asks: "Did you honor?" If not, they do, or they say how they already did.
 
 By the end of Act One, the table identifies the **bomb**: the specific tension this episode is about. The bomb isn't planned. It emerges from what the characters have done and what the threads have revealed. At the end of Act One, the table names it explicitly. "This episode is about X." That's the commitment. You've chosen your slide.
 
 ### Act Two: The Slide
 
-The bomb gets pressure-tested. Scenes in Act Two orbit the bomb. The GM's job is collaborative escalation: as scenes play, the GM asks what could go wrong, then pushes further. Characters are forced to make choices under pressure.
-
-This is the richest honoring territory in the session. Your elements are under stress. You're playing them hard. Dice accumulate.
-
-During the Slide, the frame-or-pull tradeoff relaxes. The bomb is the table's shared focus. Anyone in the scene can pull. The structure wants momentum, not gatekeeping.
+The bomb gets pressure-tested. Scenes in Act Two orbit the bomb. Honor and pull in every scene. Anyone in the scene can pull: the frame-or-pull tradeoff relaxes here. The structure wants momentum, not gatekeeping. Dice accumulate.
 
 Meanwhile, a second thread (the **echo**) develops. It's thematically adjacent to the bomb but logically independent. The table watches for the moment when the echo and the bomb collide. That collision is the **detonation**: the point where escalation has nowhere left to go.
 
+Before the detonation, at least one player must manifest. The pressure should be visible in the cast before it peaks.
+
 The Slide has three beats: the bomb escalates, the echo develops, then they collide. That's the shape, not a fixed scene count.
+
+### The Bomb Scene
+
+The moment the bomb is named, one thread fractures. A situation gets worse in a way nobody can prevent or spend dice to stop. No roll. No cost. The fiction simply cracks open in a specific, traceable place. Anyone at the table can name the fracture. If nobody does, the GM does.
+
+This is not the detonation. The bomb scene pushes everyone to the edge. The detonation is the fall.
+
+### The Detonation
+
+The echo and the bomb collide. The bomb scene is always open for manifestation: anyone can manifest here regardless of whether they've already used theirs. This is the climax. The pressure peaks. Everyone should be present in it.
 
 ### Act Three: Aftermath
 
-The detonation did the heavy lifting. Now spend those dice. Pull threads. Find out what's true, what went cold, what broke.
+The detonation did the heavy lifting. Now spend those dice. Pulls only. Find out what's true, what went cold, what broke. No new threads, no escalation. Just read the wreckage.
 
-Clarity feeds discovery. Cold threads persist. Breaks leave marks. This phase moves fast because the pressure has already been built. You're reading the wreckage. The Aftermath can be pure pulls with minimal roleplay scaffolding. The fiction already did the work.
+Clarity feeds discovery. Cold threads persist. Breaks leave marks. The Aftermath moves fast because the pressure has already been built.
 
 ### Tag: Breath
 
-One last moment. A callback, a final honoring, the exhale. No pulling. Just character texture after the dust settles.
+One last moment. Something is different than it was: a thread evolves, a character shifts, a question changes shape. This is the cliffhanger, not the exhale. Plant the fuse for next episode.
 
 For campaigns, threads that went cold or transformed persist into the next episode's positioning. The long fuse keeps burning.
 
@@ -245,11 +255,13 @@ For campaigns, threads that went cold or transformed persist into the next episo
 
 ## Session Shape at a Glance
 
-1. **Cold Open.** Position your characters. Earn dice through honoring.
-2. **Act One.** A few scenes. Explore freely. By the end, the table names the bomb.
-3. **Act Two.** The Slide. Escalation, pressure, choices. Dice pile up. The echo collides with the bomb.
-4. **Act Three.** Aftermath. Spend dice. Pull threads. Resolve, transform, or go cold.
-5. **Tag.** One breath. Then carry the threads forward.
+1. **Cold Open.** Position your characters. Every character honors at least once.
+2. **Act One.** Explore and proliferate. Every scene opens or branches a thread. Every character honors before the scene closes. Name the bomb.
+3. **Act Two.** The Slide. Honor and pull every scene. The echo develops. At least one manifestation before the detonation.
+4. **Bomb scene.** One thread fractures. No dice, no prevention. The edge.
+5. **Detonation.** The echo and the bomb collide. Manifestation is always open here.
+6. **Act Three.** Aftermath. Pulls only. Spend what you have. Read the wreckage.
+7. **Tag.** One twist. Something is different. Plant the fuse.
 
 ---
 
@@ -337,7 +349,7 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 3. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
 4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
 5. **Deliver.** The person the thread is about narrates the outcome
-6. **Episodes.** Cold Open (position) → Act One (explore, name the bomb) → Act Two (escalate, collide) → Act Three (pull, resolve) → Tag (breathe)
+6. **Episodes.** Cold Open (honor) → Act One (proliferate, name the bomb) → Act Two (honor + pull, manifest before detonation) → Bomb scene (one thread fractures) → Detonation → Act Three (pulls only) → Tag (one twist)
 7. **Scenes.** Frame your scene or let the table frame it
 8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
 9. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
