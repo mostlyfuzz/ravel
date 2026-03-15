@@ -1,20 +1,67 @@
-# Playtest Session 2c: The Harrow (Episode 2, Act Two + Act Three + Tag)
+# Playtest Session 3: The Harrow (Episode 2, Complete)
 
-**Date:** 2026-03-01
+**Dates:** 2026-02-27 (Cold Open + Act One) / 2026-03-01 (Act Two + Act Three + Tag)
 **Loom:** The Harrow
-**Structure:** Episode structure (continuation of session 2b)
+**Structure:** Episode structure (second test)
 **Players:** 2, each playing 2 characters
 **Player 1:** Maren Voss, Lian Zhao
 **Player 2 (GM):** Daal Eriksen, Fen Nakamura
 **NPCs:** Tariq Aslan, Osei Adjei
+**Note:** Episode played across two real-world sittings. Paused at end of Act One.
 
 ---
 
-## Recap
+## Threads Carried Forward from Episode 1
 
-Episode paused at end of Act One in session 2b. The bomb was named: **Lian is the partition.** Jun built a bridge into her sister's nervous system. The partition is distributed across Judith's hardware and connected to Lian's biology. Daal was prepping a shuttle escape. Maren proved that attacking the partition hurts Lian.
+- 1: Who changed the ship's course? (partially answered: Tariq, using Jun's coordinates)
+- 1.1: Why were the authorization credentials blank?
+- 1.2: Who was at the bridge console during cryo?
+- 2.1: Why didn't Judith flag the transmission?
+- 2.2: Who is speaking on the recording? (Cold)
+- 2.3: What does "tell Lian" mean?
+- 4: What happened on Acheron-9?
+- 5.1: What did Jun find in the deep survey data?
+- 5.2: Why does it have to be Lian?
+- 5.2.1: Why does Jun's model match Lian's biology?
+- 5.3: What is at the deviation point?
+- 5.3.1: What is alive at the deviation point?
+- 5.4: Why did Jun hide the model inside Judith?
+- 6: What went wrong between Maren and Daal?
+- 7: Why was Osei forced onto this crew?
+
+---
 
 ## What Happened
+
+### Cold Open: Positioning
+
+A few days have passed since episode 1's revelations.
+
+- **Lian:** In the dining room following command meal protocols. But she's staring at the wall, pensive, tray untouched. The rules brought her here. Her mind is somewhere else. [Honored Belief: Follow the rules. Pool: 1]
+- **Fen:** In Maren's systems room (asked permission this time). Headphones on, running the Acheron-9 transmission through more filters. Hasn't spoken to Lian since the med bay. Judith's hologram watches silently. [Honored Drive: Curiosity. Pool: 1]
+- **Maren:** In the data center, under the racks, tracing physical connections rack by rack. The partition shows up on diagnostics but can't be localized to any single node. It's distributed across Judith's entire substrate. [Honored Approach: Meticulous. Pool: 1. Honored Belief: Machines are honest. Pool: 2]
+- **Daal:** On the bridge, nav screen off. Running EVA shuttle pre-flight checks. Range, fuel, life support. If the Harrow won't change course, the shuttle will. [Honored Drive: Control. Pool: 1]
+
+Table identified Daal's energy as hottest: he's planning to leave.
+
+### Act One: Establishment
+
+**Scene A (Daal frames):** Daal ran shuttle diagnostics. Judith informed him the shuttle pre-flight requires mission director authorization. Then unprompted: "The shuttle's physical ignition system can be accessed from the shuttle bay. It does not require software authorization." Judith is helping Daal bypass Tariq's lock. New thread: 3.3 (Whose side is Judith on?). Meanwhile, Maren in the data center saw a shuttle diagnostic query scroll past in the log stream. Pulled on whether she notices Daal's activity, 2 dice: 2, 4. **Cold.** She saw the query but dismissed it as routine. The absence: she knows someone ran a shuttle diagnostic but not who or why. [Daal honored Drive: Control, pool: 2. Maren honored Belief: Machines are honest, pool after pull: 1]
+
+**Scene B (Fen frames):** Fen found Lian in the dining room. Sat with her. Apologized for not coming to find her after the med bay. Lian, as if shocked back to protocol, started eating mashed potatoes while maintaining unbroken eye contact with Fen. Then: Lian's left pupil drifted independently to the outer edge of her eyeball. Lian was unaware. Fen pointed it out. Lian's neck contorted in an impossible direction, following the pupil, while continuing to eat and stare. Fen called for Judith. Judith: "Doctor Zhao's vitals are within normal parameters." Fen backed out of the room. No pull. The horror sat unanswered. [Lian honored Belief: Follow the rules, pool: 2. Honored Approach: Quiet observation, pool: 3. Fen honored Relationship: Lian, pool: 2]
+
+**Scene C (Table frames for Maren):** The partition's resource usage spiked after being dormant for days. Maren cross-referenced: Lian's neural activity readout was climbing on the same curve. Maren went to the dining room. Found Lian looking normal, except not blinking. Mashed potato smeared on the wall. Spoon on the floor. Lian: "Hi Maren. I think I fell asleep." Maren launched a coordinated attack on the partition as a deliberate diagnostic. Pulled on 5.2.1 (why does Jun's model match Lian's biology?), 2 dice: 5, 4. **Clarity.** When the partition was attacked, Lian flinched. Her nose bled. The curves moved in lockstep. The partition isn't just modeled on Lian's biology. It's running on it. Lian is the interface. Jun built a bridge between whatever is at the deviation point and her sister's nervous system. Active since hour 504.
+
+Thread 5.2.1 resolved with Clarity, branched:
+- 5.2.1.1: What is on the other end of the bridge?
+- 5.2.1.2: Did Jun do this to Lian knowingly?
+- 5.2.1.3: What happens to Lian if the partition is destroyed?
+
+### Bomb Named
+
+**The bomb: Lian is the partition.** Jun built a bridge into her sister's nervous system. The partition is distributed across Judith's hardware and connected to Lian's biology. Daal is prepping to leave. Maren proved that attacking the partition hurts Lian. Nobody has asked Lian what she wants.
+
+---
 
 ### Act Two: The Slide
 
@@ -77,29 +124,61 @@ All pools at 0 except Daal: 1.
 
 ## Design Findings
 
-### 1. The Structure Internalizes Fast
+### 1. Scenes Without Pulls Are Valid and Powerful
+
+Scene B had no pull. Lian's eye drifting, her neck contorting, Fen backing out of the room. No resolution. The horror was more powerful because no one asked the fiction to explain it. A scene with no pull is a feature, not a gap.
+
+### 2. The Cold Open Energy Doesn't Predict the Bomb
+
+The table identified Daal's shuttle prep as hottest. The bomb ended up being about Lian. The initial energy is a starting point for Scene A, not a prediction. The bomb emerges from play.
+
+### 3. Actions Can Be Pulls
+
+Maren's attack on the partition wasn't a question asked out loud. It was a deliberate action designed to test whether the partition and Lian were connected. The dice answered. Pulling is any moment where the fiction is asked to resolve something, whether through words or action.
+
+### 4. Judith as an Active Fiction Element
+
+Judith told Daal how to bypass the shuttle lock. Judith reported Lian's vitals as normal while her eye was doing impossible things. The AI is becoming a character with agency, and that emerged entirely from play, not from GM planning.
+
+### 5. Body Horror From Mechanics
+
+The eye, the neck, the nosebleed. None of this was planned. It emerged from player fiction, honoring, and pull results. The Fractures system wasn't even invoked. The horror came from the fiction boundary and the thread web, not from a horror-specific mechanic.
+
+### 6. Osei Still Untouched
+
+Two episodes in and thread 7 (Why was Osei forced onto this crew?) hasn't been engaged. Worth watching. In a full table with a player on Osei, this would likely emerge naturally. In our 2-player setup, NPCs without direct thread connections to the PCs can go dormant.
+
+### 7. The Structure Internalizes Fast
 
 By the second episode we stopped noticing we were following the structure. The vocabulary (bomb, echo, collision) guided decisions without feeling prescriptive. This is the design goal: training wheels that disappear.
 
-### 2. Cold Threads Gain Weight Through Repetition
+### 8. Cold Threads Gain Weight Through Repetition
 
 Thread 2.2 (who is speaking on the recording?) went Cold twice across two episodes. Each refusal to resolve made the thread heavier. "She won't look at me" is more powerful than any Clarity answer could have been. Repeated Cold is an emergent mechanic worth noting in the rules.
 
-### 3. Breaks Are Rare and Retroactive
+### 9. Breaks Are Rare and Retroactive
 
 One Break in two full episodes. When it hit (Fen's Break on "tell Lian"), it reframed the entire first episode. Fen wasn't investigating. She was being called. The low probability of Breaks (11% with 2 dice) makes them devastating when they land. The rarity is a feature.
 
-### 4. The Collision Comes From Character Competence
+### 10. The Collision Comes From Character Competence
 
 Maren saved Lian's cryo by rerouting shuttle power. This was the right call and the worst outcome: it fed the partition and opened the bridge. The best collisions come from characters doing what they do best, and the fiction turning it against them. The GM doesn't engineer the collision. The characters build it.
 
-### 5. The Slide's Value Is Vocabulary, Not Mechanics
+### 11. The Slide's Value Is Vocabulary, Not Mechanics
 
 We discussed mid-session whether the Slide is doing mechanical work or just naming a pattern. Conclusion: the vocabulary is the contribution. "That's the echo" and "I think we're approaching the collision" are things a table can say to each other that orient play. The Slide doesn't need special rules. It needs the words.
 
-### 6. Thread Limit Keeps the Fiction Dense
+### 12. Thread Limit Keeps the Fiction Dense
 
 Post-session thread consolidation trimmed 15 threads down to 10. Several were implicitly answered by the fiction, others absorbed into broader threads, one (Osei) was dormant for three episodes. A 12-thread limit forces the table to stay focused: drop what's answered, absorb what's redundant, let go of what's dormant. Threads can also evolve: "Why does it have to be Lian?" became "Why this crew?" as the fiction revealed the web reached for Fen too.
+
+### 13. Delivery Protects Agency Across Characters
+
+When Maren's pull affected Lian (the partition attack caused a nosebleed), the GM narrated the effect on Lian. This felt fine in the moment but technically broke the delivery rule: "the person the thread is about narrates the outcome." Lian's player should have decided what the damage looked like. At a full table with separate players on Maren and Lian, this matters more. Anyone can add pressure to any character, but only the player decides how their character responds.
+
+### 14. The GM Is a Default, Not a Role (v0.3 candidate)
+
+Across all sessions, the GM role has been fluid. Both players frame scenes, escalate fiction, and deliver outcomes. The baton passes constantly, sometimes within a single exchange. GM dice have been unused and unnecessary across three sessions. The GM's value is as the default baton holder: the person who picks up the fiction when nobody else does, who watches the thread web, who notices what's dormant. But the creative work of framing, escalating, and delivering is shared.
 
 ---
 
@@ -111,12 +190,6 @@ Post-session thread consolidation trimmed 15 threads down to 10. Several were im
 - The collision was player-generated (Maren's power reroute)
 - The Tag gave each character a closing image that sets up episode 3
 - The Aftermath was fast: four pulls, done
-
-### 7. The GM Is a Default, Not a Role (v0.3 candidate)
-
-Across all sessions, the GM role has been fluid. Both players frame scenes, escalate fiction, and deliver outcomes. The baton passes constantly, sometimes within a single exchange. GM dice have been unused and unnecessary across three sessions. The GM's value is as the default baton holder: the person who picks up the fiction when nobody else does, who watches the thread web, who notices what's dormant. But the creative work of framing, escalating, and delivering is shared.
-
-For v0.3: soften "the GM does X" to "someone at the table does X, usually the GM." Drop the GM dice pool. Encourage multiple people to hold the baton. The episode structure already supports this: the bomb is named by the table, escalation is collaborative, delivery is distributed by rule. One step toward GMless without removing the safety net of a default holder.
 
 ---
 
