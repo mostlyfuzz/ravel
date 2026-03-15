@@ -132,28 +132,17 @@ One die is a genuine gamble. Three dice is playing it safe, but it's expensive. 
 
 ## Scenes
 
-Play is organized into **scenes**, with a rotating **spotlight**.
-
-### Spotlight
-
-Each player gets a spotlight scene in turn. On your turn, you choose:
-
-- **Frame.** You set the scene. You decide where we are, who's there, and what's happening. But you don't choose which threads get pulled. The table does.
-- **Pass the frame.** The table (other players and the GM) sets the scene for you. But you choose which threads to pull.
-
-This is the core tradeoff: **you never control both the situation and the investigation.** If you frame, you set the stage but the table decides what gets tugged on. If the table frames, they put you in a situation but you decide what to dig into.
+Anyone can frame a scene: say where we are, who's there, and what's happening. If nobody frames, the GM does. Every character should appear in at least one scene per act.
 
 ### Playing a Scene
 
-Once the scene is framed, name the threads that are live in it. "The threads on the table for this scene are..." This gives the whole table focus and makes it clear what's available to pull. New threads can still emerge during play, but starting with named ones keeps everyone oriented.
+Once the scene is framed, name the threads that are live in it. This gives the whole table focus and makes it clear what's available to pull. New threads can emerge during play, but starting with named ones keeps everyone oriented.
 
-Then play. Roleplay the characters, honor elements, earn dice, and when the moment is right, pull threads. Multiple pulls can happen in a single scene if the fiction supports it. A scene with no pulls is also fine. Sometimes the fiction is more powerful when a question sits unanswered.
+Then play. Honor elements, earn dice, pull threads when the moment is right. Multiple pulls can happen in a single scene. A scene with no pulls is also valid — sometimes the fiction is more powerful when a question sits unanswered.
 
 ### Ending a Scene
 
-The GM calls the end of a scene. Use a soft time limit to keep scenes from sprawling. Cutting a scene before everything resolves is a feature, not a bug. Dangling threads are fuel for the next spotlight.
-
-After a scene ends, the spotlight passes to the next player.
+The GM calls the end of a scene. Cutting before everything resolves is a feature, not a bug. Dangling threads are fuel for the next scene.
 
 ---
 
@@ -327,7 +316,7 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
 5. **Deliver.** The person the thread is about narrates the outcome
 6. **Episodes.** Cold Open (honor) → Act One (proliferate, name the bomb) → Act Two (honor + pull, manifest before detonation) → Bomb scene (one thread fractures) → Detonation → Act Three (pulls only) → Tag (one twist)
-7. **Scenes.** Frame your scene or let the table frame it
+7. **Scenes.** Anyone frames. GM frames when nobody does. Every character in at least one scene per act.
 8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
 9. **The GM** holds the baton by default, watches the web, plays NPCs. NPCs generate threads and deliver outcomes. They don't pull.
 10. **Between sessions,** replace one element on your sheet with what the fiction demands. Carry threads forward.
