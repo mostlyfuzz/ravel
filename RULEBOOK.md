@@ -171,29 +171,19 @@ You ask the question. The fiction answers through whoever owns that piece of it.
 
 ## The GM
 
-Ravel has a GM, but not in the traditional sense. The GM is a **player with a different portfolio**: not the world-author or the adversary, but a steward of emergence.
+The GM is the table's default baton holder: the person who picks up the fiction when nobody else does, watches the thread web for what's been neglected, and frames scenes when the table is waiting. The creative work of framing, escalating, and delivering is shared with everyone. The GM just ensures it keeps moving.
 
 ### What the GM Does
 
-- **Plays NPCs.** Gives them interiority, honoring their established elements.
-- **Calls scenes.** Ends scenes when the moment is right.
-- **Runs the Tilt.** Manages the midpoint escalation (see below).
-- **Watches the web.** Notices neglected threads, dangling potential.
-- **Narrates world outcomes.** Delivers the fiction when threads about the world or NPCs are pulled.
+- **Holds the baton by default.** Frames scenes, closes scenes, notices when the fiction needs someone to push it forward.
+- **Watches the web.** Keeps track of neglected threads, dormant questions, dangling potential.
+- **Plays NPCs.** Gives them presence in scenes. An NPC can open new threads during Act One's proliferation just like any character in the scene. When a thread about an NPC is pulled, the GM delivers the outcome.
 
-### The GM Plays by the Same Economy
+### NPCs and the Economy
 
-The GM earns dice by honoring established NPC elements, and the table validates just like for any player. The GM keeps a **single shared pool** across all NPCs. Dice earned by honoring any NPC go into the same pool, and the GM can spend them on any pull, anywhere. This makes the GM the player with the biggest portfolio and the most flexibility to apply pressure where the fiction needs it.
+NPCs don't earn or spend dice. They exist in the fiction, not in the economy. They generate threads and deliver outcomes — narrative weight without mechanical weight. The push/pull engine belongs to the players.
 
-When the GM pulls, **the players deliver the outcome**. This means:
-
-- The GM can't plant mysteries they already know the answer to.
-- Players get authorship over the world.
-- NPCs become real. The GM is mechanically bound to honor what's been established about them.
-
-### NPCs
-
-The GM should prepare a few key NPCs before the first session, each with at least a **Drive** and one other element. Keep it light. Most NPCs will emerge during play. The first time the GM plays an NPC with clear intent, that becomes their first established element.
+The GM should give key NPCs at least a Drive before the first session. Keep it light. Most NPC elements will emerge from play. The first time an NPC acts with clear intent, that becomes their first established element.
 
 ---
 
@@ -339,7 +329,7 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 6. **Episodes.** Cold Open (honor) → Act One (proliferate, name the bomb) → Act Two (honor + pull, manifest before detonation) → Bomb scene (one thread fractures) → Detonation → Act Three (pulls only) → Tag (one twist)
 7. **Scenes.** Frame your scene or let the table frame it
 8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
-9. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
+9. **The GM** holds the baton by default, watches the web, plays NPCs. NPCs generate threads and deliver outcomes. They don't pull.
 10. **Between sessions,** replace one element on your sheet with what the fiction demands. Carry threads forward.
 11. **Breaks mark the character.** First: the story changes. Second: the character changes. Third: lost to themselves. Clarity on a related thread can recover a mark.
 
