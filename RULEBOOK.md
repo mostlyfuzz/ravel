@@ -12,7 +12,7 @@ Ravel is a tabletop roleplaying game about characters and the threads that conne
 
 The game is built for **3–4 players and a GM**. Sessions run episodically, like a television series. Each one is complete in itself, but connected to the next through persistent threads.
 
-**You will need:** Standard six-sided dice (a handful per player), tokens (coins, beads, anything small), and something to track threads: index cards, a shared notebook, or whatever works for your table.
+**You will need:** Standard six-sided dice (a handful per player) and something to track threads: index cards, a shared notebook, or whatever works for your table.
 
 ---
 
@@ -75,8 +75,8 @@ During a scene, when you play to an established element on your character sheet 
 
 **How it works:**
 
-1. **Point.** Place a token on the element you're honoring on your character sheet. No need to break the scene by announcing it out loud.
-2. **Deliver.** Play it in the fiction. Show us what that element looks like in action.
+1. **Deliver.** Play the element in the fiction. Show us what it looks like in action.
+2. **Point.** Name what you honored.
 3. **Validate.** If no one at the table objects, you earn a die.
 
 **Rules for earning:**
