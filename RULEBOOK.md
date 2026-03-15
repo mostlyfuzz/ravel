@@ -108,7 +108,7 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 |------|---------|
 | **5–6** | **Clarity.** The thread resolves into new established fiction. You learn something true. That truth is now load-bearing. |
 | **3–4** | **Cold.** The thread doesn't resolve, but its resistance is real. Something is missing, hidden, or inaccessible. The absence itself becomes established fiction. |
-| **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. |
+| **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. Every Break leaves a mark. See below. |
 
 **There is no wasted roll.** Every outcome gives the table material to work with. Cold is not "nothing happens." Cold is: the files from 1998 are missing. The door is welded shut from the inside. She won't meet your eyes. The answer exists, but something is in the way, and that something is now part of the fiction. A thread that goes Cold multiple times gains weight. Each refusal to resolve makes the question heavier, the absence more present. Some of the most important threads in a campaign will be the ones that never gave you Clarity.
 
@@ -311,34 +311,21 @@ Violence is expensive. Not mechanically, but fictionally. It changes things, rev
 
 ---
 
-## Fractures
+## Breaks
 
-Breaks have narrative consequences, but some Breaks leave marks that accumulate. Characters have two **fracture tracks**: **Body** and **Mind**. Each track has three marks.
+Every Break leaves a mark. Breaks are rare enough that each one matters. The marks accumulate, and three marks trace a transformation:
 
-### Earning Fractures
+**First Break: the story changes.** Something in the fiction shifts around the character. A relationship breaks, a truth surfaces, a door closes. The character is implicated but not yet altered.
 
-When a thread connected to physical consequences results in a **Break**, the affected character marks one fracture on **Body**. When a thread connected to psychological consequences results in a Break, mark one on **Mind**.
+**Second Break: the character changes.** Something in how they move through the world shifts. A Belief inverts. A Relationship corrodes. An Approach hardens into something it wasn't. The player and table name what changes. It should feel like loss.
 
-The table validates whether a Break is physical, mental, or neither, using the same default-yes convention as honoring. Most of the time the fiction makes it obvious.
+**Third Break: the character is lost to themselves.** Not dead — transformed past recognition. They are still in the story but they are no longer who they were. The threads that broke them contain the answer. The loom's dissolution note (if it has one) suggests what this looks like in the genre you're playing.
 
-Fractures can come from any Break, including those that emerge during the Slide's escalation or the Aftermath's thread pulls. The fiction doesn't distinguish between pressure you chose and pressure that found you.
+Track marks openly. Watching them accumulate is part of the tension.
 
-### Remedying Fractures
+### Recovering
 
-A fracture can be remedied by pulling a related thread and achieving **Clarity**. The Clarity must fictionally address the source of the fracture: sealing the hull breach, stabilizing the wounded crew member, finding solid ground after a psychological shock. The table validates whether the remedy fits.
-
-Remedying a fracture costs the same as any thread pull (1–3 dice), and there is no guarantee of Clarity. Attempting to heal and rolling a Break instead marks an additional fracture.
-
-### Three Fractures
-
-- **Body: Third fracture, you die.** The fiction delivers this through normal delivery rules.
-- **Mind: Third fracture, you unravel.** The character is overtaken by whatever the pressure demands. They may still be alive, but they are no longer themselves. The GM takes the character into the NPC pool.
-
-### Design Notes for the GM
-
-- Not every Break needs to be a fracture. Breaks on threads about trust, loyalty, or relationships are still just narrative Breaks unless they have clear physical or mental fallout.
-- Fractures should be visible to the table. Track them openly. Watching marks accumulate creates tension.
-- "Unraveling" (third mental fracture) is not necessarily permanent across sessions. Whether and how a character recovers is a long thread for the table to explore.
+A mark can be remedied by pulling a related thread and achieving **Clarity**. The Clarity must fictionally address the source of the mark. The table validates whether the remedy fits. Rolling a Break while attempting to recover adds another mark.
 
 ---
 
@@ -354,7 +341,7 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
 9. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
 10. **Between sessions,** evolve one element on your sheet, carry threads forward
-11. **Fractures.** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
+11. **Breaks mark the character.** First: the story changes. Second: the character changes. Third: lost to themselves. Clarity on a related thread can recover a mark.
 
 Teach in five minutes. The depth comes from play, not from rules.
 
