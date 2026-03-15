@@ -269,9 +269,9 @@ For campaigns, threads that went cold or transformed persist into the next episo
 
 ### Character Development
 
-After a session, look at what you've been honoring. Which elements have been load-bearing? What has happened around them?
+After every session, look at what you've been honoring. Which elements have been load-bearing? What has happened around them?
 
-You may **replace one element** on your character sheet with something the fiction implies. If Maria's desperation led her to betray people over three sessions, it might become *numbness* or *shame* or *ruthlessness*. Not whatever you want. What the fiction demands. The table validates the change, same as always.
+**Replace one element** on your character sheet with something the fiction implies. If Maria's desperation led her to betray people over three sessions, it might become *numbness* or *shame* or *ruthlessness*. Not whatever you want. What the fiction demands. The table validates the change, same as always.
 
 The new element enters the economy. You can't earn dice for old-Maria's desperation anymore. You have to play what she's become.
 
@@ -340,7 +340,7 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 7. **Scenes.** Frame your scene or let the table frame it
 8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
 9. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
-10. **Between sessions,** evolve one element on your sheet, carry threads forward
+10. **Between sessions,** replace one element on your sheet with what the fiction demands. Carry threads forward.
 11. **Breaks mark the character.** First: the story changes. Second: the character changes. Third: lost to themselves. Clarity on a related thread can recover a mark.
 
 Teach in five minutes. The depth comes from play, not from rules.
