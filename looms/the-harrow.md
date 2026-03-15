@@ -94,6 +94,102 @@ Youngest crew member, first deep-space contract. Lian is the closest thing to a 
 
 ---
 
+## Building Your Own Character
+
+*Use these tables if you want to build from scratch or replace a pregen. You don't need to roll — pick what fits, or let the table decide together.*
+
+---
+
+### Roles
+
+What you do on the Harrow. Pick one or invent your own.
+
+| # | Role |
+|---|------|
+| 1 | Systems Engineer |
+| 2 | Pilot |
+| 3 | Ship's Doctor |
+| 4 | Comms / Signals Technician |
+| 5 | Security / EVA Specialist |
+| 6 | Mission Director |
+
+---
+
+### Drives
+
+*Why are you on this ship?*
+
+| # | Drive |
+|---|-------|
+| 1 | **Debt.** You owe Meridian something personal. This job clears the balance. |
+| 2 | **Family.** Someone you care about was on Acheron-9. You are not here for the company. |
+| 3 | **Redemption.** You did something at your last posting you can't take back. Clean slate. |
+| 4 | **Curiosity.** Something in the mission brief doesn't add up. You need to understand why. |
+| 5 | **Control.** You need to be the one making the decisions. When you're not, nothing makes sense. |
+| 6 | **Escape.** The ship is safer than what you left behind. |
+
+---
+
+### Approaches
+
+*How do you move through problems?*
+
+| # | Approach |
+|---|----------|
+| 1 | **Meticulous.** You check everything twice. Trust the data, not the instinct. |
+| 2 | **Quiet observation.** You watch before you speak. You remember everything. |
+| 3 | **Nervous energy.** When things get bad, you get busy. Movement is control. |
+| 4 | **Direct.** You say the thing nobody wants to hear. It's usually right. |
+| 5 | **Protective.** You put yourself between the problem and the people you've claimed. |
+| 6 | **Detached.** You go clinical when it matters. Feeling is for after. |
+
+---
+
+### Beliefs
+
+*What do you hold as true — so far?*
+
+| # | Belief |
+|---|--------|
+| 1 | Machines are honest. People aren't. |
+| 2 | Everyone deserves one more chance. |
+| 3 | The crew comes first. The mission is a means to that end. |
+| 4 | Meridian always has an agenda. You just haven't found it yet. |
+| 5 | Following the rules is the only thing keeping us alive out here. |
+| 6 | There are things in deep space that don't care whether we exist. |
+
+---
+
+### Memories
+
+*Something that shaped you before this ship.*
+
+| # | Memory |
+|---|--------|
+| 1 | A navigation error that killed someone. You haven't stopped replaying it. |
+| 2 | The last transmission from someone who went dark. You know what they said. |
+| 3 | A decision you made under pressure that you can't justify out loud. |
+| 4 | Something you saw on a previous contract that nobody believed. |
+| 5 | Someone who trusted you completely. It cost them. |
+| 6 | Waking up somewhere you don't remember going. The medical report said stress. |
+
+---
+
+### Relationships
+
+*One for each other crew member. Pick or invent.*
+
+| # | Relationship |
+|---|-------------|
+| 1 | You served with them before. Something happened. Neither of you has named it. |
+| 2 | You don't know them, but you know their name from somewhere it shouldn't be. |
+| 3 | They remind you of someone you lost. That's not fair to either of you. |
+| 4 | You don't trust them. You need them anyway. |
+| 5 | You owe them something. You haven't paid it back. |
+| 6 | You chose them for this crew, or they chose you. Neither of you has said why. |
+
+---
+
 ## The Thread Web
 
 ### Short Threads *(this session)*
@@ -152,6 +248,15 @@ Youngest crew member, first deep-space contract. Lian is the closest thing to a 
 - **Knowledge that makes things worse.** Finding the answer you wanted and wishing you hadn't. Understanding something that can't be unlearned. Seeing a pattern that implicates you.
 - **Isolation deepening in small spaces.** The ship is small and the crew is smaller. A conversation that makes you feel more alone than silence did. Realizing the person next to you is somewhere else entirely.
 - **The familiar becoming alien.** Food that tastes wrong. A corridor that feels longer than it should. Your own reflection doing something a half-second late.
+
+## Dissolution
+
+*When a character reaches their third Break, they are lost to themselves. In The Harrow, dissolution looks like this:*
+
+- **The ship claims them.** Judith begins speaking in their voice. They begin speaking in Judith's.
+- **The web finishes the translation.** Whatever Jun started, the character completes. They are no longer separate from what they came here to find.
+- **They become the thing they were afraid of.** The horror they've been running from or investigating is what they turn into. The shape of it depends on the threads that broke them.
+- **They choose the web over the crew.** Not in anger. Just: the other side is more real to them now. They still know your name. They just don't know why it should matter.
 
 ---
 
