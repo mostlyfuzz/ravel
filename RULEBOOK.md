@@ -110,6 +110,8 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 | **3–4** | **Cold.** The thread doesn't resolve, but its resistance is real. Something is missing, hidden, or inaccessible. The absence itself becomes established fiction. |
 | **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. Every Break leaves a mark. See below. |
 
+**Clarity is a door, not a wall.** When a thread resolves, the answer is usually more specific than the question. "What does Tariq know?" becomes "Jun contacted him before the station went dark." That's true and load-bearing — and it immediately raises "What did Jun tell him?" and "Why did Jun reach out?" Clarity doesn't close the fiction. It focuses it. A Clarity that ends all questions is a lore dump. A Clarity that opens better questions is the engine running.
+
 **There is no wasted roll.** Every outcome gives the table material to work with. Cold is not "nothing happens." Cold is: the files from 1998 are missing. The door is welded shut from the inside. She won't meet your eyes. The answer exists, but something is in the way, and that something is now part of the fiction. A thread that goes Cold multiple times gains weight. Each refusal to resolve makes the question heavier, the absence more present. Some of the most important threads in a campaign will be the ones that never gave you Clarity.
 
 **The odds:**
@@ -256,17 +258,6 @@ Dice reset. Threads don't.
 
 ---
 
-## Thread Timescales
-
-Not all threads are equal. Some burn fast, some build slow.
-
-**Short threads** are the episode's focus. They emerge, get pulled, and resolve or break within the session.
-
-**Mid threads** are the season arc. They surface across episodes, accumulate clarity or damage over multiple sessions. The "why do Carlos and Sonia hate each other" that takes four sessions to excavate.
-
-**Long threads** are character-level. Who *is* Maria? What does her desperation cost her over time? These accrue through sustained play and character development.
-
----
 
 ## Combat
 
