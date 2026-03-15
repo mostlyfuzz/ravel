@@ -96,12 +96,6 @@ Threads point outward. You honor yourself to earn dice. You pull on other charac
 
 **Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
 
-**Manifestation.** You can show the thread pressure bleeding through your character. Look at what's unresolved around them. Ask what that pressure would look like if it leaked: through their body, their habits, their words, their choices. Show it. Your character doesn't need to know it's happening. Don't answer any thread. Just make the weight visible.
-
-Manifestation costs no dice and resolves nothing. It's not a pull. It deepens the fiction without narrowing it. The loom's pressure palette (if the loom has one) suggests what this looks like in the genre you're playing. In horror, it might be a body doing something its owner doesn't notice. In noir, it might be cruelty toward someone you love. In a political thriller, it might be a decision your character would never have made two sessions ago.
-
-Each player gets one manifestation per episode. The bomb scene is always open: anyone can manifest during the collision or detonation regardless of whether they've already used theirs. That moment is the climax. The pressure peaks. Everyone should be present in it.
-
 When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
 
 | Roll | Outcome |
@@ -129,6 +123,16 @@ One die is a genuine gamble. Three dice is playing it safe, but it's expensive. 
 **Thread limit.** Keep no more than **12 active threads** on the board. When the fiction generates new threads beyond 12, the table decides what to drop, absorb, or let go cold. Threads answered implicitly by the fiction can be retired without a pull. Threads that no longer interest the table can be dropped. The limit keeps the fiction dense and focused. If everything is a question, nothing is.
 
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
+
+---
+
+## Manifestation
+
+Each player has one manifestation per episode. You can show the thread pressure bleeding through your character. Look at what's unresolved around them. Ask what that pressure would look like if it leaked: through their body, their habits, their words, their choices. Show it. Your character doesn't need to know it's happening. Don't answer any thread. Just make the weight visible.
+
+Manifestation costs no dice and resolves nothing. It's not a pull. It deepens the fiction without narrowing it. The loom's pressure palette (if the loom has one) suggests what this looks like in the genre you're playing. In horror, it might be a body doing something its owner doesn't notice. In noir, it might be cruelty toward someone you love. In a political thriller, it might be a decision your character would never have made two sessions ago.
+
+At least one manifestation must happen during the collision. That moment is the climax. If nobody has manifested, it happens here.
 
 ---
 
@@ -208,7 +212,7 @@ Three scenes in a fixed order: the bomb scene, the echo scene, and the collision
 
 **Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. At least one player manifests before this scene closes. The pressure should be visible in the cast before it peaks.
 
-**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. Manifestation is always open here — anyone can manifest regardless of whether they've already used theirs. This is the climax. Everyone should be present in it.
+**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. At least one manifestation must happen here. This is the climax. Everyone should be present in it.
 
 ### Act Three: Aftermath
 
