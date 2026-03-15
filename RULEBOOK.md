@@ -192,31 +192,21 @@ In later sessions, this is also where you review the thread state and locate you
 
 ### Act One: Establishment
 
-A few scenes. The table plays freely: framing scenes, honoring elements, earning dice, pulling threads. Follow the energy, but nothing is locked. Every scene in Act One should open or branch at least one thread: deepen a question, make something more specific, find what's underneath. This is proliferation. The table is building the web, not resolving it.
+Three scenes. Every scene should open or branch at least one thread: deepen a question, make something more specific, find what's underneath. This is proliferation. The table is building the web, not resolving it.
 
 Every character must honor before a scene closes. If a scene wants to close and someone hasn't honored, the table asks: "Did you honor?" If not, they do, or they say how they already did.
 
-By the end of Act One, the table identifies the **bomb**: the specific tension this episode is about. The bomb isn't planned. It emerges from what the characters have done and what the threads have revealed. At the end of Act One, the table names it explicitly. "This episode is about X." That's the commitment. You've chosen your slide.
+After the third scene, the table names the **bomb**: the specific tension this episode is about. The bomb isn't planned. It emerges from what the characters have done and what the threads have revealed. Name it explicitly. "This episode is about X." That's the commitment. You've chosen your slide.
 
 ### Act Two: The Slide
 
-The bomb gets pressure-tested. Scenes in Act Two orbit the bomb. Honor and pull in every scene. Anyone in the scene can pull: the frame-or-pull tradeoff relaxes here. The structure wants momentum, not gatekeeping. Dice accumulate.
+Three scenes in a fixed order: the bomb scene, the echo scene, and the collision.
 
-Meanwhile, a second thread (the **echo**) develops. It's thematically adjacent to the bomb but logically independent. The table watches for the moment when the echo and the bomb collide. That collision is the **detonation**: the point where escalation has nowhere left to go.
+**Scene 1 — The Bomb Scene.** The bomb opens Act Two. The scene closes with a thread breaking open: a situation gets worse in a way nobody can prevent or spend dice to stop. No roll. No cost. The fiction cracks in a specific, traceable place. Anyone at the table can name it. If nobody does, the GM does. The scene ends on that break.
 
-Before the detonation, at least one player must manifest. The pressure should be visible in the cast before it peaks.
+**Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. At least one player manifests before this scene closes. The pressure should be visible in the cast before it peaks.
 
-The Slide has three beats: the bomb escalates, the echo develops, then they collide. That's the shape, not a fixed scene count.
-
-### The Bomb Scene
-
-The moment the bomb is named, one thread fractures. A situation gets worse in a way nobody can prevent or spend dice to stop. No roll. No cost. The fiction simply cracks open in a specific, traceable place. Anyone at the table can name the fracture. If nobody does, the GM does.
-
-This is not the detonation. The bomb scene pushes everyone to the edge. The detonation is the fall.
-
-### The Detonation
-
-The echo and the bomb collide. The bomb scene is always open for manifestation: anyone can manifest here regardless of whether they've already used theirs. This is the climax. The pressure peaks. Everyone should be present in it.
+**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. Manifestation is always open here — anyone can manifest regardless of whether they've already used theirs. This is the climax. Everyone should be present in it.
 
 ### Act Three: Aftermath
 
@@ -235,10 +225,10 @@ For campaigns, threads that went cold or transformed persist into the next episo
 ## Session Shape at a Glance
 
 1. **Cold Open.** Position your characters. Every character honors at least once.
-2. **Act One.** Explore and proliferate. Every scene opens or branches a thread. Every character honors before the scene closes. Name the bomb.
-3. **Act Two.** The Slide. Honor and pull every scene. The echo develops. At least one manifestation before the detonation.
-4. **Bomb scene.** One thread fractures. No dice, no prevention. The edge.
-5. **Detonation.** The echo and the bomb collide. Manifestation is always open here.
+2. **Act One.** Three scenes. Proliferate threads. Every character honors per scene. Name the bomb.
+3. **Act Two — Scene 1: Bomb.** A thread breaks open. No dice, no prevention. The scene ends on the break.
+4. **Act Two — Scene 2: Echo.** A second thread develops. Honor and pull. At least one manifestation.
+5. **Act Two — Scene 3: Collision.** Echo and bomb collide. Manifestation always open. The detonation.
 6. **Act Three.** Aftermath. Pulls only. Spend what you have. Read the wreckage.
 7. **Tag.** One twist. Something is different. Plant the fuse.
 
@@ -315,7 +305,7 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 3. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
 4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
 5. **Deliver.** The person the thread is about narrates the outcome
-6. **Episodes.** Cold Open (honor) → Act One (proliferate, name the bomb) → Act Two (honor + pull, manifest before detonation) → Bomb scene (one thread fractures) → Detonation → Act Three (pulls only) → Tag (one twist)
+6. **Episodes.** Cold Open → Act One: 3 scenes, proliferate, name the bomb → Act Two: bomb scene (thread breaks), echo scene (manifest), collision → Act Three: pulls only → Tag: one twist
 7. **Scenes.** Anyone frames. GM frames when nobody does. Every character in at least one scene per act.
 8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
 9. **The GM** holds the baton by default, watches the web, plays NPCs. NPCs generate threads and deliver outcomes. They don't pull.
