@@ -1,0 +1,3 @@
+[submodule "tools/thread-board"]
+	path = tools/thread-board
+	url = git@github.com:mostlyfuzz/ravel-thread-board.git
