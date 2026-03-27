@@ -208,7 +208,7 @@ After the third scene, the table names the **bomb**: the specific tension this e
 
 Three scenes in a fixed order: the bomb scene, the echo scene, and the collision.
 
-**Scene 1 — The Bomb Scene.** The bomb opens Act Two. The scene closes with a thread breaking open: a situation gets worse in a way nobody can prevent or spend dice to stop. No roll. No cost. The fiction cracks in a specific, traceable place. Anyone at the table can name it. If nobody does, the GM does. The scene ends on that break.
+**Scene 1 — The Bomb Scene.** The bomb opens Act Two. The scene should involve multiple characters and build through layers of escalation — each beat worse than the last, pressure accumulating until the fiction has nowhere left to go but crack. The scene closes with a thread breaking open: a situation gets worse in a way nobody can prevent or spend dice to stop. No roll. No cost. The break doesn't name what's coming. It points at it. That pointing is the ammunition for the collision. Anyone at the table can name the break. If nobody does, the GM does. The scene ends on that break.
 
 **Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. At least one player manifests before this scene closes. The pressure should be visible in the cast before it peaks.
 
