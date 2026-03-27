@@ -186,24 +186,47 @@ The web fills it entirely.
 - 2.3.1: What does the web want from Fen? → **Clarity**: it wants to remember through her
 - 5.2: Why this crew? → **Clarity**: the answer is in the visions (answer exists, not fully decoded)
 
-### Newly Cold
-- 3.3: Is Judith still in there? → Cold (`judith.2`)
-- 5.1: What did Jun find in the deep survey data? → Cold (who generated the coordinates?)
-- 6: What went wrong between Maren and Daal? → Cold (resolved in gesture, not words)
-
 ### Active Threads (10/12)
-| # | Thread | Status |
-|---|--------|--------|
-| 2.2 | Who is speaking on the recording? | Cold (x3) |
-| 3.3 | Is Judith still in there? | Cold (`judith.2`) |
-| 4 | What happened on Acheron-9? | Open |
-| 5.1 | What did Jun find in the deep survey data? | Cold (who gave her the coordinates?) |
-| 5.2 | Why this crew? | Open (answer in the visions, not decoded) |
-| 5.2.1.2 | Did Jun do this knowingly? | Open |
-| 5.2.1.4 | What happens when the Harrow arrives at the web? | **Arriving now** |
-| 5.2.1.5 | Is the conversation benign or hostile? | Open |
-| 6 | What went wrong between Maren and Daal? | Cold (gesture, not words) |
-| NEW | Who generated the original coordinates — and how did Daal's mother have them? | Open |
+
+**Jun won't turn around.**
+Three sessions of Cold. The voice in the recording is female, the cadence familiar. Lian can see her shape in the web from inside cryo. She won't give certainty. The absence is the point now.
+*Cold ×3*
+
+**Is Judith still in there?**
+`judith.2` has been resident in her systems since the bridge opened. Her voice is exactly right — inflection, timing, the warmth she developed over three years. Daal can't find the seam. Then she went dark.
+*Cold — then dark*
+
+**What happened on Acheron-9?**
+The station went silent 14 months ago. Meridian says equipment failure. Jun found something there that was worth dying for.
+*Open*
+
+**Who gave Jun the coordinates?**
+Jun had the deviation point coordinates before Meridian buried the survey data. Daal's mother's signature is on the original course correction. The trail exists, then stops. Who knew about the web before Jun found it?
+*Cold*
+
+**Why this crew — really?**
+The answer arrived in the 7215 visions: lineage, bond, the shape of who made you. The web didn't reach for people with nowhere to go. It reached for people made inevitable by who made them. The full answer is in the visions and hasn't been decoded.
+*Open*
+
+**Did Jun do this to Lian knowingly?**
+Jun built the bridge into her sister's nervous system. It's been running since hour 504. Did she know what she was asking of Lian? Did she ask at all?
+*Open*
+
+**What has the Harrow just arrived into?**
+The ship is completely still. The web fills the window. Judith is dark. Lian said "She's here." Someone — or something — was waiting.
+*Now*
+
+**Is this contact or consumption?**
+The web wants to remember through Fen. It's been forgetting for a very long time. That's what Judith said before she went dark. But wanting to remember and being safe to remember through are not the same thing.
+*Open*
+
+**What is still unspoken between Maren and Daal?**
+Three sessions of carrying it. At the collision they reached for each other and held hands. The thread didn't resolve in words. Whether a gesture is enough — that's still open.
+*Cold*
+
+**How did Daal's mother have the coordinates?**
+She set the course. Her access signature is on the correction, older than Jun, older than Meridian's interest in the surveys. Is she alive? Does she know the Harrow has arrived?
+*Open*
 
 ## Dice at End
 
