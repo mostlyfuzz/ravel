@@ -210,7 +210,7 @@ Three scenes in a fixed order: the bomb scene, the echo scene, and the collision
 
 **Scene 1 — The Bomb Scene.** The bomb opens Act Two. The scene should involve multiple characters and build through layers of escalation — each beat worse than the last, pressure accumulating until the fiction has nowhere left to go but crack. The scene closes with a thread breaking open: a situation gets worse in a way nobody can prevent or spend dice to stop. No roll. No cost. The break doesn't name what's coming. It points at it. That pointing is the ammunition for the collision. Anyone at the table can name the break. If nobody does, the GM does. The scene ends on that break.
 
-**Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. At least one player manifests before this scene closes. The pressure should be visible in the cast before it peaks.
+**Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. The pressure should be visible in the cast before it peaks.
 
 **Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. At least one manifestation must happen here. This is the climax. Everyone should be present in it.
 
@@ -233,7 +233,7 @@ For campaigns, threads that went cold or transformed persist into the next episo
 1. **Cold Open.** Position your characters. Every character honors at least once.
 2. **Act One.** Three scenes. Proliferate threads. Every character honors per scene. Name the bomb.
 3. **Act Two — Scene 1: Bomb.** A thread breaks open. No dice, no prevention. The scene ends on the break.
-4. **Act Two — Scene 2: Echo.** A second thread develops. Honor and pull. At least one manifestation.
+4. **Act Two — Scene 2: Echo.** A second thread develops. Honor and pull.
 5. **Act Two — Scene 3: Collision.** Echo and bomb collide. Manifestation always open. The detonation.
 6. **Act Three.** Aftermath. Pulls only. Spend what you have. Read the wreckage.
 7. **Tag.** One twist. Something is different. Plant the fuse.
