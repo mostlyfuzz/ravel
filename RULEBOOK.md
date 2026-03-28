@@ -136,6 +136,25 @@ At least one manifestation must happen during the collision. That moment is the 
 
 ---
 
+## Offers and Agency
+
+In Ravel, the fiction is built collaboratively. Every player contributes to the world around every character, not just their own. When you frame a scene, you might describe what another player's character is doing. When you manifest, the pressure you show might spill onto someone else. This is the game working. But there is a line.
+
+**Framing another player's character is an offer, not a decision.** You can suggest what a character does, feels, or says. The character's player accepts by continuing the fiction, or redirects by saying what actually happens. Silence is consent: if nobody objects, the offer stands.
+
+The line is the same as the fiction boundary rule: **opening is free, closing costs something.** An offer that opens space for another character — placing them in a scene, giving them something to react to, suggesting a mood — is a gift. An offer that closes space — resolving how they feel about something, deciding they've recovered, changing their state — needs the player to confirm before it becomes established fiction. **A player can always say no.** If an offer doesn't fit, negotiate it. The offer rewinds and you find what works.
+
+This applies to the GM as much as anyone else. The GM frames. The GM does not decide how characters respond to the frame.
+
+Places where this matters most:
+- **Framing scenes.** Placing a character somewhere and saying what they're doing is an offer. What it means to them is theirs.
+- **Manifestation.** Thread pressure bleeding through your character may touch others. What they do with it is theirs.
+- **Delivery.** The person the thread is about narrates the outcome. Not the person who pulled, not the GM. This rule is load-bearing. When the dice speak, the character's player gives the answer its shape.
+
+Make offers generously. Accept them often. But don't close what isn't yours to close.
+
+---
+
 ## Scenes
 
 Anyone can frame a scene: say where we are, who's there, and what's happening. If nobody frames, the GM does. Every character should appear in at least one scene per act.
