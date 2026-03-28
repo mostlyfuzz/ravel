@@ -96,7 +96,7 @@ Threads point outward. You honor yourself to earn dice. You pull on other charac
 
 **Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
 
-When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
+When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome. **Pooling:** multiple characters can contribute dice to a single pull, up to the 3-die maximum. This widens where the answer comes from — the thread's outcome belongs to everyone who put dice in:
 
 | Roll | Outcome |
 |------|---------|
@@ -120,7 +120,7 @@ One die is a genuine gamble. Three dice is playing it safe, but it's expensive. 
 
 **Thread branching.** When a pull resolves a thread, the answer often raises more specific questions. The parent thread is resolved, and the new questions become its children. "What does Tariq know?" might resolve into "What did Jun find?" and "Why does it have to be Lian?" The fiction gets more precise as threads branch. A parent thread is done when its children are answered, or when a pull resolves it directly.
 
-**Thread limit.** Keep no more than **12 active threads** on the board. When the fiction generates new threads beyond 12, the table decides what to drop, absorb, or let go cold. Threads answered implicitly by the fiction can be retired without a pull. Threads that no longer interest the table can be dropped. The limit keeps the fiction dense and focused. If everything is a question, nothing is.
+**Thread limit.** Keep no more than **12 active threads** on the board. When you need to make room, keep the questions that are interesting. Drop the ones that aren't. Retire threads the fiction has already answered. Collapse threads that have been absorbed into sharper questions. Merge threads that are asking the same thing from different angles. The table decides together. The limit keeps the fiction dense and focused. If everything is a question, nothing is.
 
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
 
@@ -249,13 +249,43 @@ For campaigns, threads that went cold or transformed persist into the next episo
 
 ## Session Shape at a Glance
 
-1. **Cold Open.** Position your characters. Every character honors at least once.
-2. **Act One.** Three scenes. Proliferate threads. Every character honors per scene. Name the bomb.
-3. **Act Two — Scene 1: Bomb.** A thread breaks open. No dice, no prevention. The scene ends on the break.
-4. **Act Two — Scene 2: Echo.** A second thread develops. Honor and pull.
-5. **Act Two — Scene 3: Collision.** Echo and bomb collide. Manifestation always open. The detonation.
-6. **Act Three.** Aftermath. Pulls only. Spend what you have. Read the wreckage.
-7. **Tag.** One twist. Something is different. Plant the fuse.
+### Cold Open
+- Every character positions: where are you, what are you doing, why?
+- Honor only. No pulls.
+- **After:** Who has the energy? Whose situation feels hottest?
+
+### Act One (3 scenes)
+- Every scene should open or branch at least one thread.
+- Every character honors at least once per scene. Pulls are available.
+- **After each scene:** Did threads change? Which ones evolved, branched, gained weight?
+- **After Scene 3:** Name the bomb. What tension did the scenes reveal? What is this episode about?
+
+### Act Two — Scene 1: Bomb
+- Multiple characters present. Build through layers of escalation.
+- A thread breaks open. No dice, no prevention. The break points at something terrible without naming it.
+- **After:** What cracked? What does it point at?
+
+### Act Two — Scene 2: Echo
+- A second thread develops alongside the bomb. Thematically adjacent, logically independent.
+- Honor and pull.
+- **After:** What is the echo's relationship to the bomb? How do they collide?
+
+### Act Two — Scene 3: Collision
+- The echo and the bomb collide. Everyone present. At least one manifestation.
+- **After:** What detonated? What's left?
+
+### Act Three: Aftermath
+- Pulls only. Spend what you have. Max 3 dice per pull, pooling allowed.
+- No new threads, no escalation. Read the wreckage.
+- **After:** Update the thread board. Retire, collapse, merge. Keep the questions that are interesting.
+
+### Tag
+- One twist. Something is different. Plant the fuse.
+
+### Between Scenes (ongoing)
+- **Threads:** Did any threads evolve, go Cold, crack open, retire? Update the board.
+- **Offers:** Anyone can frame another player's character. The owner confirms or redirects.
+- **Dice:** Track pools visibly. Who has what?
 
 ---
 
