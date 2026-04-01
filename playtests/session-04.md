@@ -228,6 +228,10 @@ Three sessions of carrying it. At the collision they reached for each other and 
 She set the course. Her access signature is on the correction, older than Jun, older than Meridian's interest in the surveys. Is she alive? Does she know the Harrow has arrived?
 *Open*
 
+**The transmission and the web share a geometry.**
+Fen recognized it in thirty seconds standing at the nav screen. The transmission wasn't describing the web — it *is* the web, compressed into signal form. Same branching interval, same nodal clusters. Whoever built the transmission understood the web's structure intimately. Jun? Daal's mother? Something older than both?
+*Open — emerged Episode 4, Scene 1*
+
 ## Dice at End
 
 All pools at 1 (Maren, Lian earned in Aftermath but Daal and Fen earned in collision). Relatively full going into Episode 4.
