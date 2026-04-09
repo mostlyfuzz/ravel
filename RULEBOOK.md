@@ -18,48 +18,42 @@ The game is built for **3–4 players and a GM**. Sessions run episodically, lik
 
 ## Creating a Character
 
-A character in Ravel is defined by a small set of elements. Each element is something you can **honor** during play to earn dice. Your character sheet should fit on an index card, and it should be visible to the whole table.
+A character in Ravel is a bundle of threads — not a list of traits, but a set of open questions about who this person is and who they're becoming. The character sheet is a personal web.
 
-**Every character starts with:**
+**Every character starts with three character threads and two connection threads.**
 
-- **Drive:** What pushes this person. What they need, want, or can't let go of.
-- **Approach:** How they deal with problems. Their default mode of operating.
-- **Belief:** Something load-bearing about how they see the world. A truth they hold.
-- **Memory:** Something from their past that still has weight. A scar, a moment, a loss.
-- **2–3 Relationships:** Connections to other player characters or to NPCs.
+### Character Threads
 
-That's it. Everything else about your character emerges through play.
+A character thread has three parts:
 
-### Examples
+- **Theme:** One word naming the territory the question lives in.
+- **Question:** What's open. Not a statement about who they are — a question about who they're becoming.
+- **Body:** What the table knows at the start. Two sentences at most.
 
-> **Maria Reyes**
-> - *Drive:* Desperation. She needs to fix what she broke, whatever it costs.
-> - *Approach:* Misdirection. Never let them see the real play.
-> - *Belief:* People only help you when they want something
-> - *Memory:* The night she left without saying goodbye
-> - *Relationships:* Peter (he trusts me and he shouldn't), Sonia (she knows what I did)
+Character threads begin *open* and evolve through play. A thread can go *cold*, accumulate weight, or *break*. A thread that goes cold three times **settles**: it stops being a question and becomes a permanent fact about who this person is. Not transformation — erosion.
 
-> **Peter Calloway**
-> - *Drive:* Loyalty. He stands by his people, even when it's stupid.
-> - *Approach:* Direct confrontation. Face it head on, deal with the fallout.
-> - *Belief:* If you don't protect your own, no one will
-> - *Memory:* Two tours overseas, and what he learned about himself there
-> - *Relationships:* Maria (she's the closest thing I have to family), Carlos (we served together, but something changed)
+> **Trust** — *Can Maria trust people again?*
+> She's been burned badly enough that she keeps everyone at arm's length. Something taught her that lesson. She hasn't said what.
+> *open*
 
----
+> **Debt** — *What will Maria do to fix what she broke?*
+> She owes someone something she can't pay back cleanly. She is running out of ways to avoid the moment of reckoning.
+> *open*
 
-## Connections
+> **Loyalty** — *Does Peter's loyalty make him dangerous?*
+> He stands by his people even when it's stupid. The people he stands by don't always deserve it.
+> *open*
 
-After everyone has created their character individually, establish connections between them. Each player should have at least one connection to another player character.
+### Connection Threads
 
-Connections don't have to be direct relationships. They can run through:
+After everyone has made their character threads, establish two connection threads per character. These live in the web, not on the character sheet. Both players must agree on them.
 
-- **People.** "She's my ex-wife's sister."
-- **Places.** "We both drink at the same bar, but we've never spoken."
-- **Objects.** "He has my father's watch. I don't know how."
-- **Events.** "We were both there the night of the fire. We don't talk about it."
+A connection thread is a question about the space between two people — the history, the wound, the thing neither of them will open.
 
-Go around the table. Each player establishes at least one connection to another character. Both players must agree on the connection. The best connections come with a built-in question, something unresolved. These become your first **threads**.
+> *Why does Peter trust Maria when he shouldn't?*
+> *What happened the night Maria left without saying goodbye?*
+
+The best connection threads don't have obvious answers. They become your first threads in the web.
 
 ---
 
@@ -71,7 +65,7 @@ You honor the fiction to earn dice. You spend dice to pull threads. Pulling thre
 
 ### Earning Dice: Honoring
 
-During a scene, when you play to an established element on your character sheet (your drive, your approach, a relationship, your belief, your memory) you can earn a die.
+During a scene, when you play to a character thread — making the question more real, heavier, or more specific — you can earn a die.
 
 **How it works:**
 
@@ -80,7 +74,7 @@ During a scene, when you play to an established element on your character sheet 
 3. **Validate.** If no one at the table objects, you earn a die.
 
 **Rules for earning:**
-- You cannot honor the same element twice in the same scene. If you earned a die for Maria's desperation, you need to honor something else to earn another.
+- You cannot honor the same character thread twice in the same scene. If you earned a die for Maria's Debt, you need to honor a different thread to earn another.
 - Dice accumulate through the session. Unspent dice carry from scene to scene.
 - Dice reset between sessions.
 
@@ -293,17 +287,20 @@ For campaigns, threads that went cold or transformed persist into the next episo
 
 ### Character Development
 
-After every session, look at what you've been honoring. Which elements have been load-bearing? What has happened around them?
+After every session, update your character threads. Look at what the fiction revealed.
 
-**Replace one element** on your character sheet with something the fiction implies. If Maria's desperation led her to betray people over three sessions, it might become *numbness* or *shame* or *ruthlessness*. Not whatever you want. What the fiction demands. The table validates the change, same as always.
+**Update the body** of any thread that moved during the session. Add what play discovered — a line, no more. The body is a record of what became true, not backstory.
 
-The new element enters the economy. You can't earn dice for old-Maria's desperation anymore. You have to play what she's become.
+**A thread that went cold** gains weight. Write what the cold revealed. If a thread settles — three Colds — write its final line and mark it *settled*. It is no longer a question. It is a fact about who this person is.
+
+**A broken thread** closes. Note what broke and how. The table decides what the break means for this character going forward.
 
 ### Thread Persistence
 
 Between sessions, threads persist:
-- **Hot threads** carry forward, questions the table is curious about
-- **Cold threads** wait, unanswered questions that might surface later
+- **Open threads** carry forward, questions the table is curious about
+- **Cold threads** wait, heavier than before. A thread that goes cold three times settles.
+- **Settled threads** are no longer questions. They are permanent facts about this character or this world.
 - **Broken threads** have consequences that ripple into future sessions
 - **New threads** emerge from the connections and fiction established in play
 
@@ -314,9 +311,25 @@ Dice reset. Threads don't.
 
 ## Combat
 
-Ravel does not have combat mechanics. A fight is just another scene, resolved by the same engine.
+A fight is a scene where two characters pull against each other. Both roll. Both outcomes land.
 
-Being a skilled fighter is established fiction, something you honor. Peter's military background means when violence happens, he knows what he's doing. Point to that, the table validates, earn a die.
+Name the thread being pulled — it can be a character thread on either person, or a connection thread between them. The thread determines what's actually at stake.
+
+**Reading two outcomes:**
+
+Both outcomes resolve independently. If Maren rolls Clarity and Tariq rolls Cold, she got what she came for and he's in a harder place. If both roll Cold, neither won and the situation is worse for everyone. If either rolls a Break, something ruptures that can't be undone.
+
+**The trade:**
+
+After outcomes land, either player can offer a trade. You can sacrifice your own outcome to change the other person's — in either direction.
+
+- *I'll take Cold instead of Clarity if you get Clarity too. Neither of us wins clean.*
+- *I'll take a Break if it means you get Cold instead of Clarity. I lose more, but so do you.*
+- *I'll take a Break so you get Clarity. You win. It costs me everything.*
+
+A trade is an offer. The other player accepts or declines. You cannot force a trade. The currency is always your own outcome — you can only spend what you're willing to lose.
+
+Violence in Ravel is collaborative even when it's brutal. The dice set the stakes. The trade shapes the meaning.
 
 But the die doesn't make you win. It lets you pull threads. The fight resolves through the fiction and the consequences of thread-pulling. Someone gets hurt because clarity or a break demanded it, not because dice said 17 damage.
 
