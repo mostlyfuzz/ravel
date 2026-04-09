@@ -30,15 +30,23 @@ Every thread has three parts:
 
 Character threads also carry a **Theme** — one word naming the territory the question lives in (Trust, Debt, Loyalty). World threads don't need one.
 
+### What Happens When You Pull
+
+A pull is how you ask the fiction to answer. The outcome shapes what happens to the thread:
+
+**Clear** — the question branches. The specific question is answered, but the answer opens more specific questions. Those become new threads. The parent thread is done. Clear doesn't close the fiction — it focuses it.
+
+**Cold** — the question deepens. The thread stays open but gains weight. Add a line to the body: what the Cold revealed. A thread that goes Cold three times goes **Silent**.
+
+**Break** — the question ruptures. The thread closes with damage. Its wreckage opens new threads — the consequences keep going even though this question is done. See Breaks.
+
 ### Thread States
 
-**Open** — the question is live. Anyone can honor it, pull it, let it breathe.
+**Open** — the question is live. Can be honored, pulled, branched.
 
-**Cold** — the thread was pulled and didn't resolve. The absence is real. Add a line to the body: what the Cold revealed. A thread that goes Cold three times settles.
+**Silent** — the question stopped being asked. Not answered — eroded by three Colds. The body gets one final line. A Silent thread can be reopened if the fiction directly confronts what went quiet. The table decides when that threshold is met.
 
-**Settled** — the question stopped being a question. Not answered — eroded. The body gets one final line. This is now a permanent fact. Settled threads don't move.
-
-**Broken** — something ruptured. The thread closes with damage. See Breaks.
+**Broken** — the question is done. Closed through rupture. Its damage is permanent and its consequences open new threads.
 
 ### Thread Limits and Cleanup
 
@@ -325,11 +333,11 @@ After every session, update your character threads. Look at what the fiction rev
 
 **Update the body** of any thread that moved during the session. Add what play discovered — a line, no more. The body is a record of what became true, not backstory.
 
-**A thread that went cold** gains weight. Write what the cold revealed. If a thread settles — three Colds — write its final line and mark it *settled*. It is no longer a question. It is a fact about who this person is.
+**A thread that went cold** gains weight. Write what the cold revealed. If a thread goes Silent — three Colds — write its final line and mark it *silent*. It is no longer being asked. It can be reopened if the fiction demands it.
 
 **A broken thread** closes. Note what broke and how. The table decides what the break means for this character going forward.
 
-Dice reset. Threads don't. Open and Cold threads carry forward. Settled and Broken threads leave permanent marks on the fiction. New threads emerge from what play revealed.
+Dice reset. Threads don't. Open and Silent threads carry forward. Broken threads leave permanent marks on the fiction. New threads emerge from what play revealed.
 
 ---
 
@@ -382,29 +390,36 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 
 ## Threads at a Glance
 
-**States:** Open → Cold (×3 → Settled) / Open → Broken
+**Shape:** Question / Body / Status — Character threads also carry a Theme.
+
+**Pull outcomes:**
+
+| Outcome | What happens |
+|---------|--------------|
+| Clear | Branches. Question answered, children open. Parent done. |
+| Cold | Deepens. Thread stays open, body gains a line. Three Colds → Silent. |
+| Break | Ruptures. Thread closes with damage. Wreckage opens new threads. |
+
+**States:**
 
 | State | What it means |
 |-------|---------------|
 | Open | Live. Can be honored, pulled, branched. |
-| Cold | Pulled, unresolved. Body gains a line. Resistance is now established fiction. |
-| Settled | Three Colds. No longer a question. A permanent fact. Does not move. |
-| Broken | Ruptured. Closed with damage. See Breaks. |
+| Silent | Three Colds. Stopped being asked. Can be reopened by the fiction. |
+| Broken | Ruptured. Done. Consequences continue as new threads. |
 
-**Shape:** Question / Body / Status — Character threads also carry a Theme.
-
-**Limit:** 12 active threads. Retire (answered), Collapse (absorbed), Merge (same question from different angles).
+**Limit:** 12 active threads. Retire (answered), Collapse (absorbed), Merge (same question).
 
 **Character threads:** Honor to earn a die. Pull at least once per episode when the fiction earns it.
 
-**World threads:** Pull to resolve. Branch on Clarity into more specific questions.
+**World threads:** Pull to resolve. Clear branches into more specific questions.
 
 ---
 
 ## The Rules on an Index Card
 
 1. **Create** a character: three character threads (Theme, Question, Body) and two connection threads in the web
-2. **Threads** move: Open → Cold (×3 → Settled) or Broken. 12 active max.
+2. **Threads** move: Clear → branches / Cold (×3 → Silent) / Break → wreckage. 12 active max.
 3. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
 4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
 5. **Deliver.** The person the thread is about narrates the outcome
