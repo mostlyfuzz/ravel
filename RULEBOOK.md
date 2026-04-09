@@ -12,7 +12,7 @@ Ravel is a tabletop roleplaying game about characters and the threads that conne
 
 The game is built for **3–4 players and a GM**. Sessions run episodically, like a television series. Each one is complete in itself, but connected to the next through persistent threads.
 
-**You will need:** Standard six-sided dice (a handful per player), tokens (coins, beads, anything small), and something to track threads: index cards, a shared notebook, or whatever works for your table.
+**You will need:** Standard six-sided dice (a handful per player) and something to track threads: index cards, a shared notebook, or whatever works for your table.
 
 ---
 
@@ -75,8 +75,8 @@ During a scene, when you play to an established element on your character sheet 
 
 **How it works:**
 
-1. **Point.** Place a token on the element you're honoring on your character sheet. No need to break the scene by announcing it out loud.
-2. **Deliver.** Play it in the fiction. Show us what that element looks like in action.
+1. **Deliver.** Play the element in the fiction. Show us what it looks like in action.
+2. **Point.** Name what you honored.
 3. **Validate.** If no one at the table objects, you earn a die.
 
 **Rules for earning:**
@@ -96,13 +96,15 @@ Threads point outward. You honor yourself to earn dice. You pull on other charac
 
 **Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
 
-When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome:
+When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome. **Pooling:** multiple characters can contribute dice to a single pull, up to the 3-die maximum. This widens where the answer comes from — the thread's outcome belongs to everyone who put dice in:
 
 | Roll | Outcome |
 |------|---------|
 | **5–6** | **Clarity.** The thread resolves into new established fiction. You learn something true. That truth is now load-bearing. |
 | **3–4** | **Cold.** The thread doesn't resolve, but its resistance is real. Something is missing, hidden, or inaccessible. The absence itself becomes established fiction. |
-| **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. |
+| **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. Every Break leaves a mark. See below. |
+
+**Clarity is a door, not a wall.** When a thread resolves, the answer is usually more specific than the question. "What does Tariq know?" becomes "Jun contacted him before the station went dark." That's true and load-bearing — and it immediately raises "What did Jun tell him?" and "Why did Jun reach out?" Clarity doesn't close the fiction. It focuses it. A Clarity that ends all questions is a lore dump. A Clarity that opens better questions is the engine running.
 
 **There is no wasted roll.** Every outcome gives the table material to work with. Cold is not "nothing happens." Cold is: the files from 1998 are missing. The door is welded shut from the inside. She won't meet your eyes. The answer exists, but something is in the way, and that something is now part of the fiction. A thread that goes Cold multiple times gains weight. Each refusal to resolve makes the question heavier, the absence more present. Some of the most important threads in a campaign will be the ones that never gave you Clarity.
 
@@ -118,36 +120,54 @@ One die is a genuine gamble. Three dice is playing it safe, but it's expensive. 
 
 **Thread branching.** When a pull resolves a thread, the answer often raises more specific questions. The parent thread is resolved, and the new questions become its children. "What does Tariq know?" might resolve into "What did Jun find?" and "Why does it have to be Lian?" The fiction gets more precise as threads branch. A parent thread is done when its children are answered, or when a pull resolves it directly.
 
-**Thread limit.** Keep no more than **12 active threads** on the board. When the fiction generates new threads beyond 12, the table decides what to drop, absorb, or let go cold. Threads answered implicitly by the fiction can be retired without a pull. Threads that no longer interest the table can be dropped. The limit keeps the fiction dense and focused. If everything is a question, nothing is.
+**Thread limit.** Keep no more than **12 active threads** on the board. When you need to make room, keep the questions that are interesting. Drop the ones that aren't. Retire threads the fiction has already answered. Collapse threads that have been absorbed into sharper questions. Merge threads that are asking the same thing from different angles. The table decides together. The limit keeps the fiction dense and focused. If everything is a question, nothing is.
 
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
 
 ---
 
+## Manifestation
+
+Each player has one manifestation per episode. You can show the thread pressure bleeding through your character. Look at what's unresolved around them. Ask what that pressure would look like if it leaked: through their body, their habits, their words, their choices. Show it. Your character doesn't need to know it's happening. Don't answer any thread. Just make the weight visible.
+
+Manifestation costs no dice and resolves nothing. It's not a pull. It deepens the fiction without narrowing it. The loom's pressure palette (if the loom has one) suggests what this looks like in the genre you're playing. In horror, it might be a body doing something its owner doesn't notice. In noir, it might be cruelty toward someone you love. In a political thriller, it might be a decision your character would never have made two sessions ago.
+
+At least one manifestation must happen during the collision. That moment is the climax. If nobody has manifested, it happens here.
+
+---
+
+## Offers and Agency
+
+In Ravel, the fiction is built collaboratively. Every player contributes to the world around every character, not just their own. When you frame a scene, you might describe what another player's character is doing. When you manifest, the pressure you show might spill onto someone else. This is the game working. But there is a line.
+
+**Framing another player's character is an offer, not a decision.** You can suggest what a character does, feels, or says. The character's player accepts by continuing the fiction, or redirects by saying what actually happens. Silence is consent: if nobody objects, the offer stands.
+
+The line is the same as the fiction boundary rule: **opening is free, closing costs something.** An offer that opens space for another character — placing them in a scene, giving them something to react to, suggesting a mood — is a gift. An offer that closes space — resolving how they feel about something, deciding they've recovered, changing their state — needs the player to confirm before it becomes established fiction. **A player can always say no.** If an offer doesn't fit, negotiate it. The offer rewinds and you find what works.
+
+This applies to the GM as much as anyone else. The GM frames. The GM does not decide how characters respond to the frame.
+
+Places where this matters most:
+- **Framing scenes.** Placing a character somewhere and saying what they're doing is an offer. What it means to them is theirs.
+- **Manifestation.** Thread pressure bleeding through your character may touch others. What they do with it is theirs.
+- **Delivery.** The person the thread is about narrates the outcome. Not the person who pulled, not the GM. This rule is load-bearing. When the dice speak, the character's player gives the answer its shape.
+
+Make offers generously. Accept them often. But don't close what isn't yours to close.
+
+---
+
 ## Scenes
 
-Play is organized into **scenes**, with a rotating **spotlight**.
-
-### Spotlight
-
-Each player gets a spotlight scene in turn. On your turn, you choose:
-
-- **Frame.** You set the scene. You decide where we are, who's there, and what's happening. But you don't choose which threads get pulled. The table does.
-- **Pass the frame.** The table (other players and the GM) sets the scene for you. But you choose which threads to pull.
-
-This is the core tradeoff: **you never control both the situation and the investigation.** If you frame, you set the stage but the table decides what gets tugged on. If the table frames, they put you in a situation but you decide what to dig into.
+Anyone can frame a scene: say where we are, who's there, and what's happening. If nobody frames, the GM does. Every character should appear in at least one scene per act.
 
 ### Playing a Scene
 
-Once the scene is framed, name the threads that are live in it. "The threads on the table for this scene are..." This gives the whole table focus and makes it clear what's available to pull. New threads can still emerge during play, but starting with named ones keeps everyone oriented.
+Once the scene is framed, name the threads that are live in it. This gives the whole table focus and makes it clear what's available to pull. New threads can emerge during play, but starting with named ones keeps everyone oriented.
 
-Then play. Roleplay the characters, honor elements, earn dice, and when the moment is right, pull threads. Multiple pulls can happen in a single scene if the fiction supports it. A scene with no pulls is also fine. Sometimes the fiction is more powerful when a question sits unanswered.
+Then play. Honor elements, earn dice, pull threads when the moment is right. Multiple pulls can happen in a single scene. A scene with no pulls is also valid — sometimes the fiction is more powerful when a question sits unanswered.
 
 ### Ending a Scene
 
-The GM calls the end of a scene. Use a soft time limit to keep scenes from sprawling. Cutting a scene before everything resolves is a feature, not a bug. Dangling threads are fuel for the next spotlight.
-
-After a scene ends, the spotlight passes to the next player.
+The GM calls the end of a scene. Cutting before everything resolves is a feature, not a bug. Dangling threads are fuel for the next scene.
 
 ---
 
@@ -165,29 +185,19 @@ You ask the question. The fiction answers through whoever owns that piece of it.
 
 ## The GM
 
-Ravel has a GM, but not in the traditional sense. The GM is a **player with a different portfolio**: not the world-author or the adversary, but a steward of emergence.
+The GM is the table's default baton holder: the person who picks up the fiction when nobody else does, watches the thread web for what's been neglected, and frames scenes when the table is waiting. The creative work of framing, escalating, and delivering is shared with everyone. The GM just ensures it keeps moving.
 
 ### What the GM Does
 
-- **Plays NPCs.** Gives them interiority, honoring their established elements.
-- **Calls scenes.** Ends scenes when the moment is right.
-- **Runs the Tilt.** Manages the midpoint escalation (see below).
-- **Watches the web.** Notices neglected threads, dangling potential.
-- **Narrates world outcomes.** Delivers the fiction when threads about the world or NPCs are pulled.
+- **Holds the baton by default.** Frames scenes, closes scenes, notices when the fiction needs someone to push it forward.
+- **Watches the web.** Keeps track of neglected threads, dormant questions, dangling potential.
+- **Plays NPCs.** Gives them presence in scenes. An NPC can open new threads during Act One's proliferation just like any character in the scene. When a thread about an NPC is pulled, the GM delivers the outcome.
 
-### The GM Plays by the Same Economy
+### NPCs and the Economy
 
-The GM earns dice by honoring established NPC elements, and the table validates just like for any player. The GM keeps a **single shared pool** across all NPCs. Dice earned by honoring any NPC go into the same pool, and the GM can spend them on any pull, anywhere. This makes the GM the player with the biggest portfolio and the most flexibility to apply pressure where the fiction needs it.
+NPCs don't earn or spend dice. They exist in the fiction, not in the economy. They generate threads and deliver outcomes — narrative weight without mechanical weight. The push/pull engine belongs to the players.
 
-When the GM pulls, **the players deliver the outcome**. This means:
-
-- The GM can't plant mysteries they already know the answer to.
-- Players get authorship over the world.
-- NPCs become real. The GM is mechanically bound to honor what's been established about them.
-
-### NPCs
-
-The GM should prepare a few key NPCs before the first session, each with at least a **Drive** and one other element. Keep it light. Most NPCs will emerge during play. The first time the GM plays an NPC with clear intent, that becomes their first established element.
+The GM should give key NPCs at least a Drive before the first session. Keep it light. Most NPC elements will emerge from play. The first time an NPC acts with clear intent, that becomes their first established element.
 
 ---
 
@@ -201,37 +211,37 @@ Episodes have five phases:
 
 No scenes yet. Each player answers three questions about their character: **Where are you? What are you doing? Why?**
 
-This is honoring territory. The answers plant your character in the fiction and begin earning dice. Somewhere in these answers, tensions hide. Characters being who they are plants bombs nobody sees yet.
+This is honoring territory. Every character must honor at least one element before the Cold Open closes. The answers plant your character in the fiction and begin earning dice. Somewhere in these answers, tensions hide. Characters being who they are plants bombs nobody sees yet.
 
 In later sessions, this is also where you review the thread state and locate yourself in the space.
 
 ### Act One: Establishment
 
-A few scenes. The table plays freely: framing scenes, honoring elements, earning dice, pulling threads. Follow the energy, but nothing is locked. Play explores the characters' situations. The table identifies which character's situation holds the most tension. That character's player frames the first scene.
+Three scenes. Every scene should open or branch at least one thread: deepen a question, make something more specific, find what's underneath. This is proliferation. The table is building the web, not resolving it.
 
-By the end of Act One, the table identifies the **bomb**: the specific tension this episode is about. The bomb isn't planned. It emerges from what the characters have done and what the threads have revealed. At the end of Act One, the table names it explicitly. "This episode is about X." That's the commitment. You've chosen your slide.
+Every character must honor before a scene closes. If a scene wants to close and someone hasn't honored, the table asks: "Did you honor?" If not, they do, or they say how they already did.
+
+After the third scene, the table names the **bomb**: the specific tension this episode is about. The bomb isn't planned. It emerges from what the characters have done and what the threads have revealed. Name it explicitly. "This episode is about X." That's the commitment. You've chosen your slide.
 
 ### Act Two: The Slide
 
-The bomb gets pressure-tested. Scenes in Act Two orbit the bomb. The GM's job is collaborative escalation: as scenes play, the GM asks what could go wrong, then pushes further. Characters are forced to make choices under pressure.
+Three scenes in a fixed order: the bomb scene, the echo scene, and the collision.
 
-This is the richest honoring territory in the session. Your elements are under stress. You're playing them hard. Dice accumulate.
+**Scene 1 — The Bomb Scene.** The bomb opens Act Two. The scene should involve multiple characters and build through layers of escalation — each beat worse than the last, pressure accumulating until the fiction has nowhere left to go but crack. The scene closes with a thread breaking open: a situation gets worse in a way nobody can prevent or spend dice to stop. No roll. No cost. The break doesn't name what's coming. It points at it. That pointing is the ammunition for the collision. Anyone at the table can name the break. If nobody does, the GM does. The scene ends on that break.
 
-During the Slide, the frame-or-pull tradeoff relaxes. The bomb is the table's shared focus. Anyone in the scene can pull. The structure wants momentum, not gatekeeping.
+**Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. The pressure should be visible in the cast before it peaks.
 
-Meanwhile, a second thread (the **echo**) develops. It's thematically adjacent to the bomb but logically independent. The table watches for the moment when the echo and the bomb collide. That collision is the **detonation**: the point where escalation has nowhere left to go.
-
-The Slide has three beats: the bomb escalates, the echo develops, then they collide. That's the shape, not a fixed scene count.
+**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. At least one manifestation must happen here. This is the climax. Everyone should be present in it.
 
 ### Act Three: Aftermath
 
-The detonation did the heavy lifting. Now spend those dice. Pull threads. Find out what's true, what went cold, what broke.
+The detonation did the heavy lifting. Now spend those dice. Pulls only. Find out what's true, what went cold, what broke. No new threads, no escalation. Just read the wreckage.
 
-Clarity feeds discovery. Cold threads persist. Breaks leave marks. This phase moves fast because the pressure has already been built. You're reading the wreckage. The Aftermath can be pure pulls with minimal roleplay scaffolding. The fiction already did the work.
+Clarity feeds discovery. Cold threads persist. Breaks leave marks. The Aftermath moves fast because the pressure has already been built.
 
 ### Tag: Breath
 
-One last moment. A callback, a final honoring, the exhale. No pulling. Just character texture after the dust settles.
+One last moment. Something is different than it was: a thread evolves, a character shifts, a question changes shape. This is the cliffhanger, not the exhale. Plant the fuse for next episode.
 
 For campaigns, threads that went cold or transformed persist into the next episode's positioning. The long fuse keeps burning.
 
@@ -239,11 +249,43 @@ For campaigns, threads that went cold or transformed persist into the next episo
 
 ## Session Shape at a Glance
 
-1. **Cold Open.** Position your characters. Earn dice through honoring.
-2. **Act One.** A few scenes. Explore freely. By the end, the table names the bomb.
-3. **Act Two.** The Slide. Escalation, pressure, choices. Dice pile up. The echo collides with the bomb.
-4. **Act Three.** Aftermath. Spend dice. Pull threads. Resolve, transform, or go cold.
-5. **Tag.** One breath. Then carry the threads forward.
+### Cold Open
+- Every character positions: where are you, what are you doing, why?
+- Honor only. No pulls.
+- **After:** Who has the energy? Whose situation feels hottest?
+
+### Act One (3 scenes)
+- Every scene should open or branch at least one thread.
+- Every character honors at least once per scene. Pulls are available.
+- **After each scene:** Did threads change? Which ones evolved, branched, gained weight?
+- **After Scene 3:** Name the bomb. What tension did the scenes reveal? What is this episode about?
+
+### Act Two — Scene 1: Bomb
+- Multiple characters present. Build through layers of escalation.
+- A thread breaks open. No dice, no prevention. The break points at something terrible without naming it.
+- **After:** What cracked? What does it point at?
+
+### Act Two — Scene 2: Echo
+- A second thread develops alongside the bomb. Thematically adjacent, logically independent.
+- Honor and pull.
+- **After:** What is the echo's relationship to the bomb? How do they collide?
+
+### Act Two — Scene 3: Collision
+- The echo and the bomb collide. Everyone present. At least one manifestation.
+- **After:** What detonated? What's left?
+
+### Act Three: Aftermath
+- Pulls only. Spend what you have. Max 3 dice per pull, pooling allowed.
+- No new threads, no escalation. Read the wreckage.
+- **After:** Update the thread board. Retire, collapse, merge. Keep the questions that are interesting.
+
+### Tag
+- One twist. Something is different. Plant the fuse.
+
+### Between Scenes (ongoing)
+- **Threads:** Did any threads evolve, go Cold, crack open, retire? Update the board.
+- **Offers:** Anyone can frame another player's character. The owner confirms or redirects.
+- **Dice:** Track pools visibly. Who has what?
 
 ---
 
@@ -251,9 +293,9 @@ For campaigns, threads that went cold or transformed persist into the next episo
 
 ### Character Development
 
-After a session, look at what you've been honoring. Which elements have been load-bearing? What has happened around them?
+After every session, look at what you've been honoring. Which elements have been load-bearing? What has happened around them?
 
-You may **replace one element** on your character sheet with something the fiction implies. If Maria's desperation led her to betray people over three sessions, it might become *numbness* or *shame* or *ruthlessness*. Not whatever you want. What the fiction demands. The table validates the change, same as always.
+**Replace one element** on your character sheet with something the fiction implies. If Maria's desperation led her to betray people over three sessions, it might become *numbness* or *shame* or *ruthlessness*. Not whatever you want. What the fiction demands. The table validates the change, same as always.
 
 The new element enters the economy. You can't earn dice for old-Maria's desperation anymore. You have to play what she's become.
 
@@ -269,17 +311,6 @@ Dice reset. Threads don't.
 
 ---
 
-## Thread Timescales
-
-Not all threads are equal. Some burn fast, some build slow.
-
-**Short threads** are the episode's focus. They emerge, get pulled, and resolve or break within the session.
-
-**Mid threads** are the season arc. They surface across episodes, accumulate clarity or damage over multiple sessions. The "why do Carlos and Sonia hate each other" that takes four sessions to excavate.
-
-**Long threads** are character-level. Who *is* Maria? What does her desperation cost her over time? These accrue through sustained play and character development.
-
----
 
 ## Combat
 
@@ -293,34 +324,21 @@ Violence is expensive. Not mechanically, but fictionally. It changes things, rev
 
 ---
 
-## Fractures
+## Breaks
 
-Breaks have narrative consequences, but some Breaks leave marks that accumulate. Characters have two **fracture tracks**: **Body** and **Mind**. Each track has three marks.
+Every Break leaves a mark. Breaks are rare enough that each one matters. The marks accumulate, and three marks trace a transformation:
 
-### Earning Fractures
+**First Break: the story changes.** Something in the fiction shifts around the character. A relationship breaks, a truth surfaces, a door closes. The character is implicated but not yet altered.
 
-When a thread connected to physical consequences results in a **Break**, the affected character marks one fracture on **Body**. When a thread connected to psychological consequences results in a Break, mark one on **Mind**.
+**Second Break: the character changes.** Something in how they move through the world shifts. A Belief inverts. A Relationship corrodes. An Approach hardens into something it wasn't. The player and table name what changes. It should feel like loss.
 
-The table validates whether a Break is physical, mental, or neither, using the same default-yes convention as honoring. Most of the time the fiction makes it obvious.
+**Third Break: the character is lost to themselves.** Not dead — transformed past recognition. They are still in the story but they are no longer who they were. The threads that broke them contain the answer. The loom's dissolution note (if it has one) suggests what this looks like in the genre you're playing.
 
-Fractures can come from any Break, including those that emerge during the Slide's escalation or the Aftermath's thread pulls. The fiction doesn't distinguish between pressure you chose and pressure that found you.
+Track marks openly. Watching them accumulate is part of the tension.
 
-### Remedying Fractures
+### Recovering
 
-A fracture can be remedied by pulling a related thread and achieving **Clarity**. The Clarity must fictionally address the source of the fracture: sealing the hull breach, stabilizing the wounded crew member, finding solid ground after a psychological shock. The table validates whether the remedy fits.
-
-Remedying a fracture costs the same as any thread pull (1–3 dice), and there is no guarantee of Clarity. Attempting to heal and rolling a Break instead marks an additional fracture.
-
-### Three Fractures
-
-- **Body: Third fracture, you die.** The fiction delivers this through normal delivery rules.
-- **Mind: Third fracture, you unravel.** The character is overtaken by whatever the pressure demands. They may still be alive, but they are no longer themselves. The GM takes the character into the NPC pool.
-
-### Design Notes for the GM
-
-- Not every Break needs to be a fracture. Breaks on threads about trust, loyalty, or relationships are still just narrative Breaks unless they have clear physical or mental fallout.
-- Fractures should be visible to the table. Track them openly. Watching marks accumulate creates tension.
-- "Unraveling" (third mental fracture) is not necessarily permanent across sessions. Whether and how a character recovers is a long thread for the table to explore.
+A mark can be remedied by pulling a related thread and achieving **Clarity**. The Clarity must fictionally address the source of the mark. The table validates whether the remedy fits. Rolling a Break while attempting to recover adds another mark.
 
 ---
 
@@ -331,11 +349,12 @@ Remedying a fracture costs the same as any thread pull (1–3 dice), and there i
 3. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
 4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
 5. **Deliver.** The person the thread is about narrates the outcome
-6. **Episodes.** Cold Open (position) → Act One (explore, name the bomb) → Act Two (escalate, collide) → Act Three (pull, resolve) → Tag (breathe)
-7. **Scenes.** Frame your scene or let the table frame it
-8. **Everyone plays by the same rules.** The GM earns dice and pulls threads too
-9. **Between sessions,** evolve one element on your sheet, carry threads forward
-10. **Fractures.** When Breaks carry physical or mental consequences, mark a fracture. Three body fractures: death. Three mind fractures: you unravel. Clarity on a related thread can remedy a fracture.
+6. **Episodes.** Cold Open → Act One: 3 scenes, proliferate, name the bomb → Act Two: bomb scene (thread breaks), echo scene (manifest), collision → Act Three: pulls only → Tag: one twist
+7. **Scenes.** Anyone frames. GM frames when nobody does. Every character in at least one scene per act.
+8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
+9. **The GM** holds the baton by default, watches the web, plays NPCs. NPCs generate threads and deliver outcomes. They don't pull.
+10. **Between sessions,** replace one element on your sheet with what the fiction demands. Carry threads forward.
+11. **Breaks mark the character.** First: the story changes. Second: the character changes. Third: lost to themselves. Clarity on a related thread can recover a mark.
 
 Teach in five minutes. The depth comes from play, not from rules.
 
