@@ -16,6 +16,48 @@ The game is built for **3–4 players and a GM**. Sessions run episodically, lik
 
 ---
 
+## Threads
+
+A thread is an unresolved question in the fiction. It can be about the world, about a situation, or about a person. Threads are what the table is playing with. Everything else — dice, scenes, episodes — exists to move them.
+
+### Thread Shape
+
+Every thread has three parts:
+
+- **Question:** What's open. Something the table doesn't know the answer to yet.
+- **Body:** What the table knows so far. Starts sparse. Accumulates as Colds and Clears add lines through play.
+- **Status:** Where the thread stands.
+
+Character threads also carry a **Theme** — one word naming the territory the question lives in (Trust, Debt, Loyalty). World threads don't need one.
+
+### Thread States
+
+**Open** — the question is live. Anyone can honor it, pull it, let it breathe.
+
+**Cold** — the thread was pulled and didn't resolve. The absence is real. Add a line to the body: what the Cold revealed. A thread that goes Cold three times settles.
+
+**Settled** — the question stopped being a question. Not answered — eroded. The body gets one final line. This is now a permanent fact. Settled threads don't move.
+
+**Broken** — something ruptured. The thread closes with damage. See Breaks.
+
+### Thread Limits and Cleanup
+
+Keep no more than **12 active threads** on the board. When you need to make room, keep the questions that are interesting. Drop the ones that aren't.
+
+- **Retire** threads the fiction has already answered.
+- **Collapse** threads absorbed into sharper questions.
+- **Merge** threads asking the same thing from different angles.
+
+The table decides together.
+
+### World Threads and Character Threads
+
+**World threads** are questions about the situation, the environment, events, other people. They live in the web and are visible to everyone.
+
+**Character threads** are questions about who a specific person is and who they're becoming. They live on the character sheet but are still visible to the table. Honoring a character thread earns a die. Each character thread should be pulled at least once per episode when the fiction earns it.
+
+---
+
 ## Creating a Character
 
 A character in Ravel is a bundle of threads — not a list of traits, but a set of open questions about who this person is and who they're becoming. The character sheet is a personal web.
@@ -24,13 +66,7 @@ A character in Ravel is a bundle of threads — not a list of traits, but a set 
 
 ### Character Threads
 
-A character thread has three parts:
-
-- **Theme:** One word naming the territory the question lives in.
-- **Question:** What's open. Not a statement about who they are — a question about who they're becoming.
-- **Body:** What the table knows at the start. Two sentences at most.
-
-Character threads begin *open* and evolve through play. A thread can go *cold*, accumulate weight, or *break*. A thread that goes cold three times **settles**: it stops being a question and becomes a permanent fact about who this person is. Not transformation — erosion.
+A character thread has three parts: a **Theme** (one word naming the territory), a **Question** (what's open — not a statement about who they are, but a question about who they're becoming), and a **Body** (what the table knows at the start, two sentences at most). See Threads for how they move through play.
 
 > **Trust** — *Can Maria trust people again?*
 > She's been burned badly enough that she keeps everyone at arm's length. Something taught her that lesson. She hasn't said what.
@@ -112,9 +148,7 @@ When you want to pull a thread, spend **between 1 and 3 dice** and roll them. Th
 
 One die is a genuine gamble. Three dice is playing it safe, but it's expensive. The choice between spending cautiously and gambling cheap is the heartbeat of the economy.
 
-**Thread branching.** When a pull resolves a thread, the answer often raises more specific questions. The parent thread is resolved, and the new questions become its children. "What does Tariq know?" might resolve into "What did Jun find?" and "Why does it have to be Lian?" The fiction gets more precise as threads branch. A parent thread is done when its children are answered, or when a pull resolves it directly.
-
-**Thread limit.** Keep no more than **12 active threads** on the board. When you need to make room, keep the questions that are interesting. Drop the ones that aren't. Retire threads the fiction has already answered. Collapse threads that have been absorbed into sharper questions. Merge threads that are asking the same thing from different angles. The table decides together. The limit keeps the fiction dense and focused. If everything is a question, nothing is.
+**Thread branching.** When a pull resolves a thread with Clarity, the answer often raises more specific questions. Those become child threads. The fiction gets more precise as it branches. See Threads for limits and cleanup.
 
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
 
@@ -295,16 +329,7 @@ After every session, update your character threads. Look at what the fiction rev
 
 **A broken thread** closes. Note what broke and how. The table decides what the break means for this character going forward.
 
-### Thread Persistence
-
-Between sessions, threads persist:
-- **Open threads** carry forward, questions the table is curious about
-- **Cold threads** wait, heavier than before. A thread that goes cold three times settles.
-- **Settled threads** are no longer questions. They are permanent facts about this character or this world.
-- **Broken threads** have consequences that ripple into future sessions
-- **New threads** emerge from the connections and fiction established in play
-
-Dice reset. Threads don't.
+Dice reset. Threads don't. Open and Cold threads carry forward. Settled and Broken threads leave permanent marks on the fiction. New threads emerge from what play revealed.
 
 ---
 
@@ -355,10 +380,31 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 
 ---
 
+## Threads at a Glance
+
+**States:** Open → Cold (×3 → Settled) / Open → Broken
+
+| State | What it means |
+|-------|---------------|
+| Open | Live. Can be honored, pulled, branched. |
+| Cold | Pulled, unresolved. Body gains a line. Resistance is now established fiction. |
+| Settled | Three Colds. No longer a question. A permanent fact. Does not move. |
+| Broken | Ruptured. Closed with damage. See Breaks. |
+
+**Shape:** Question / Body / Status — Character threads also carry a Theme.
+
+**Limit:** 12 active threads. Retire (answered), Collapse (absorbed), Merge (same question from different angles).
+
+**Character threads:** Honor to earn a die. Pull at least once per episode when the fiction earns it.
+
+**World threads:** Pull to resolve. Branch on Clarity into more specific questions.
+
+---
+
 ## The Rules on an Index Card
 
-1. **Create** a character: Drive, Approach, Belief, Memory, 2–3 Relationships
-2. **Connect** to other characters through people, places, objects, or events
+1. **Create** a character: three character threads (Theme, Question, Body) and two connection threads in the web
+2. **Threads** move: Open → Cold (×3 → Settled) or Broken. 12 active max.
 3. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
 4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
 5. **Deliver.** The person the thread is about narrates the outcome
@@ -366,7 +412,7 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 7. **Scenes.** Anyone frames. GM frames when nobody does. Every character in at least one scene per act.
 8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
 9. **The GM** holds the baton by default, watches the web, plays NPCs. NPCs generate threads and deliver outcomes. They don't pull.
-10. **Between sessions,** replace one element on your sheet with what the fiction demands. Carry threads forward.
+10. **Between sessions,** update thread bodies with what play revealed. Carry threads forward. Dice reset.
 11. **Breaks mark the character.** First: the story changes. Second: the character changes. Third: lost to themselves. Clarity on a related thread can recover a mark.
 
 Teach in five minutes. The depth comes from play, not from rules.
