@@ -16,6 +16,30 @@ The game is built for **3–4 players and a GM**. Sessions run episodically, lik
 
 ---
 
+## A Game in Motion
+
+*Three friends drove out to Harker Lake because Danny said it would be fine. It is not fine. The car is in the ditch, Maya's phone is dead, and someone — or something — has been circling the tree line for the last twenty minutes.*
+
+---
+
+Maya: "We stay with the car. That's the rule. You never leave the car." She says it like she's reminding herself, not the others.
+
+*[Maya honors her Dread thread. She earns a die.]*
+
+Danny looks at the tree line. Then at the road. Then back. He wants to pull his Loyalty thread — whether he runs or stays when it counts.
+
+*[Danny spends two dice. Rolls a three and a four. Cold.]*
+
+Danny: "I'm not — we should just —" He takes a step toward the road. Stops.
+
+*[Danny's Loyalty body gets a new line: right now, loyalty means nothing to him. Why?]*
+
+Roz: "Danny."
+
+Danny: "I know."
+
+---
+
 ## Threads
 
 A thread is an unresolved question in the fiction. It can be about the world, about a situation, or about a person. Threads are what the table is playing with. Everything else — dice, scenes, episodes — exists to move them.
