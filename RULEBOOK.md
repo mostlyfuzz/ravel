@@ -366,6 +366,41 @@ Dice reset. Threads don't. Open and Silent threads carry forward. Broken threads
 ---
 
 
+## Seasons
+
+An episode is a self-contained arc. A **season** is five or six episodes that share a thematic spine. Threads, breaks, and silences accumulate across the season. The last episode is the **Finale**: the same engine running in reverse.
+
+Ravel's regular-play verbs are generative. Clarity opens more specific questions. Manifestation deepens without narrowing. Cold gains weight. The web grows. That growth is the point of the season's middle episodes: pressure has to build before it can land.
+
+The Finale converges what the season generated. Same verbs, inverted outcomes. The board contracts.
+
+### The Finale: Five Inversions
+
+The Finale is a regular episode with five rules changed. Everything else (Cold Open, three Acts, Tag, scene shape, honor and pull economy) runs as normal.
+
+**1. Act One contracts instead of branches.** In a normal Act One, every scene opens or branches at least one thread. In the Finale, every Clarity Retires or Collapses an existing thread. The web shrinks. Cold and Break still behave normally. Only Clarity inverts.
+
+**2. The Bomb is the Opener.** A normal Bomb is whatever thread Act One's pressure pointed at. The Finale's Bomb is fixed: the Opener thread that started the season is the one that breaks open in Act Two. No roll, no prevention. The question that launched the season ruptures.
+
+**3. The Collision demands a permanent change.** A normal Collision requires at least one manifestation. The Finale's Collision requires that and one of: a **Third Break** on a character, or the **retirement of a season-shaping thread** (an Anchor or the Opener). The detonation has to leave a permanent mark on the board.
+
+**4. Manifestation resolves an element.** A normal Manifestation deepens the fiction and resolves nothing. The Finale's Collision Manifestation must settle one of the manifesting character's elements: a Drive, an Approach, or a Memory shifts shape. The element changes on the page. Name what it was. Name what it becomes.
+
+**5. The Tag fades to black.** A normal Tag plants a fuse for the next episode. The Finale's Tag closes instead. Any thread still Open at the end of the Finale goes Silent. Write its final line. Silent threads carry into the next season as ghosts: reopenable, but only if the fiction directly confronts what went quiet.
+
+### Between Seasons
+
+Cleanup is mandatory. Use Retire, Collapse, and Merge aggressively. The board entering Season 2 should be smaller than the board leaving Season 1.
+
+Break marks persist. Transformations persist. Silent threads persist as silent. New Openers are rolled. Connection rings may be re-rolled if the fiction supports it.
+
+### Shows
+
+Five or six seasons make a **show**. The show's closure is not a mechanic. It is the table deciding the fiction is complete. When that moment arrives, you will know.
+
+---
+
+
 ## Combat
 
 A fight is a scene where two characters pull against each other. Both roll. Both outcomes land.
