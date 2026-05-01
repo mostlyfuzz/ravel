@@ -431,19 +431,55 @@ Violence is expensive. Not mechanically, but fictionally. It changes things, rev
 
 ## Breaks
 
-Every Break leaves a mark. Breaks are rare enough that each one matters. The marks accumulate, and three marks trace a transformation:
+A Break is rare and decisive. Pulling on a thread made something worse. How that worseness lands depends on what kind of thread broke. Damage accumulates on the thread itself, not on a separate ledger. The intermediate tiers are a fuel gauge: they read out how close a thread is to terminal change. Only the terminal tier produces mechanical change. The rest is fiction the table writes.
 
-**First Break: the story changes.** Something in the fiction shifts around the character. A relationship breaks, a truth surfaces, a door closes. The character is implicated but not yet altered.
+### Story Threads
 
-**Second Break: the character changes.** Something in how they move through the world shifts. A Belief inverts. A Relationship corrodes. An Approach hardens into something it wasn't. The player and table name what changes. It should feel like loss.
+A story thread closes on Break. Wreckage opens new threads. The **lineage**, meaning the root thread plus all its descendants, accumulates a cumulative break count. As that count rises, breaks in the lineage escalate.
 
-**Third Break: the character is lost to themselves.** Not dead — transformed past recognition. They are still in the story but they are no longer who they were. The threads that broke them contain the answer. The loom's dissolution note (if it has one) suggests what this looks like in the genre you're playing.
+**1st break in lineage: Complication.** Story shifts. Wreckage opens new threads.
 
-Track marks openly. Watching them accumulate is part of the tension.
+**2nd break in lineage: Implication.** Story shifts. Wreckage opens new threads. The puller takes a Scarred mark on one of their character threads fictionally linked to the lineage. If more than one applies, the player picks.
+
+**3rd break in lineage: Shatter.** The lineage collapses. All open descendants of the root go Silent. Write their final lines now. The fictional region the lineage covered is permanently scarred: no thread reopens here without something carrying the weight of what was lost. The puller takes a Break on their most-damaged character thread.
+
+### Character Threads
+
+A character thread does not close on a single Break. Damage accumulates on the thread itself, like an HP gauge. Each break adds a body line: what wounded the element and how it operates against the character now.
+
+**1st Break: Scarred.** The element is wounded but functional. Body gains a line.
+
+**2nd Break: Fractured.** The element operates against itself. A Drive becomes ambivalent. An Approach becomes brittle. A Memory becomes unreliable. Body gains a second line.
+
+**3rd Break: Lost.** The element transforms or vanishes. A Drive flips. An Approach hardens past use. A Memory rewrites or goes blank. The thread closes by transforming. Write the final line, what the element became.
+
+When any character thread reaches Lost, the character is **lost to themselves**. Still in the story, but no longer who they were. The threads that broke them contain the answer. The loom's dissolution note, if it has one, suggests what this looks like in the genre you're playing. From this point the player decides what their character does, including, if they choose, that the character is gone.
+
+*(TODO: clarify the constraints of playing a lost-to-themselves character. The intent is that the constraints make playing them feel very different, not that they are removed from the fiction.)*
+
+### Relationship Threads
+
+A connection thread between two characters does not close on a single Break. Damage accumulates on the thread itself. Both characters experience it because the thread is bound to both, but the damage sits on the thread, not on either character.
+
+**1st Break: Strained.** Something wounded the relationship. The bond holds but carries a scar. Body gains a line.
+
+**2nd Break: Fractured.** The relationship operates against both parties. Trust corrodes. The bond persists but it is hurting them. Body gains a second line.
+
+**3rd Break: Severed or Inverted.** The relationship transforms. *Severed*: the bond ends. They are strangers, enemies, or one is gone from the other's life. *Inverted*: the bond becomes its opposite. Love into hatred, loyalty into betrayal, partnership into rivalry. The table picks the shape that fits the fiction.
+
+### What the Tiers Do
+
+Across all thread types, Tier 1 and Tier 2 are narrative pressure. The dice math does not change. What changes is what the table writes on the thread, how the table plays the thread going forward, and how visibly close the thread is to terminal transformation. Only Tier 3 lands mechanical change.
+
+The one exception is story-lineage Tier 2 (Implication), where the puller takes a character-thread mark. Without that hook, story-thread damage would not accumulate at all, and lineages would be flat.
+
+Track damage openly on every thread. Watching it accumulate is part of the tension.
 
 ### Recovering
 
-A mark can be remedied by pulling a related thread and achieving **Clarity**. The Clarity must fictionally address the source of the mark. The table validates whether the remedy fits. Rolling a Break while attempting to recover adds another mark.
+A mark on a character thread or a relationship thread can be remedied by pulling a related thread and achieving **Clarity**. The Clarity must fictionally address the source of the damage. The table validates whether the remedy fits. Rolling a Break while attempting to recover adds another mark to the thread you were pulling.
+
+A character thread at Lost cannot be recovered. The transformation stands. A relationship thread at Severed cannot be recovered. A relationship thread at Inverted can be reopened as a new thread, its question asked from the inverted state.
 
 ---
 
@@ -457,7 +493,7 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 |---------|--------------|
 | Clear | Branches. Question answered, children open. Parent done. |
 | Cold | Deepens. Thread stays open, body gains a line. Three Colds → Silent. |
-| Break | Ruptures. Thread closes with damage. Wreckage opens new threads. |
+| Break | Damage accumulates. Story threads close (lineage tracks); character and relationship threads persist through three tiers, then transform. See Breaks. |
 
 **States:**
 
@@ -465,7 +501,8 @@ A mark can be remedied by pulling a related thread and achieving **Clarity**. Th
 |-------|---------------|
 | Open | Live. Can be honored, pulled, branched. |
 | Silent | Three Colds. Stopped being asked. Can be reopened by the fiction. |
-| Broken | Ruptured. Done. Consequences continue as new threads. |
+| Broken | Story thread ruptured. Done. Consequences continue as new threads. |
+| Transformed | Character or relationship thread at third Break. Element or bond changed shape. See Breaks. |
 
 **Limit:** 12 active threads. Retire (answered), Collapse (absorbed), Merge (same question).
 
