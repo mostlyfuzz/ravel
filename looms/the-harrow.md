@@ -246,6 +246,7 @@ What you do on the Harrow. Pick one or invent your own.
 - **Body autonomy failing.** A hand moving on its own. Eyes tracking something nobody else can see. Speaking words you didn't choose. The body knows something the mind doesn't.
 - **Technology behaving with intent.** Judith answering a question you didn't ask. A console displaying data nobody requested. The ship responding to a thought instead of a command.
 - **Knowledge that makes things worse.** Finding the answer you wanted and wishing you hadn't. Understanding something that can't be unlearned. Seeing a pattern that implicates you.
+- **Records refusing to agree.** A timestamp that contradicts what you remember doing. A log entry in your own hand you don't recognize. The pod says you slept through. Your body says otherwise.
 - **Isolation deepening in small spaces.** The ship is small and the crew is smaller. A conversation that makes you feel more alone than silence did. Realizing the person next to you is somewhere else entirely.
 - **The familiar becoming alien.** Food that tastes wrong. A corridor that feels longer than it should. Your own reflection doing something a half-second late.
 
