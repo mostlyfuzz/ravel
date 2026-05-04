@@ -54,6 +54,8 @@ Every thread has three parts:
 
 Character threads also carry a **Theme** — one word naming the territory the question lives in (Trust, Debt, Loyalty). World threads don't need one.
 
+**A note on choosing thread questions.** A good thread's answer generates fiction *inside* the thread itself. *Why these four? What did Sars want? How long until they break?* — answers to these add to the world the thread covers: a name, a reason, a face. Avoid threads whose answers are binary or whose consequences only land elsewhere. *Will the facade hold?* fails this test: yes changes nothing, no triggers events on other threads. The thread itself stays empty either way. Threads earn their place when their answers *deposit* something.
+
 ### What Happens When You Pull
 
 A pull is how you ask the fiction to answer. The outcome shapes what happens to the thread:
