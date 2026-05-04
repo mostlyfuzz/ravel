@@ -451,6 +451,8 @@ These threads do not close on a single Break. They are bound to a person (or to 
 
 When the first Break lands, the table names a **wound**: a short fictional descriptor that is now tagging along with the thread. *Betrayal* on a Loyalty Drive. *Nightmares* on a Memory. *Distance* on a relationship. The wound is the running consequence — a little devil at the thread's shoulder. Body line records what wounded it.
 
+Name the wound for the *behavior it produces*, not the event or person that caused it. *Denial* is a wound; *Sars* is what wounded the thread. The wound's name has to tell the player what to play when the wound manifests.
+
 Each subsequent Break amplifies the same wound rather than adding a new one.
 
 **Tier 1 — Scarred (1 Break):** the wound shows on a 1d6 roll of 1–3. Half the time the thread plays clean; half the time the wound is what comes through.
