@@ -206,3 +206,20 @@ Pool counts off-by-one in places; user agreed to keep extras for roleplay and we
 - Jude lied about docking safety; Tomas's checklist quietly corrected her without naming it.
 - VITAL is unresolved — Tomas avoiding Jude's exam, Jude knows there are things on his file that aren't there.
 - Echo scene needs a second thread to develop alongside the bomb. Pressure visible. Manifestation territory.
+
+---
+
+## Balance observation (mid-Collision pause)
+
+Honor-to-pull ratio was heavily lopsided across Act One and Act Two. Across the table we landed roughly 18+ honors (multiple per character per scene, many earned legitimately by playing established elements through fiction). We landed three pulls total: Tomas's WITNESS (2D, Clear), Archie's EDGE (Clear), and the implicit "no-roll" wound on PENANCE.
+
+That left rough pool counts entering Aftermath at ~4–5 dice per character — a lot of unspent agency.
+
+**Possible reads:**
+- The fiction simply didn't call for pulls. Acts 1–2 were establishment-heavy, pressure-visible, manifestation-rich. Resolution moments were rare because the table was building, not resolving. Aftermath is structurally pulls-only and will burn pool fast.
+- Or honors are over-generous as currently designed — character threads earn dice too easily relative to the rate at which threads need resolving, leading to inflated pools that flatten the cost of pulls.
+- Or pulls feel high-stakes (commit dice, accept potential Break) and players defaulted to honor-and-establish, dodging the resolution risk. If that's a pattern, the dice economy isn't actually creating pressure — it's accumulating capital.
+
+**Worth watching:** Across multiple full-episode playtests, are pools naturally drained by Aftermath, or do players end episodes still rich? If the latter, the economy needs tightening — either fewer honors per scene, or pull-encouragement built into earlier act structure.
+
+Not a rule change yet. A flag for future sessions to track.
