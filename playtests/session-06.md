@@ -124,9 +124,11 @@ Per the bomb-scene rule, a thread breaks open at scene end, by table declaration
 
 Why PENANCE: Sars *is* the thing Tomas can't take back. The previous-contract trauma he's been carrying is no longer a glitch he could explain away. The redemption arc structurally compromised in the moment of revelation. The break landed where it actually hurt.
 
-**Wound attached: *Sars*. Tier 1 (Scarred). 1d6 manifestation zone: 1–3.**
+**Wound attached: *Denial*. Tier 1 (Scarred). 1d6 manifestation zone: 1–3. Source: Sars.**
 
-Going forward, when Tomas honors or pulls PENANCE, roll 1d6 first. On 1–3 the wound manifests: the redemption move is shaped by Sars's presence rather than against it.
+Going forward, when Tomas honors or pulls PENANCE, roll 1d6 first. On 1–3 the wound manifests: Tomas refuses to acknowledge or act on what he knows. The slate won't come clean, so push it down.
+
+(First wound name was *Sars* — corrected during playtest. The wound's name should be the *behavior it produces*, not the source. Sars is what wounded the thread; Denial is how the wound shows. Rulebook updated to reflect this distinction.)
 
 ### Cleanup mid-bomb
 
@@ -166,7 +168,7 @@ Pool counts off-by-one in places; user agreed to keep extras for roleplay and we
 - *"Will the facade hold?"*
 
 **Wounded:**
-- PENANCE (Tomas, Drive) — Wound: *Sars*. Tier 1 (Scarred). Zone 1–3.
+- PENANCE (Tomas, Drive) — Wound: *Denial* (source: Sars). Tier 1 (Scarred). Zone 1–3.
 
 **Closed via Clarity:**
 - WITNESS (Tomas, Memory) — answered: *Sars is the dead biometric Tomas has seen across multiple missions, dismissed as glitches, now confirmed real.*
