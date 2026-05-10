@@ -282,3 +282,42 @@ Two pulls, both Clarity. Truths crystallized about both Jude (her readiness, rec
 
 The hatch is still hot. Inner airlock equalized. Whoever opens it sees first.
 
+
+---
+
+## Post-session analysis (concise)
+
+### Engine — what worked
+- **Honors as characterization.** Five honors per character compose into a more accurate description of who the character is than any sheet-prose. Drives, Approaches, Memories accumulate into specificity. The system makes characters legible through play.
+- **Phase shape.** Bomb sets up → Collision proves under pressure → Aftermath crystallizes. Each phase has a different relationship to truth; the engine *feels* that change.
+- **Wounds.** Tomas's PENANCE Denial rolled at the exact right moment to force a silence the player didn't want and the character would. The wound created fiction.
+- **Pull dice match honor character.** Archie's Control Clarity at 6 confirmed what five honors had written. The dice agreed with the table.
+
+### Engine — what's weak
+- **Honor inflation.** Five honors per character, three pulls across the act. Pools fat, pulls cheap. Worth watching across more sessions.
+- **Bomb-thread mismatch.** Rule says a thread breaks at bomb scene end; practice landed the break on a character thread (PENANCE). "Will the facade hold?" failed as a placeholder; the rule and the fiction wanted different things.
+- **No vocabulary for "narrate, don't pull."** Some climax fiction wants narrative space, not dice. The system doesn't say when.
+- **Per-scene Act One quota was too tight** (softened in this commit).
+
+### Episode — what worked
+- **Thematic spine cohered without preaching.** "A crew performing trust before something that doesn't tolerate performance."
+- **Each character earned legibility through one or two specific beats.** Jude's slow turn from the screen, Tomas's two-meters-behind-the-chair, Archie's "GO TEAM" with the conspicuous omission, Mira's printout against her ribs.
+- **Tag earned the title.** *Mira's credentials in the access log doing things she didn't do.*
+
+### Episode — what was weak
+- **Jude was underserved until the Echo.** Her Cost / Family lived offstage too long. A pressure scene in Act One would have built her.
+- **Talky.** Almost no physical action. Body-language beats carried because they were rare; a more action-shaped table would find it thin.
+- **Mira leaned on internal narration early.** Got sharper when forced to externalize in the bomb scene.
+- **Jude's family was told (BLOOD body) but not shown.** A name, a face, a private grief moment — unpaid bill.
+
+### What would make Episode 2 better
+- One scene in Act One where Jude has to make a costly choice with her family weight active.
+- One physical-action scene: a corridor where Tomas finds something, a door someone forces, a transmission Mira intercepts.
+- A beat that pays the Acheron-9 family bill — a photo, a name, a recognizable body once they're inside.
+- Watch pool inflation. If pulls stay rare, examine whether the per-scene honor rules need tightening.
+
+### Tooling notes for next time
+- harrow app needs persistence config OR export/import (issues #12, #13) before episode 2 — losing the event log mid-Collision cost us nothing fictionally but everything mechanically.
+- Wound UI (#9) and per-honor notes (#14) would change the texture of play substantially.
+- Without these, plan on more pure-fiction mode and mirror state into this doc as we go.
+
