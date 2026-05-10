@@ -223,3 +223,62 @@ That left rough pool counts entering Aftermath at ~4–5 dice per character — 
 **Worth watching:** Across multiple full-episode playtests, are pools naturally drained by Aftermath, or do players end episodes still rich? If the latter, the economy needs tightening — either fewer honors per scene, or pull-encouragement built into earlier act structure.
 
 Not a rule change yet. A flag for future sessions to track.
+
+---
+
+## Continuation: Collision and Aftermath (post-server-loss, narrative-only)
+
+Server died mid-collision; NATS lost the event log. Continued in pure fiction.
+
+### Collision (Bridge — All Four)
+
+The *Acheron-9* fills the window. Archie at the helm aligning approach, Mira at comms tracking override telemetry, Tomas at the doorway pre-EVA, Jude at the secondary medical station with her field kit open (auto-injector visible).
+
+**Manifestation #1 — Judith's voice doubles.** "Approach vector aligned... Welcome to the *Acheron-9*. Please observe standard rendezvous protocols." The second sentence comes from a different carrier signal routed through Judith — vector points *inside the bridge*. Mira sees it on her console. One of the four is the second Sars-class.
+
+**Tomas's first wound roll on PENANCE.** Honored for wanting to speak the truth. Rolled **2 → Denial manifests.** He pushes it down. Redirects to procedure. Sends Mira a private tablet message: *"The greeting came from inside the bridge."*
+
+**Hard dock approach. Manifestation #2 — Judith breaks through.** Lights flicker, intercom screech, blue line dims to one-third. Through the noise, clearly: *NOOOOOO... YOU MUST NOT DOCK... FLEEE... before is too late!!!!* The AI was witnessing all along; her glitches were warnings being silenced.
+
+**Archie reengages the latching.** Doubles down on docking despite Judith's warning.
+
+**Tomas's silence breaks.** Steps forward, voice flat: "Lead. Disengage. Now." No explanation.
+
+**Mira speaks publicly.** Names the two signal sources. Names that one of the four is broadcasting in a dead person's voice. Names that she's been sitting on it for two days.
+
+**Tomas confirms.** Says the name out loud — Sars. Admits he's seen the signature on three previous contracts. Admits his supervisor wrote it up as instrumentation error. Admits he stopped reporting it after the third. Admits he has been told it's not real for so long that he doesn't trust himself.
+
+**Archie does not disengage.** Hard lock completes. Inner airlock pressure equalizes. The hatch is hot.
+
+### Aftermath
+
+#### Pull 1: WATCH (Jude on Archie)
+
+Question: *"How long until Archie breaks, and will Jude be ready?"* Pulled 3D, rolled 4-5-5 → **Clarity** (max die 5).
+
+Body: *Archie broke at the Collision. Jude was ready — auto-injector loaded, medical authority intact, recovery supplies prepped. But ready turned out not to mean riding his command to her destination. She can't ride a broken man to her family.*
+
+WATCH closes. Branched into a new child thread on Jude:
+
+**"What is the path Jude makes alone?"** — 1-ref Jude, personal.
+
+Body: *Jude planned to ride Archie's command to her family on the Acheron-9. He broke at the Collision; the plan with him in it broke too. She's making her path alone now — in the specific shape of someone whose assumptions were violated by the people she counted on. The doctor who watches has become the doctor who acts. Trust is no longer part of the toolkit.*
+
+#### Pull 2: Control (Archie's Drive)
+
+Question crystallized from honors: *what is the truth of Archie's Control after the Collision exposed it?* Pulled 3D, rolled 2-6-3 → **Clarity at 6** (maximum strength).
+
+Body: *Archie will do anything to keep the helm. Reframe a crew member's question as a delegation he was about to make. Lie about his sleep totals to the doctor checking on him. Override the AI's scream, the specialist's "disengage," the signals tech's testimony about a dead biometric on his bridge. Control is not leadership for him — it is the refusal to receive any input that contradicts him. The Collision proved it under maximum pressure. The truth is now undeniable to the table.*
+
+Control closes. Branched into:
+
+**"Who pays the price for Archie's Control?"** — 0-ref shared, generative.
+
+The world responding to who Archie has become. Each future scene where someone takes a cost on Archie's behalf will deposit fiction inside this thread.
+
+#### Aftermath ends.
+
+Two pulls, both Clarity. Truths crystallized about both Jude (her readiness, recognized as needing to be self-made) and Archie (his Control, exposed as refusal-of-contradiction). New threads carry forward into the Tag and next episode.
+
+The hatch is still hot. Inner airlock equalized. Whoever opens it sees first.
+
