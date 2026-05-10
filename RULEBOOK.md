@@ -90,6 +90,8 @@ The table decides together.
 
 **Character threads** are questions about who a specific person is and who they're becoming. They live on the character sheet but are still visible to the table. Honoring a character thread earns a die. Each character thread should be pulled at least once per episode when the fiction earns it.
 
+**Keep your world threads broad enough to cover the climax.** Aftermath bans new threads, so the questions on the board at the end of Act One are the questions that have to absorb whatever the Collision produced. If the climactic moment of fiction is a thing nobody can pull on because no thread covers it, the table is forced to either narrate without dice or break the no-new-threads rule. World threads phrased broadly — *what happened here, what is this place, what is this person* — flex to absorb climax energy. World threads phrased narrowly tend to leave the table holding fiction the engine can't process.
+
 ---
 
 ## Creating a Character
@@ -281,7 +283,7 @@ In later sessions, this is also where you review the thread state and locate you
 
 ### Act One: Establishment
 
-Three scenes. Every scene should open or branch at least one thread: deepen a question, make something more specific, find what's underneath. This is proliferation. The table is building the web, not resolving it.
+Three scenes. Across the act, the table opens or branches threads: deepen a question, make something more specific, find what's underneath. This is proliferation — the act-level engine. Some scenes will open new threads; others will deepen what's already there through play. What matters is that Act One *as a phase* proliferates. Don't force a thread into a scene that's already moving meaningfully through existing ones. Forced threads tend to be weak threads (no fictional anchor) and clutter the board for cleanup later.
 
 Every character must honor before a scene closes. If a scene wants to close and someone hasn't honored, the table asks: "Did you honor?" If not, they do, or they say how they already did.
 
@@ -304,6 +306,8 @@ The detonation did the heavy lifting. Now spend those dice. Pulls only. Find out
 Aftermath pulls **crystallize what honors have established**. The act has specified each character through play; the Collision proved those specifications under pressure; the Aftermath is where the proven truths spill into the world. Read your honors over the episode before you pull. The truths you built want a witness now.
 
 Aftermath pulls establish truths, not actions. The doing the truths invite plays out in the Tag and across future episodes. *No new threads* means no *spontaneous* new threads — but pulls still transform existing threads as they always do. Clarity branches into more specific child questions. Cold deepens. Break wounds. The system keeps operating; the proliferation just stops.
+
+**Mapping the wreckage.** The Collision rarely produces threads labeled *"collision wreckage"* — the damage is on the existing threads, the questions you opened during proliferation. To find the wreckage, reread the question of each open thread and ask: *did the Collision change my answer?* If yes, that thread is carrying wreckage. Pull it. If a connection thread between two characters has had its dynamic rewritten, pull it. If a Drive has just been exposed under pressure, pull it. The wreckage was always going to land on what was already there.
 
 Clarity feeds discovery. Cold threads persist. Breaks leave marks. The Aftermath moves fast because the pressure has already been built.
 
