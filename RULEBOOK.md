@@ -150,6 +150,8 @@ During a scene, when you play to a character thread — making the question more
 
 Validation is lightweight. The default is *yes*. You earn the die unless someone speaks up. This isn't a courtroom. It's a gentle check that keeps play honest.
 
+**Honors specify the character.** A character thread starts as a sentence. Each time you honor it, you give it a more specific shape. *Drive: Control* in scene one becomes, by scene six, *the man who reframes others' contributions as his own and overrides truth to keep the helm.* The thread is the same; the honors have written who is behind it. By Aftermath the accumulated honors are a more accurate description of the character than anything the player wrote at character creation. Notice this. The pile of small moments is the person.
+
 ### Spending Dice: Pulling Threads
 
 A thread is an unresolved question, tension, or connection in the fiction. "Why does Sonia hate me?" "What happened at the factory?" "Can I trust Peter with this?"
