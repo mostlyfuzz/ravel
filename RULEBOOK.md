@@ -299,7 +299,11 @@ Three scenes in a fixed order: the bomb scene, the echo scene, and the collision
 
 ### Act Three: Aftermath
 
-The detonation did the heavy lifting. Now spend those dice. Pulls only. Find out what's true, what went cold, what broke. No new threads, no escalation. Just read the wreckage.
+The detonation did the heavy lifting. Now spend those dice. Pulls only. Find out what's true, what went cold, what broke. Just read the wreckage.
+
+Aftermath pulls **crystallize what honors have established**. The act has specified each character through play; the Collision proved those specifications under pressure; the Aftermath is where the proven truths spill into the world. Read your honors over the episode before you pull. The truths you built want a witness now.
+
+Aftermath pulls establish truths, not actions. The doing the truths invite plays out in the Tag and across future episodes. *No new threads* means no *spontaneous* new threads — but pulls still transform existing threads as they always do. Clarity branches into more specific child questions. Cold deepens. Break wounds. The system keeps operating; the proliferation just stops.
 
 Clarity feeds discovery. Cold threads persist. Breaks leave marks. The Aftermath moves fast because the pressure has already been built.
 
