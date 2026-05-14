@@ -40,9 +40,33 @@ Danny: "I know."
 
 ---
 
+## Agency
+
+One principle runs underneath everything else in Ravel:
+
+**Dice can force a thread to resolve. Dice never write what the resolution is. Players do.**
+
+You own your character. What they do, choose, believe, intend, feel, and say are yours alone. No die roll ever decides those things for you. They're not on the table.
+
+Threads are different. A thread is an open question about *what's true* — something a character might believe but could be wrong about. A character has a memory of their past; the past is a question the fiction can answer. A character has a belief about another person; who that person actually is belongs to that person's player. Threads ask after truth. Characters hold beliefs. The dice produce pressure that brings the answers into focus.
+
+When a thread reaches a terminal — Clarified, Silent, or Transformed — the dice have forced the question to resolve. Each terminal hands the pen to a different writer:
+
+- **Clarified.** The player whose truth answers the question writes the answer. Constrained by the Revelation captions accumulated along the way, but the *content* is theirs.
+- **Transformed.** The player whose pulls produced the Wounds named the first Wound and now names the thread's new identity. The thread is rewritten to be what the wound made it.
+- **Silent.** The thread's owner writes a single line — the **silence statement** — that captures what the world established by *not* yielding. The question never gets answered, but the absence becomes a permanent feature of the fiction.
+
+**The agency test for a thread question:** if a player can answer this question by playing their character, it isn't a thread. *Will Maria confront her father?* isn't a thread — Maria's player decides. *Was Maria's father who she remembers him being?* is a thread — Maria has a memory; the memory could be wrong; the fiction tells.
+
+This principle is the floor. Pulls, co-pulls, sacrifice trades, delivery — all of it sits on top of it.
+
+---
+
 ## Threads
 
-A thread is an unresolved question in the fiction. It can be about the world, about a situation, or about a person. Threads are what the table is playing with. Everything else — dice, scenes, episodes — exists to move them.
+A thread is an open question about *what's true*. It can be about the world, about a situation, or about a person. Threads are what the table is playing with. Everything else — dice, scenes, episodes — exists to move them.
+
+Threads ask about truth-discovery, not choice-discovery. *What did Sars want?* is a thread — nobody at the table can answer it by playing their character; the fiction has to surface it. *Will Danny stay or run?* is not a thread — Danny's player decides that by playing Danny. Threads live in the gap between what a character believes (or doesn't know) and what's actually true.
 
 ### Thread Shape
 
@@ -54,7 +78,11 @@ Every thread has three parts:
 
 Character threads also carry a **Theme** — one word naming the territory the question lives in (Trust, Debt, Loyalty). World threads don't need one.
 
-**A note on choosing thread questions.** A good thread's answer generates fiction *inside* the thread itself. *Why these four? What did Sars want? How long until they break?* — answers to these add to the world the thread covers: a name, a reason, a face. Avoid threads whose answers are binary or whose consequences only land elsewhere. *Will the facade hold?* fails this test: yes changes nothing, no triggers events on other threads. The thread itself stays empty either way. Threads earn their place when their answers *deposit* something.
+**Two tests for thread questions:**
+
+- **The agency test.** If a player can answer this by playing their character, it isn't a thread. *Will Danny stay or run?* — Danny's player decides. Not a thread. *Why did Danny's loyalty mean nothing to him in that moment?* — Danny's player has a belief, but the truth could surprise even Danny. Thread.
+
+- **The generativity test.** A good thread's answer generates fiction *inside* the thread itself. *Why these four? What did Sars want? How long until they break?* — answers to these add to the world the thread covers: a name, a reason, a face. Avoid threads whose answers are binary or whose consequences only land elsewhere. *Will the facade hold?* fails this test: yes changes nothing, no triggers events on other threads. The thread itself stays empty either way. Threads earn their place when their answers *deposit* something.
 
 ### What Happens When You Pull
 
@@ -80,7 +108,7 @@ The race between these three is the heart of every thread. Most threads end with
 
 **Clarified** — three Revelations. The thread is answered. The Revelation captions, in order, are the answer the table now treats as truth. No further pulls or honors. Spin-off threads may branch from the answer.
 
-**Silent** — three Silences. The question stopped being asked. The Silence captions are the body of the absence. A Silent thread can be reopened only if the fiction directly confronts what went quiet. The table decides when that threshold is met.
+**Silent** — three Silences. The question stopped being asked. The Silence captions are the body of the absence; the **silence statement** (written by the thread's owner at termination) is its head. A Silent thread can be reopened only if the fiction directly confronts what went quiet. The table decides when that threshold is met. See *Tags and Terminal Consequences*.
 
 **Transformed** — three Wounds. The wound has won. The thread is rewritten by the table to be what the wound made it. The Wound captions become the new body. The original element is gone. See *Tags and Terminal Consequences*.
 
@@ -128,14 +156,16 @@ A character thread has three parts: a **Theme** (one word naming the territory),
 
 ### Connection Threads
 
-After everyone has made their character threads, establish two connection threads per character. These live in the web, not on the character sheet. Both players must agree on them.
+After everyone has made their character threads, establish two connection threads per character. These live on the character sheet alongside character threads — they are *your* questions about your relationships with specific other characters.
 
-A connection thread is a question about the space between two people — the history, the wound, the thing neither of them will open.
+Connection threads are **directional**: you own the thread, and the named character is named in it. They can't pull on your question — they can't pull on your belief about them — but they have stake in how its answers might surface things about them. They can co-pull and offer sacrifice trades when you pull (see *Co-Pulling and Sacrifice Trades*). Both players must agree on the question at creation.
 
-> *Why does Peter trust Maria when he shouldn't?*
-> *What happened the night Maria left without saying goodbye?*
+> *Why does Peter trust Maria when he shouldn't?* — Peter's thread, names Maria.
+> *What happened the night Maria left without saying goodbye?* — owned by whoever holds the question.
 
-The best connection threads don't have obvious answers. They become your first threads in the web.
+Because each character owns connection threads about specific others, the network across the cast is *cyclical*: each character names some others; each is named in some others' threads. No one is unilaterally the target. The fiction can tilt that balance — and when it does, the tilt is a signal, not a bug.
+
+The best connection threads don't have obvious answers.
 
 ---
 
@@ -199,7 +229,7 @@ One die is a genuine gamble. Two dice tilts toward Clarity but never away from B
 
 **There is no wasted roll.** Every outcome adds something. Cold is not nothing happening. Cold is: the files from 1998 are missing. The door is welded from the inside. She won't meet your eyes. Each Silence makes the thread's absence more present. Each Wound makes its damage louder. Each Revelation brings the truth closer to final. The thread is moving every time.
 
-**Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
+**When others have stake.** If your character is *named* in a thread someone else pulls, you have stake without ownership — you can't pull on their question, but you can co-pull on one of your own threads and offer a sacrifice trade against their outcome. See *Co-Pulling and Sacrifice Trades*.
 
 ### The Bones
 
@@ -229,6 +259,42 @@ A thread cannot pass tier 2 without entering its terminal state, so bones are on
 **Pulling through the bones.** The bones rolled at pull color *this pull's* outcome. Write the new tag's caption in the active bones' voice. The next pull rolls bones fresh.
 
 **Specialty dice (optional).** At the table, three colored d6 (one per tag kind) make bone-reading instant. The app handles this automatically; tabletop play can keep colored dice next to the thread cards.
+
+---
+
+## Co-Pulling and Sacrifice Trades
+
+There is no special combat mechanic in Ravel. Violence, betrayal, support, confrontation, and alliance all run on the same engine. Drastic action requires a pull from whoever acts. The pull lands on the actor's own thread (or a thread that names them). The fiction of what the action *does* to anyone else is bounded by the agency rule: dice never write on another character.
+
+What this section adds is the surface where one beat can hold *more than one pull* — and how those pulls can interact without violating agency.
+
+### Co-Pulling
+
+A pull is always one player's investment in their own thread. When two (or more) players each pull in the same beat — each on their own thread — call it **co-pulling**.
+
+Co-pulling isn't a defense. It's an investment. June co-pulls when she has a stake of her own she wants this beat to push on: her own character thread under pressure, a connection thread that names someone in the scene, a question that needs dice on it. Each pull deposits on its own thread. Each outcome lands independently.
+
+You can't pull *at* someone. You can only pull on a thread you own. If a thread names you and someone else pulls it, your only way onto the table is to co-pull on one of your own threads in the same beat.
+
+### Sacrifice Trades
+
+A pull outcome is a currency. After outcomes land, you can sacrifice yours to alter another player's outcome in the same beat.
+
+**Drag down** (no consent required). If your character is *named* in the thread the other player pulled, you can spend your own outcome — worsening it one step (Clarity → Cold, Cold → Break) — to force their outcome down one step (Clarity → Cold, Cold → Break). They cannot refuse. You paid the price; they take the hit.
+
+**Boost up** (consent required). Anyone can offer to sacrifice their outcome one step to improve another player's outcome one step (Cold → Clarity, Break → Cold). The receiver must accept the gift.
+
+A Break has nothing left to sacrifice. The cost is already paid; you have no downward currency.
+
+Each sacrifice is one step. Multiple co-pullers can stack sacrifices if each has currency to spend, but each player offers their own.
+
+Your **narrative agency** is never tradeable. The trade alters outcome classes only. Whatever class your outcome lands at, you write its narration — bounded by the captions and the agency rule. June dragging Mira's Clarity to Cold means *Mira almost saw clearly, and June refused her the seeing at her own cost.* June paid in her own outcome; Mira still narrates her Cold.
+
+### Violence
+
+A fight is drastic action with a pull behind it. The thread being pulled is the actor's own (or a thread that names the target). The dice set the stakes; the sacrifice trade shapes the meaning if anyone wants to spend on it.
+
+Someone gets hurt because Clarity or a Wound demanded it, not because dice said damage. Violence is expensive — not mechanically, but fictionally. It changes things, reveals things, frays things. It can't be routine, because routine produces no threads worth pulling.
 
 ---
 
@@ -279,13 +345,14 @@ The GM calls the end of a scene. Cutting before everything resolves is a feature
 
 ## Delivery: Who Narrates the Outcome?
 
-When a thread is pulled and the dice determine the outcome, someone has to narrate what happens. The rule is simple: **the person the thread is about delivers the answer.**
+The dice force the moment of resolution. The *content* of the resolution is always written by a player. Who writes depends on whose truth the answer requires.
 
-- If the thread is about **a player character**, that player narrates. ("Why does Sonia hate me?" Sonia's player answers.)
-- If the thread is about **an NPC or the world**, the GM narrates.
-- If no one claims it, it's open to the table.
+- If the thread is about **a player character** — their belief, their past, their nature — that player delivers. (*Why does Sonia hate me?* Sonia's player answers.)
+- If the thread is about **an NPC or the world**, the GM delivers.
+- If the thread is one player's question about another (a connection thread, or a character thread that names another character), and the answer crosses into the named character, that *named* player delivers the part about themselves. The puller's player writes the puller's portion. The agency rule prevails: no one writes on a character they don't own.
+- If no one obviously owns the answer, it is open to the table.
 
-You ask the question. The fiction answers through whoever owns that piece of it.
+You ask the question by spending dice. The fiction answers through whoever owns the piece being surfaced.
 
 ---
 
@@ -303,7 +370,7 @@ The GM is the table's default baton holder: the person who picks up the fiction 
 
 NPCs don't earn or spend dice. They exist in the fiction, not in the economy. They generate threads and deliver outcomes — narrative weight without mechanical weight. The push/pull engine belongs to the players.
 
-The GM should give key NPCs at least a Drive before the first session. Keep it light. Most NPC elements will emerge from play. The first time an NPC acts with clear intent, that becomes their first established element.
+The GM should give key NPCs at least one named thread of their own before the first session. Keep it light. Most NPC threads will emerge from play. The first time an NPC acts with clear intent, that becomes their first established thread.
 
 ---
 
@@ -347,7 +414,7 @@ Aftermath pulls **crystallize what honors have established**. The act has specif
 
 Aftermath pulls establish truths, not actions. The doing the truths invite plays out in the Tag and across future episodes. *No new threads* means no *spontaneous* new threads. Pulls still deposit tags as they always do. Clarity adds Revelations. Cold adds Silences. Break adds Wounds. Threads can reach their terminals during Aftermath, and they often do. The system keeps operating; the proliferation just stops.
 
-**Mapping the wreckage.** The Collision rarely produces threads labeled *"collision wreckage"* — the damage is on the existing threads, the questions you opened during proliferation. To find the wreckage, reread the question of each open thread and ask: *did the Collision change my answer?* If yes, that thread is carrying wreckage. Pull it. If a connection thread between two characters has had its dynamic rewritten, pull it. If a Drive has just been exposed under pressure, pull it. The wreckage was always going to land on what was already there.
+**Mapping the wreckage.** The Collision rarely produces threads labeled *"collision wreckage"* — the damage is on the existing threads, the questions you opened during proliferation. To find the wreckage, reread the question of each open thread and ask: *did the Collision change my answer?* If yes, that thread is carrying wreckage. Pull it. If a connection thread between two characters has had its dynamic rewritten, pull it. If a character thread has just been exposed under pressure, pull it. The wreckage was always going to land on what was already there.
 
 Clarity feeds discovery. Cold threads persist. Breaks leave marks. The Aftermath moves fast because the pressure has already been built.
 
@@ -436,7 +503,7 @@ The Finale is a regular episode with five rules changed. Everything else (Cold O
 
 **3. The Collision demands a permanent change.** A normal Collision requires at least one manifestation. The Finale's Collision requires that and one of: a **character thread reaching Transformed**, or the **retirement of a season-shaping thread** (an Anchor or the Opener). The detonation has to leave a permanent mark on the board.
 
-**4. Manifestation resolves an element.** A normal Manifestation deepens the fiction and resolves nothing. The Finale's Collision Manifestation must settle one of the manifesting character's elements: a Drive, an Approach, or a Memory shifts shape. The element changes on the page. Name what it was. Name what it becomes.
+**4. Manifestation resolves a thread.** A normal Manifestation deepens the fiction and resolves nothing. The Finale's Collision Manifestation must settle one of the manifesting character's threads: a character thread shifts shape on the page. Name what its question was. Name what it becomes.
 
 **5. The Tag fades to black.** A normal Tag plants a fuse for the next episode. The Finale's Tag closes instead. Any thread still Open at the end of the Finale goes Silent. Write its final line. Silent threads carry into the next season as ghosts: reopenable, but only if the fiction directly confronts what went quiet.
 
@@ -452,35 +519,6 @@ Five or six seasons make a **show**. The show's closure is not a mechanic. It is
 
 ---
 
-
-## Combat
-
-A fight is a scene where two characters pull against each other. Both roll. Both outcomes land.
-
-Name the thread being pulled — it can be a character thread on either person, or a connection thread between them. The thread determines what's actually at stake.
-
-**Reading two outcomes:**
-
-Both outcomes resolve independently. If Maren rolls Clarity and Tariq rolls Cold, she got what she came for and he's in a harder place. If both roll Cold, neither won and the situation is worse for everyone. If either rolls a Break, something ruptures that can't be undone.
-
-**The trade:**
-
-After outcomes land, either player can offer a trade. You can sacrifice your own outcome to change the other person's — in either direction.
-
-- *I'll take Cold instead of Clarity if you get Clarity too. Neither of us wins clean.*
-- *I'll take a Break if it means you get Cold instead of Clarity. I lose more, but so do you.*
-- *I'll take a Break so you get Clarity. You win. It costs me everything.*
-
-A trade is an offer. The other player accepts or declines. You cannot force a trade. The currency is always your own outcome — you can only spend what you're willing to lose.
-
-Violence in Ravel is collaborative even when it's brutal. The dice set the stakes. The trade shapes the meaning.
-
-But the die doesn't make you win. It lets you pull threads. The fight resolves through the fiction and the consequences of thread-pulling. Someone gets hurt because clarity or a break demanded it, not because dice said 17 damage.
-
-Violence is expensive. Not mechanically, but fictionally. It changes things, reveals things, frays things. It can't be routine because routine produces no threads worth pulling.
-
----
-
 ## Tags and Terminal Consequences
 
 Every pull deposits a tag. Tags accumulate. When any kind reaches three, the thread enters its terminal state. The terminal state ripples beyond the thread itself.
@@ -489,9 +527,9 @@ Every pull deposits a tag. Tags accumulate. When any kind reaches three, the thr
 
 **Clarified.** Three Revelations. The thread is answered. The Revelation captions, in order, are the answer the table now treats as established truth. The thread closes. No further pulls or honors. Spin-off threads may branch from the answer if the table finds new questions in it, but the original question is done.
 
-**Silent.** Three Silences. The question stopped being asked. The Silence captions are the body of the absence: what the table tried to learn and could not. A Silent thread can be reopened only if the fiction directly confronts what went quiet. Until then it carries forward as a ghost.
+**Silent.** Three Silences. The question stopped being asked. The Silence captions are the body of the absence — what the table tried to learn and could not. At termination, the thread's owner writes a single line: the **silence statement**. Not the answer to the question; the *fact of the un-answering*. What has the world now established by refusing to yield? *Mira will never know what June is. She will live the rest of this season next to a person who might be anything.* *The crew does not get told. Some questions are above their clearance, and they will learn to stop asking.* The silence statement is a permanent feature of the fiction. New threads can grow from it. Other pulls can be shaped by it. A Silent thread can be reopened only if the fiction directly confronts what went quiet — and reopening requires raw confrontation, not investigation.
 
-**Transformed.** Three Wounds. The wound has won. The thread is rewritten by the table to be what the wound made it. A Loyalty Drive whose wound was *Betrayal* becomes a thread about betrayal. A relationship whose wound was *Distance* becomes a thread about estrangement, or about the silence between them. The Wound captions become the new body. The original element is gone.
+**Transformed.** Three Wounds. The wound has won. The thread is rewritten by the table to be what the wound made it. A character thread of Theme *Loyalty* whose wound was *Betrayal* becomes a thread about betrayal. A relationship whose wound was *Distance* becomes a thread about estrangement, or about the silence between them. The Wound captions become the new body. The original question is gone.
 
 ### The First Wound Has a Name
 
@@ -503,7 +541,7 @@ Revelations and Silences are not named, only captioned. Wounds get names because
 
 ### When a Character Thread Transforms
 
-When any of a character's three slot threads (Drive, Approach, Memory) reaches Transformed, the character is **lost to themselves**. Still in the story, but no longer who they were. From this point the player decides what their character does, including, if they choose, that the character is gone. The loom's dissolution note, if it has one, suggests what this looks like in the genre being played.
+When any of a character's three character threads reaches Transformed, the character is **lost to themselves**. Still in the story, but no longer who they were. From this point the player decides what their character does, including, if they choose, that the character is gone. The loom's dissolution note, if it has one, suggests what this looks like in the genre being played.
 
 ### When a Relationship Thread Transforms
 
@@ -559,16 +597,16 @@ Tags do not reduce. Once deposited, a Revelation, Silence, or Wound stays. The o
 
 ## The Rules on an Index Card
 
-1. **Create** a character: three character threads (Theme, Question, Body) and two connection threads in the web.
-2. **Threads** accumulate tags. Three of any kind terminates: Revelations → Clarified, Silences → Silent, Wounds → Transformed. 12 active max.
-3. **Honor** a character thread once per scene (up to three threads per character per scene). Roll the bones, play the scene through the read. Earn one die. Honors do not deposit tags.
-4. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself.
-5. **The Bones.** After the dice settle (or at honor), roll one d6 per tag kind already on the thread. Tier 1 active on 1–3, tier 2 on 1–4. Active bones color the fiction.
-6. **Deliver.** The person the thread is about narrates the outcome.
-7. **Episodes.** Cold Open → Act One: 3 scenes, proliferate, name the bomb → Act Two: bomb scene (thread breaks), echo scene, collision → Act Three: pulls only → Tag: one twist.
-8. **Manifest.** Once per episode, show the thread pressure bleeding through. No dice. Just make the weight visible.
-9. **The GM** holds the baton, watches the web, plays NPCs. NPCs don't pull.
-10. **Between sessions,** carry threads forward with their tags. Dice reset. Tags do not.
+1. **Agency.** Dice force resolution. Players write content. No die roll ever decides what a character is.
+2. **Create** a character: three character threads (Theme, Question, Body) and two directional connection threads naming specific others.
+3. **Threads** ask about what's *true* (not what a character chooses). Tags accumulate. Three of any kind terminates: Revelations → Clarified, Silences → Silent (write the silence statement), Wounds → Transformed. 12 active max.
+4. **Honor** a character thread once per scene (up to three threads per character per scene). Roll the bones, play the scene through the read. Earn one die. Honors do not deposit tags.
+5. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself.
+6. **The Bones.** After the dice settle (or at honor), roll one d6 per tag kind already on the thread. Tier 1 active on 1–3, tier 2 on 1–4. Active bones color the fiction.
+7. **Co-pull and Trade.** Players can co-pull in the same beat. A named character can sacrifice their own outcome one step to drag a puller's outcome down one step (no consent needed). Anyone can sacrifice to boost another's outcome up one step (consent needed). Narration is never tradeable.
+8. **Deliver.** Whoever owns the truth being surfaced narrates the outcome.
+9. **Episodes.** Cold Open → Act One: 3 scenes, proliferate, name the bomb → Act Two: bomb scene (thread breaks), echo scene, collision → Act Three: pulls only → Tag: one twist.
+10. **Manifest.** Once per episode, show the thread pressure bleeding through. No dice. Just make the weight visible.
 11. **No healing.** The only escape from one path to terminal is racing another to three first.
 
 Teach in five minutes. The depth comes from play, not from rules.
