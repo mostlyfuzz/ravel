@@ -212,7 +212,7 @@ A thread is an unresolved question, tension, or connection in the fiction. "Why 
 
 If your character already knows it or feels it, just play it. If you're asking the fiction to answer something, that's a thread. You don't need permission to look. You just have to live with what you found. Pulling doesn't have to be a question asked out loud. An action that tests the fiction counts: attacking a system to see if it's connected to someone, opening a door to see what's behind it, trusting someone to see if they betray you.
 
-You honor yourself to earn dice. You pull on the world, on situations, on other characters, and on your own themes to spend them. World and connection thread pulls reveal new territory in the fiction; character thread pulls surface what was always under the lens. See *Pulling a Character Thread* for the inward case.
+You honor yourself to earn dice. You pull on the world, on situations, on other characters, and on your own themes to spend them. World and connection thread pulls reveal new territory in the fiction; character thread pulls — called **manifestations** — surface what was always under the lens. See *Manifestation* for the inward case.
 
 **Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
 
@@ -243,36 +243,7 @@ One die is a genuine gamble. Two dice tilts toward Clarity but never away from B
 
 ### Pulling a Character Thread
 
-Character threads are easy to honor and hard to pull. Honoring is declaring the lens; pulling is asking the fiction to test what's under it. The asking is rougher than pulling a world thread — it surfaces something internal that the player has been carrying and might be wrong about.
-
-**Why you'd pull.** You pull your own character thread when you want the world to tell you something about yourself that you can't decide alone. The character has a belief about who they are in this territory; the pull asks the fiction to confirm, deny, or wound it. Pulls of this kind don't decide what your character *does* — that stays yours. They decide what your character *learns about themselves* by acting.
-
-**Pick a probe.** Because there is no single question, the pull picks one. The probe steers what facet of the territory the dice surface. A starter menu (the table can add their own):
-
-- *Who taught you this [theme] — and did they mean to?*
-- *When did [theme] first fail you?*
-- *What does [theme] hide?*
-- *What does [theme] feel like at full pitch?*
-- *What's the version of [theme] you'd never admit?*
-- *When did you first doubt [theme]?*
-- *What does [theme] want from you that you've never given?*
-
-Name the probe out loud before you roll. The Theme + the chosen probe is what the dice are answering.
-
-**Reading the outcome.** The probe shapes the texture, not the verdict:
-
-- **Clarity → Revelation.** The truth surfaces in the probe's direction. You learned this loyalty came from a parent who left. You learned the version of trust you hide is the one you most need. Write the caption as the answer to the probe.
-- **Cold → Silence.** The probe came back empty. You looked toward where the answer should have been and it slid away. Write the caption as the *shape of the absence*: what was reached for, what wasn't there.
-- **Break → Wound.** The asking itself wounded the theme. Name the wound (on the first Break) and write the caption as the damage the probe did to the territory.
-
-**When to pull.** A pull lands when the fiction has put the theme under genuine test. Most scenes don't qualify; they let you honor instead. Pull when:
-
-- The fiction has just demanded something of the theme (loyalty under fear, trust under betrayal, debt under reckoning).
-- You're carrying a belief about yourself you want the world to weigh.
-- A scene has built a moment that *would* surface something, and you want to know what.
-- At the **Collision**, every character present should pull at least one of their character threads. The Collision is the episode's crucible — what honors built across the act lands on the character's themes. The fiction has earned the test.
-
-If no scene this episode has put a theme under real test, that thread doesn't get pulled. That's fine. Theme-pulls happen when the fiction earns them, not on a schedule.
+Character threads are pulled through **manifestation** — see that section for the full mechanic. The short version: pick a probe from the menu, show the pressure leaking in fiction, spend dice, roll. The dice surface what the leak revealed. Each player makes at most one character manifestation per episode; at least one character manifestation must occur each episode.
 
 ### The Bones
 
@@ -349,11 +320,55 @@ Someone gets hurt because Clarity or a Wound demanded it, not because dice said 
 
 ## Manifestation
 
-Each player has one manifestation per episode. You can show the thread pressure bleeding through your character. Look at what's unresolved around them. Ask what that pressure would look like if it leaked: through their body, their habits, their words, their choices. Show it. Your character doesn't need to know it's happening. Don't answer any thread. Just make the weight visible.
+A **manifestation** is a dramatic pull. The thread's pressure becomes visible in the fiction — through a character's body, through a system glitching, through a place, through a relationship cracking open — and the dice surface what came out. Manifestation is how a thread's weight finally lands at the table.
 
-Manifestation costs no dice and resolves nothing. It's not a pull. It deepens the fiction without narrowing it. The loom's pressure palette (if the loom has one) suggests what this looks like in the genre you're playing. In horror, it might be a body doing something its owner doesn't notice. In noir, it might be cruelty toward someone you love. In a political thriller, it might be a decision your character would never have made two sessions ago.
+A manifestation is *not* a free fictional move. It costs dice like any pull. What's free is the dramatic framing — the choice to *show* the leak before the dice resolve it.
 
-At least one manifestation must happen during the collision. That moment is the climax. If nobody has manifested, it happens here.
+### Character Manifestation
+
+The most common manifestation: a player pulls one of their own character threads, framed as their character's pressure leaking through. The character may or may not know it's happening. The body acts before the mind catches it; or the player consciously names the test. Either is valid.
+
+**Character threads have no fixed question.** The manifestation picks a probe from a starter menu (tables may add their own):
+
+- *Who taught you this [theme] — and did they mean to?*
+- *When did [theme] first fail you?*
+- *What does [theme] hide?*
+- *What does [theme] feel like at full pitch?*
+- *What's the version of [theme] you'd never admit?*
+- *When did you first doubt [theme]?*
+- *What does [theme] want from you that you've never given?*
+
+Name the probe out loud. Show the manifestation in fiction — what pressure looks like when it leaks through this character. Spend 1 or 2 dice. Roll.
+
+**Reading the outcome:**
+
+- **Clarity → Revelation.** The truth surfaced through the leak. Write the caption as the answer to the probe. *His loyalty came from a father who left and never explained.*
+- **Cold → Silence.** The leak showed something but the answer slid away. Write the caption as the shape of the absence. *He reached for the first time it failed him and there was nothing there.*
+- **Break → Wound.** The asking wounded the theme. Name the wound (on the first Break) and write the caption as the damage. *His loyalty fractured publicly. Performance.*
+
+The caption and the manifestation are *loosely coupled*. The manifestation shows pressure in fiction; the caption lands on the theme. The connection between them — *how is this manifestation tied to my Loyalty going Cold?* — is the player's contemplative work. The dance happens at the end of the scene, or later. The rule doesn't enforce a tight rewrite.
+
+**Cap:** each player may make **one character manifestation per episode**. The dramatic weight is the reward. The cap protects it.
+
+**Floor:** at least **one character manifestation must happen each episode** — somewhere, by someone. Characters need to move forward; the manifestation is how the dice mark that motion. The Collision is the natural moment, but the floor is per-episode, not per-Collision.
+
+### World Manifestation
+
+Once at least one character manifestation has happened in the episode, **world manifestations become available**. A world manifestation is the same dramatic shape applied outward: a player or the GM pulls a world or connection thread, framed as the world's pressure leaking through — through an NPC (Judith glitching, the captain's voice changing), through a system (the ship deviating), through a place (the room going wrong), through a relationship cracking open.
+
+Mechanically a world manifestation is just a world or connection thread pull framed dramatically. World and connection threads already have questions; no probe menu is needed. The dice answer their question. Spend dice, roll, deposit the tag.
+
+World manifestations have no per-player cap. They follow normal pull and dice-economy rules. They cannot occur before the episode's first character manifestation — characters lead; the world follows.
+
+### The Collision Rule
+
+At least one manifestation (of any kind) must happen at the Collision. The Collision is the episode's dramatic crucible — the fiction is meant to peak here. Players who haven't spent their character manifestation are strongly encouraged to do so now. If they have, a world manifestation fills the dramatic slot.
+
+### What This Replaces
+
+Manifestation is the mechanic by which character threads accumulate tags. There is no separate "pulling a character thread" rule. The two collapsed into one. The probe menu, the cap, and the dramatic framing all live here.
+
+The loom may offer a **pressure palette** — flavor for what manifestations look like in the genre being played. In horror, a body doing something its owner doesn't notice. In noir, cruelty toward someone you love. In a political thriller, a decision your character would never have made two sessions ago. The loom suggests texture; the dice and the player produce the truth.
 
 ---
 
@@ -453,7 +468,7 @@ Three scenes in a fixed order: the bomb scene, the echo scene, and the collision
 
 **Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. The pressure should be visible in the cast before it peaks.
 
-**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. At least one manifestation must happen here. **Every character present pulls at least one of their character threads** — the Collision is where what honors built across the act finally lands on the character's themes. This is the climax. Everyone should be present in it.
+**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. At least one manifestation must happen here (see *Manifestation*). Players who haven't spent their character manifestation are strongly encouraged to do so now; otherwise a world manifestation fills the dramatic slot. This is the climax. Everyone should be present in it.
 
 ### Act Three: Aftermath
 
@@ -499,8 +514,7 @@ For campaigns, threads that went cold or transformed persist into the next episo
 - **After:** What is the echo's relationship to the bomb? How do they collide?
 
 ### Act Two — Scene 3: Collision
-- The echo and the bomb collide. Everyone present. At least one manifestation.
-- Every character present pulls at least one of their character threads.
+- The echo and the bomb collide. Everyone present. At least one manifestation (character or world).
 - **After:** What detonated? What's left?
 
 ### Act Three: Aftermath
@@ -539,7 +553,7 @@ Dice reset. Threads and their tags don't. New threads emerge from what play reve
 
 An episode is a self-contained arc. A **season** is five or six episodes that share a thematic spine. Threads, breaks, and silences accumulate across the season. The last episode is the **Finale**: the same engine running in reverse.
 
-Ravel's regular-play verbs are generative. Clarity opens more specific questions. Manifestation deepens without narrowing. Cold gains weight. The web grows. That growth is the point of the season's middle episodes: pressure has to build before it can land.
+Ravel's regular-play verbs are generative. Clarity opens more specific questions. Manifestations leak pressure into new fiction. Cold gains weight. The web grows. That growth is the point of the season's middle episodes: pressure has to build before it can land.
 
 The Finale converges what the season generated. Same verbs, inverted outcomes. The board contracts.
 
@@ -553,7 +567,7 @@ The Finale is a regular episode with five rules changed. Everything else (Cold O
 
 **3. The Collision demands a permanent change.** A normal Collision requires at least one manifestation. The Finale's Collision requires that and one of: a **character thread reaching Transformed**, or the **retirement of a season-shaping thread** (an Anchor or the Opener). The detonation has to leave a permanent mark on the board.
 
-**4. Manifestation resolves a thread.** A normal Manifestation deepens the fiction and resolves nothing. The Finale's Collision Manifestation must settle one of the manifesting character's threads: a character thread shifts shape on the page. Name what its theme was. Name what it becomes.
+**4. Manifestation settles a thread.** A normal Manifestation is a pull that deposits a tag; the thread may or may not terminate. The Finale's Collision Manifestation must *settle* one of the manifesting character's threads — it terminates in this pull (Clarified, Silent, or Transformed) or it transforms its theme on the page in some other irreversible way agreed at the table. Name what the theme was. Name what it became.
 
 **5. The Tag fades to black.** A normal Tag plants a fuse for the next episode. The Finale's Tag closes instead. Any thread still Open at the end of the Finale goes Silent. Write its final line. Silent threads carry into the next season as ghosts: reopenable, but only if the fiction directly confronts what went quiet.
 
@@ -668,12 +682,12 @@ Tags do not reduce. Once deposited, a Revelation, Silence, or Wound stays. The o
 2. **Create** a character: two character threads (Theme + Body, territory-shaped) and one directional connection thread naming a specific other. World/connection threads are Question-shaped; character threads are not.
 3. **Threads** ask about what's *true* (not what a character chooses). Tags accumulate. Three of any kind terminates: Revelations → Clarified, Silences → Silent (write the silence statement), Wounds → Transformed. 18 active max.
 4. **Honor** up to two different threads per scene (one bone-read per thread). Earn one die per honor. Honors do not deposit tags.
-5. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself. **For character threads**, pick a probe (*Who taught you this? When did it fail you? What does it hide?*) before rolling. Every character pulls at least one character thread at the Collision.
+5. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself.
 6. **The Bones.** After the dice settle (or at honor), roll one d6 per tag kind already on the thread. Tier 1 active on 1–3, tier 2 on 1–4. Active bones color the fiction.
 7. **Co-pull and Trade.** Players can co-pull in the same beat. A named character can sacrifice their own outcome one step to drag a puller's outcome down one step (no consent needed). Anyone can sacrifice to boost another's outcome up one step (consent needed). Narration is never tradeable.
 8. **Deliver.** Whoever owns the truth being surfaced narrates the outcome.
 9. **Episodes.** Cold Open → Act One: 3 scenes, proliferate, name the bomb → Act Two: bomb scene (thread breaks), echo scene, collision → Act Three: pulls only → Tag: one twist.
-10. **Manifest.** Once per episode, show the thread pressure bleeding through. No dice. Just make the weight visible.
+10. **Manifest.** A dramatic pull. Character manifestation: pick a probe, show the pressure leak, spend dice, get a tag. Cap: one per player per episode. Floor: at least one character manifestation per episode. World manifestations unlock after the episode's first character manifestation and have no cap. At least one manifestation must happen at the Collision.
 11. **No healing.** The only escape from one path to terminal is racing another to three first.
 
 Teach in five minutes. The depth comes from play, not from rules.
