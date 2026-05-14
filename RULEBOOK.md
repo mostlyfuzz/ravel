@@ -56,7 +56,7 @@ When a thread reaches a terminal — Clarified, Silent, or Transformed — the d
 - **Transformed.** The player whose pulls produced the Wounds named the first Wound and now names the thread's new identity. The thread is rewritten to be what the wound made it.
 - **Silent.** The thread's owner writes a single line — the **silence statement** — that captures what the world established by *not* yielding. The question never gets answered, but the absence becomes a permanent feature of the fiction.
 
-**The agency test for a thread question:** if a player can answer this question by playing their character, it isn't a thread. *Will Maria confront her father?* isn't a thread — Maria's player decides. *Was Maria's father who she remembers him being?* is a thread — Maria has a memory; the memory could be wrong; the fiction tells.
+**The agency test for a thread question:** if a player can answer this question by playing their character, it isn't a thread. *Will Maria confront her father?* isn't a thread — Maria's player decides. *Was Maria's father who she remembers him being?* is a thread — Maria has a memory; the memory could be wrong; the fiction tells. *Why does Peter trust Maria when he shouldn't?* is a thread — Peter believes; Maria knows; neither player can answer it alone. Connection threads pass the test because they cross ownership.
 
 This principle is the floor. Pulls, co-pulls, sacrifice trades, delivery — all of it sits on top of it.
 
@@ -256,6 +256,8 @@ A thread cannot pass tier 2 without entering its terminal state, so bones are on
 
 **Honoring through the bones.** The bones rolled at honor color the *scene's* play of your character. Honor through the read for the rest of the scene. Don't re-roll if the thread accumulates new tags mid-scene from someone's pull; the read you committed to stands until the scene ends.
 
+**Bones don't override agency.** You still write what your character does, says, chooses, and feels. The bones bind only *which voice* the thread speaks through this scene — texture, not content. A Wound-active Loyalty thread means your loyalty speaks through pain this scene; how it speaks, and what it makes you do, are yours.
+
 **Pulling through the bones.** The bones rolled at pull color *this pull's* outcome. Write the new tag's caption in the active bones' voice. The next pull rolls bones fresh.
 
 **Specialty dice (optional).** At the table, three colored d6 (one per tag kind) make bone-reading instant. The app handles this automatically; tabletop play can keep colored dice next to the thread cards.
@@ -276,19 +278,23 @@ Co-pulling isn't a defense. It's an investment. June co-pulls when she has a sta
 
 You can't pull *at* someone. You can only pull on a thread you own. If a thread names you and someone else pulls it, your only way onto the table is to co-pull on one of your own threads in the same beat.
 
+**What "named" means.** A thread *names* a character when the character is specifically referenced in the thread's question and is central to the answer. *Will Peter ever forgive Maria?* names Maria — she's load-bearing in the question. *Does Peter's loyalty make him dangerous?* names no one — Peter is the owner, no one else is in the question. Connection threads always name (it's their definition). Character threads name only when the question is specifically about another character. World threads usually name no one, though they may. Incidental mentions don't count; the test is whether the answer requires that character's truth.
+
 ### Sacrifice Trades
 
 A pull outcome is a currency. After outcomes land, you can sacrifice yours to alter another player's outcome in the same beat.
 
-**Drag down** (no consent required). If your character is *named* in the thread the other player pulled, you can spend your own outcome — worsening it one step (Clarity → Cold, Cold → Break) — to force their outcome down one step (Clarity → Cold, Cold → Break). They cannot refuse. You paid the price; they take the hit.
+**Drag down** (no consent required). If your character is named in the thread the other player pulled *and you co-pulled in the same beat* (so you have an outcome to spend), you can worsen your own outcome one step (Clarity → Cold, Cold → Break) to force their outcome down one step (Clarity → Cold, Cold → Break). They cannot refuse. You paid the price; they take the hit. Drag-down lives off your own pull's currency — without a co-pull, you have nothing to sacrifice.
 
-**Boost up** (consent required). Anyone can offer to sacrifice their outcome one step to improve another player's outcome one step (Cold → Clarity, Break → Cold). The receiver must accept the gift.
+**Boost up** (consent required). Anyone can offer to sacrifice their outcome one step to improve another player's outcome one step (Cold → Clarity, Break → Cold). The receiver must accept the gift. Boost-up also requires the offering player to have an outcome to spend — meaning a pull or co-pull in the same beat.
 
 A Break has nothing left to sacrifice. The cost is already paid; you have no downward currency.
 
 Each sacrifice is one step. Multiple co-pullers can stack sacrifices if each has currency to spend, but each player offers their own.
 
 Your **narrative agency** is never tradeable. The trade alters outcome classes only. Whatever class your outcome lands at, you write its narration — bounded by the captions and the agency rule. June dragging Mira's Clarity to Cold means *Mira almost saw clearly, and June refused her the seeing at her own cost.* June paid in her own outcome; Mira still narrates her Cold.
+
+**NPCs and the trade.** NPCs don't earn or spend dice, so they cannot drag down or boost up. A pull that names an NPC is immune to drag-down — the GM has no currency to spend on the NPC's behalf. The GM still delivers the NPC's portion of the narration, but the dice land as the player rolled them. This is the cost the NPC pays for not being a thread-puller: they appear in the fiction without a pull-side stake.
 
 ### Violence
 
@@ -511,7 +517,7 @@ The Finale is a regular episode with five rules changed. Everything else (Cold O
 
 Cleanup is mandatory. Use Retire, Collapse, and Merge aggressively. The board entering Season 2 should be smaller than the board leaving Season 1.
 
-All accumulated tags persist. Transformed, Clarified, and Silent threads persist in their terminal states. New Openers are rolled. Connection rings may be re-rolled if the fiction supports it.
+All accumulated tags persist. Transformed, Clarified, and Silent threads persist in their terminal states. New Openers are rolled. Connection threads may be re-rolled if the fiction supports it.
 
 ### Shows
 
@@ -527,7 +533,7 @@ Every pull deposits a tag. Tags accumulate. When any kind reaches three, the thr
 
 **Clarified.** Three Revelations. The thread is answered. The Revelation captions, in order, are the answer the table now treats as established truth. The thread closes. No further pulls or honors. Spin-off threads may branch from the answer if the table finds new questions in it, but the original question is done.
 
-**Silent.** Three Silences. The question stopped being asked. The Silence captions are the body of the absence — what the table tried to learn and could not. At termination, the thread's owner writes a single line: the **silence statement**. Not the answer to the question; the *fact of the un-answering*. What has the world now established by refusing to yield? *Mira will never know what June is. She will live the rest of this season next to a person who might be anything.* *The crew does not get told. Some questions are above their clearance, and they will learn to stop asking.* The silence statement is a permanent feature of the fiction. New threads can grow from it. Other pulls can be shaped by it. A Silent thread can be reopened only if the fiction directly confronts what went quiet — and reopening requires raw confrontation, not investigation.
+**Silent.** Three Silences. The question stopped being asked. The Silence captions are the body of the absence — what the table tried to learn and could not. At termination, the thread's owner writes a single line: the **silence statement**. (For character threads, the character's player. For connection threads, the player who owns the thread. For world threads, the GM.) Not the answer to the question; the *fact of the un-answering*. What has the world now established by refusing to yield? *Mira will never know what June is. She will live the rest of this season next to a person who might be anything.* *The crew does not get told. Some questions are above their clearance, and they will learn to stop asking.* The silence statement is a permanent feature of the fiction. New threads can grow from it. Other pulls can be shaped by it. A Silent thread can be reopened only if the fiction directly confronts what went quiet — and reopening requires raw confrontation, not investigation.
 
 **Transformed.** Three Wounds. The wound has won. The thread is rewritten by the table to be what the wound made it. A character thread of Theme *Loyalty* whose wound was *Betrayal* becomes a thread about betrayal. A relationship whose wound was *Distance* becomes a thread about estrangement, or about the silence between them. The Wound captions become the new body. The original question is gone.
 
