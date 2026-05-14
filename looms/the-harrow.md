@@ -207,7 +207,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 
 ## Building Your Own Character
 
-*Use these tables to build from scratch, or to swap an element from your archetype, or to fill in your third thread on a pregen. Every option has a Theme and a Question already shaped to pass the agency test: the answer is something the fiction has to surface, not something you decide by playing your character. The Element wording is your starting Body — extend it with one more sentence if it helps.*
+*Use these tables to build from scratch or to swap an element from an archetype. Every option has a Theme and a Question already shaped to pass the agency test: the answer is something the fiction has to surface, not something you decide by playing your character. The Element wording is your starting Body — extend it with one more sentence if it helps.*
 
 ---
 
