@@ -124,9 +124,82 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 
 ---
 
+## Archetypes
+
+*Six role templates. Faster than building from scratch, freer than the named pregens. Pick an archetype, name your character, and play. Each archetype lists four suggested elements — pick three to be your character threads, or swap any for an option from the tables below.*
+
+*The Connection Threads in the next section are written using the named pregens. If you build from an archetype, use your character's name in the matching column: The Engineer's connections become Maren's, The Pilot's become Daal's, and so on.*
+
+| Archetype | Pregen name | Description |
+|---|---|---|
+| The Engineer | Maren Voss | You keep the ship alive. You know what everything costs. |
+| The Pilot | Daal Eriksen | You need to be at the helm. When you're not, nothing makes sense. |
+| The Doctor | Lian Zhao | You are not here for the company. You are here for someone. |
+| The Signals Tech | Fen Nakamura | Something in the data doesn't add up. You can't let it go. |
+| The Specialist | Osei Adjei | You did something you can't take back. This job was a clean start. |
+| The Director | Tariq Aslan | You know more than you're sharing. You always have. |
+
+---
+
+### The Engineer
+
+| Theme | Element | Question |
+|---|---|---|
+| Debt | **Drive.** You owe Meridian something personal. This job clears the balance. | *What did Meridian buy when it bought your labor?* |
+| Method | **Approach.** Meticulous. Check everything twice. Trust the data. | *What do you miss when you're busy being right?* |
+| Trust | **Belief.** Machines are honest. People aren't. | *What did a person do to teach you machines are kinder?* |
+| Choice | **Memory.** A decision you made under pressure you can't justify out loud. | *What was the decision, and who paid for it?* |
+
+### The Pilot
+
+| Theme | Element | Question |
+|---|---|---|
+| Helm | **Drive.** Control. You need to be the one steering. | *What happens when the ship won't be steered?* |
+| Edge | **Approach.** Direct. You say the thing nobody wants to hear. | *When does the truth you tell start costing more than it saves?* |
+| Rule | **Belief.** Following the rules is the only thing keeping us alive out here. | *Who broke the rule that taught you to keep them?* |
+| Replay | **Memory.** A navigation error that killed someone. You haven't stopped replaying it. | *When does the loop break?* |
+
+### The Doctor
+
+| Theme | Element | Question |
+|---|---|---|
+| Blood | **Drive.** Family. Someone you care about was on Acheron-9. | *What did Acheron-9 want from yours?* |
+| Watch | **Approach.** Quiet observation. You watch before you speak. | *What did you see growing up that taught you to watch first?* |
+| Crew | **Belief.** The crew comes first. The mission is a means to that end. | *Who was on the crew that taught you this, and where are they now?* |
+| Cost | **Memory.** Someone who trusted you completely. It cost them. | *What did they trust you with, and what did you do with it?* |
+
+### The Signals Tech
+
+| Theme | Element | Question |
+|---|---|---|
+| Truth | **Drive.** Curiosity. Something in the mission brief doesn't add up. | *When does knowing become more dangerous than not?* |
+| Motion | **Approach.** Nervous energy. When things get bad, you get busy. | *What happens in the moment you have to be still?* |
+| Suspicion | **Belief.** Meridian always has an agenda. You just haven't found it yet. | *What is Meridian's agenda for this mission?* |
+| Voice | **Memory.** The last thing someone said before they went dark. You were the only one who heard it. | *What were they trying to tell you?* |
+
+### The Specialist
+
+| Theme | Element | Question |
+|---|---|---|
+| Penance | **Drive.** Redemption. You did something at your last posting you can't take back. | *What did you do, and who is still paying for it?* |
+| Wall | **Approach.** Protective. You put yourself between the problem and the people you've claimed. | *Who taught you to put yourself in front?* |
+| Mercy | **Belief.** Everyone deserves one more chance. | *What did you do that you couldn't forgive in someone else?* |
+| Witness | **Memory.** Something you saw on a previous contract that nobody believed. | *What happens when you see it again?* |
+
+### The Director
+
+| Theme | Element | Question |
+|---|---|---|
+| Allegiance | **Drive.** Loyalty. To Meridian. Or to something inside Meridian the others don't know about. | *When does loyalty become complicity?* |
+| Distance | **Approach.** Detached. You go clinical when it matters. Feeling is for after. | *When does after arrive?* |
+| Void | **Belief.** There are things in deep space that don't care whether we exist. | *When did you stop believing anything out here cared?* |
+| Blank | **Memory.** Waking up somewhere you don't remember going. The medical report said stress. | *What were you doing in the hours you lost?* |
+
+---
+
 ## Building Your Own Character
 
-*Use these tables to build from scratch or fill in your third thread. Every option has a Theme and a Question already shaped to pass the agency test: the answer is something the fiction has to surface, not something you decide by playing your character. The Element wording is your starting Body — extend it with one more sentence if it helps.*
+*Use these tables to build from scratch, or to swap an element from your archetype, or to fill in your third thread on a pregen. Every option has a Theme and a Question already shaped to pass the agency test: the answer is something the fiction has to surface, not something you decide by playing your character. The Element wording is your starting Body — extend it with one more sentence if it helps.*
 
 ---
 
