@@ -116,7 +116,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 
 ## Archetypes
 
-*Six role templates. Faster than building from scratch, freer than the named pregens. Pick an archetype, name your character, and play. Each archetype lists four suggested elements — pick two to be your character threads, or swap any for an option from the tables below.*
+*Six role templates. Faster than building from scratch, freer than the named pregens. Pick an archetype, name your character, and play. Each archetype's **Drive is fixed** — it's what makes it that archetype. Pick **one of the other three suggested elements** (Approach, Belief, or Memory) to be your second character thread. Swap any element for an option from the tables below if none fit.*
 
 *The Connection Threads in the next section are written using the named pregens. If you build from an archetype, use your character's name in the matching column: The Engineer's connections become Maren's, The Pilot's become Daal's, and so on.*
 
@@ -133,57 +133,75 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 
 ### The Engineer
 
+**Drive (set): Debt.** You owe Meridian something personal. This job clears the balance. — *What did Meridian buy when it bought your labor?*
+
+*Pick one for your second character thread:*
+
 | Theme | Element | Question |
 |---|---|---|
-| Debt | **Drive.** You owe Meridian something personal. This job clears the balance. | *What did Meridian buy when it bought your labor?* |
-| Method | **Approach.** Meticulous. Check everything twice. Trust the data. | *What do you miss when you're busy being right?* |
-| Trust | **Belief.** Machines are honest. People aren't. | *What did a person do to teach you machines are kinder?* |
-| Choice | **Memory.** A decision you made under pressure you can't justify out loud. | *What was the decision, and who paid for it?* |
+| Method | Approach. Meticulous. Check everything twice. Trust the data. | *What do you miss when you're busy being right?* |
+| Trust | Belief. Machines are honest. People aren't. | *What did a person do to teach you machines are kinder?* |
+| Choice | Memory. A decision you made under pressure you can't justify out loud. | *What was the decision, and who paid for it?* |
 
 ### The Pilot
 
+**Drive (set): Helm.** Control. You need to be the one steering. — *What happens when the ship won't be steered?*
+
+*Pick one for your second character thread:*
+
 | Theme | Element | Question |
 |---|---|---|
-| Helm | **Drive.** Control. You need to be the one steering. | *What happens when the ship won't be steered?* |
-| Edge | **Approach.** Direct. You say the thing nobody wants to hear. | *When does the truth you tell start costing more than it saves?* |
-| Rule | **Belief.** Following the rules is the only thing keeping us alive out here. | *Who broke the rule that taught you to keep them?* |
-| Replay | **Memory.** A navigation error that killed someone. You haven't stopped replaying it. | *When does the loop break?* |
+| Edge | Approach. Direct. You say the thing nobody wants to hear. | *When does the truth you tell start costing more than it saves?* |
+| Rule | Belief. Following the rules is the only thing keeping us alive out here. | *Who broke the rule that taught you to keep them?* |
+| Replay | Memory. A navigation error that killed someone. You haven't stopped replaying it. | *When does the loop break?* |
 
 ### The Doctor
 
+**Drive (set): Blood.** Family. Someone you care about was on Acheron-9. — *What did Acheron-9 want from yours?*
+
+*Pick one for your second character thread:*
+
 | Theme | Element | Question |
 |---|---|---|
-| Blood | **Drive.** Family. Someone you care about was on Acheron-9. | *What did Acheron-9 want from yours?* |
-| Watch | **Approach.** Quiet observation. You watch before you speak. | *What did you see growing up that taught you to watch first?* |
-| Crew | **Belief.** The crew comes first. The mission is a means to that end. | *Who was on the crew that taught you this, and where are they now?* |
-| Cost | **Memory.** Someone who trusted you completely. It cost them. | *What did they trust you with, and what did you do with it?* |
+| Watch | Approach. Quiet observation. You watch before you speak. | *What did you see growing up that taught you to watch first?* |
+| Crew | Belief. The crew comes first. The mission is a means to that end. | *Who was on the crew that taught you this, and where are they now?* |
+| Cost | Memory. Someone who trusted you completely. It cost them. | *What did they trust you with, and what did you do with it?* |
 
 ### The Signals Tech
 
+**Drive (set): Truth.** Curiosity. Something in the mission brief doesn't add up. — *When does knowing become more dangerous than not?*
+
+*Pick one for your second character thread:*
+
 | Theme | Element | Question |
 |---|---|---|
-| Truth | **Drive.** Curiosity. Something in the mission brief doesn't add up. | *When does knowing become more dangerous than not?* |
-| Motion | **Approach.** Nervous energy. When things get bad, you get busy. | *What happens in the moment you have to be still?* |
-| Suspicion | **Belief.** Meridian always has an agenda. You just haven't found it yet. | *What is Meridian's agenda for this mission?* |
-| Voice | **Memory.** The last thing someone said before they went dark. You were the only one who heard it. | *What were they trying to tell you?* |
+| Motion | Approach. Nervous energy. When things get bad, you get busy. | *What happens in the moment you have to be still?* |
+| Suspicion | Belief. Meridian always has an agenda. You just haven't found it yet. | *What is Meridian's agenda for this mission?* |
+| Voice | Memory. The last thing someone said before they went dark. You were the only one who heard it. | *What were they trying to tell you?* |
 
 ### The Specialist
 
+**Drive (set): Penance.** Redemption. You did something at your last posting you can't take back. — *What did you do, and who is still paying for it?*
+
+*Pick one for your second character thread:*
+
 | Theme | Element | Question |
 |---|---|---|
-| Penance | **Drive.** Redemption. You did something at your last posting you can't take back. | *What did you do, and who is still paying for it?* |
-| Wall | **Approach.** Protective. You put yourself between the problem and the people you've claimed. | *Who taught you to put yourself in front?* |
-| Mercy | **Belief.** Everyone deserves one more chance. | *What did you do that you couldn't forgive in someone else?* |
-| Witness | **Memory.** Something you saw on a previous contract that nobody believed. | *What happens when you see it again?* |
+| Wall | Approach. Protective. You put yourself between the problem and the people you've claimed. | *Who taught you to put yourself in front?* |
+| Mercy | Belief. Everyone deserves one more chance. | *What did you do that you couldn't forgive in someone else?* |
+| Witness | Memory. Something you saw on a previous contract that nobody believed. | *What happens when you see it again?* |
 
 ### The Director
 
+**Drive (set): Allegiance.** Loyalty. To Meridian. Or to something inside Meridian the others don't know about. — *When does loyalty become complicity?*
+
+*Pick one for your second character thread:*
+
 | Theme | Element | Question |
 |---|---|---|
-| Allegiance | **Drive.** Loyalty. To Meridian. Or to something inside Meridian the others don't know about. | *When does loyalty become complicity?* |
-| Distance | **Approach.** Detached. You go clinical when it matters. Feeling is for after. | *When does after arrive?* |
-| Void | **Belief.** There are things in deep space that don't care whether we exist. | *When did you stop believing anything out here cared?* |
-| Blank | **Memory.** Waking up somewhere you don't remember going. The medical report said stress. | *What were you doing in the hours you lost?* |
+| Distance | Approach. Detached. You go clinical when it matters. Feeling is for after. | *When does after arrive?* |
+| Void | Belief. There are things in deep space that don't care whether we exist. | *When did you stop believing anything out here cared?* |
+| Blank | Memory. Waking up somewhere you don't remember going. The medical report said stress. | *What were you doing in the hours you lost?* |
 
 ---
 
