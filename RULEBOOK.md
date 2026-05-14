@@ -547,7 +547,11 @@ Revelations and Silences are not named, only captioned. Wounds get names because
 
 ### When a Character Thread Transforms
 
-When any of a character's character threads reaches Transformed, the character is **lost to themselves**. Still in the story, but no longer who they were. From this point the player decides what their character does, including, if they choose, that the character is gone. The loom's dissolution note, if it has one, suggests what this looks like in the genre being played.
+The character continues. They have become who their wounds made them. The Transformed thread carries forward in its new shape — the player honors it through that shape now, and the bones-reads will land differently than they did before. *This is character evolution, not character loss.* Ravel isn't a game about losing your character. It is a game about who your character becomes under pressure.
+
+The loom may offer a **dissolution palette** — flavor for what transformation looks like in the genre being played. In horror, it might be that the character takes on something they were running from. In a political thriller, they might commit the betrayal they swore they wouldn't. The loom suggests the texture; the player chooses what to play.
+
+If the fiction reaches a place where the player wants their character to step out of the story — because the transformations have remade them, because the arc has resolved, because the table is ready to close that thread of cast — they can. The mechanic doesn't force it. The story owns when a character leaves it.
 
 ### When a Relationship Thread Transforms
 

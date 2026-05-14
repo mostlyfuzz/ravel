@@ -454,7 +454,7 @@ What you do on the Harrow. Pick one or invent your own. Role doesn't make a thre
 
 ## Dissolution
 
-*When any of a character's character threads reaches Transformed, the character is lost to themselves. In The Harrow, dissolution looks like this:*
+*When a character thread transforms, the character doesn't leave the story — they become what the wound made them. *The Harrow* is body-horror and identity-horror, and transformation is the threat: not death, but *becoming*. Pick what dissolution looks like for your character when a thread transforms, or invent your own. The shape depends on which thread broke them and how.*
 
 - **The ship claims them.** Judith begins speaking in their voice. They begin speaking in Judith's.
 - **The web finishes the translation.** Whatever Acheron-9 started, the character completes. They are no longer separate from what they came here to find.
