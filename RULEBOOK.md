@@ -26,13 +26,13 @@ Maya: "We stay with the car. That's the rule. You never leave the car." She says
 
 *[Maya honors her Dread thread. She earns a die.]*
 
-Danny looks at the tree line. Then at the road. Then back. He wants to pull his Loyalty thread — whether he runs or stays when it counts.
+Danny looks at the tree line. Then at the road. Then back. He wants to pull his Loyalty thread. Probe: *When did this loyalty first fail you?*
 
 *[Danny spends two dice. Rolls a three and a four. Cold.]*
 
-Danny: "I'm not — we should just —" He takes a step toward the road. Stops.
+*[Danny's Loyalty body gets a new line: he reached for the first time his loyalty had failed and the answer wasn't there. He cannot remember if it ever has.]*
 
-*[Danny's Loyalty body gets a new line: right now, loyalty means nothing to him. Why?]*
+Danny: "I'm not — we should just —" He takes a step toward the road. Stops.
 
 Roz: "Danny."
 
@@ -70,13 +70,21 @@ Threads ask about truth-discovery, not choice-discovery. *What did Sars want?* i
 
 ### Thread Shape
 
-Every thread has three parts:
+Threads come in two shapes.
+
+**World and connection threads** are question-shaped. They ask about specific things in the fiction:
 
 - **Question:** What's open. Something the table doesn't know the answer to yet.
 - **Body:** What the table knows so far. Starts sparse. Accumulates as Colds and Clears add lines through play.
 - **Status:** Where the thread stands.
 
-Character threads also carry a **Theme** — one word naming the territory the question lives in (Trust, Debt, Loyalty). World threads don't need one.
+**Character threads** are territory-shaped. They name a region of the character's identity, not a single question. They have:
+
+- **Theme:** One word naming the territory (Trust, Debt, Loyalty, Dread). The theme is what's being explored, not what's being asked.
+- **Body:** The character's relationship to the theme. Starts as two or three sentences seeding what's known. Accumulates as pulls surface different facets of the territory.
+- **Status:** Where the thread stands.
+
+Character threads have no single Question. Each pull picks a probe from a menu — *Who taught you this loyalty? When did it first fail you? What does it hide?* — and the dice surface the answer in that direction. The thread's body becomes the biography of the theme, written one probe at a time. See *Pulling a Character Thread* for the probe menu.
 
 **Two tests for thread questions:**
 
@@ -126,7 +134,7 @@ The table decides together.
 
 **World threads** are questions about the situation, the environment, events, other people. They live in the web and are visible to everyone.
 
-**Character threads** are questions about who a specific person is and who they're becoming. They live on the character sheet but are still visible to the table. Honoring a character thread earns a die. Each character thread should be pulled at least once per episode when the fiction earns it.
+**Character threads** are territories of identity — themes the character lives inside. They live on the character sheet but are still visible to the table. Honoring a character thread earns a die. Pulling a character thread requires the fiction to be putting the theme under genuine test; the Collision is the structural moment when every character pulls at least one. See *Pulling a Character Thread*.
 
 **Keep your world threads broad enough to cover the climax.** Aftermath bans new threads, so the questions on the board at the end of Act One are the questions that have to absorb whatever the Collision produced. If the climactic moment of fiction is a thing nobody can pull on because no thread covers it, the table is forced to either narrate without dice or break the no-new-threads rule. World threads phrased broadly — *what happened here, what is this place, what is this person* — flex to absorb climax energy. World threads phrased narrowly tend to leave the table holding fiction the engine can't process.
 
@@ -140,17 +148,19 @@ A character in Ravel is a bundle of threads — not a list of traits, but a set 
 
 ### Character Threads
 
-A character thread has three parts: a **Theme** (one word naming the territory), a **Question** (what's open — not a statement about who they are, but a question about who they're becoming), and a **Body** (what the table knows at the start, two sentences at most). See Threads for how they move through play.
+A character thread is a **territory of identity**, not a single question. It has two parts: a **Theme** (one word naming the territory) and a **Body** (two or three sentences seeding the character's relationship to that theme).
 
-> **Trust** — *Can Maria trust people again?*
+There is no question. The theme is what's being explored. The probes in *Pulling a Character Thread* are the tools the table uses to surface different facets of the territory.
+
+> **Trust**
 > She's been burned badly enough that she keeps everyone at arm's length. Something taught her that lesson. She hasn't said what.
 > *open*
 
-> **Debt** — *What will Maria do to fix what she broke?*
+> **Debt**
 > She owes someone something she can't pay back cleanly. She is running out of ways to avoid the moment of reckoning.
 > *open*
 
-> **Loyalty** — *Does Peter's loyalty make him dangerous?*
+> **Loyalty**
 > He stands by his people even when it's stupid. The people he stands by don't always deserve it.
 > *open*
 
@@ -202,7 +212,7 @@ A thread is an unresolved question, tension, or connection in the fiction. "Why 
 
 If your character already knows it or feels it, just play it. If you're asking the fiction to answer something, that's a thread. You don't need permission to look. You just have to live with what you found. Pulling doesn't have to be a question asked out loud. An action that tests the fiction counts: attacking a system to see if it's connected to someone, opening a door to see what's behind it, trusting someone to see if they betray you.
 
-Threads point outward. You honor yourself to earn dice. You pull on other characters, the world, and the situation to spend them.
+You honor yourself to earn dice. You pull on the world, on situations, on other characters, and on your own themes to spend them. World and connection thread pulls reveal new territory in the fiction; character thread pulls surface what was always under the lens. See *Pulling a Character Thread* for the inward case.
 
 **Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
 
@@ -230,6 +240,39 @@ One die is a genuine gamble. Two dice tilts toward Clarity but never away from B
 **There is no wasted roll.** Every outcome adds something. Cold is not nothing happening. Cold is: the files from 1998 are missing. The door is welded from the inside. She won't meet your eyes. Each Silence makes the thread's absence more present. Each Wound makes its damage louder. Each Revelation brings the truth closer to final. The thread is moving every time.
 
 **When others have stake.** If your character is *named* in a thread someone else pulls, you have stake without ownership — you can't pull on their question, but you can co-pull on one of your own threads and offer a sacrifice trade against their outcome. See *Co-Pulling and Sacrifice Trades*.
+
+### Pulling a Character Thread
+
+Character threads are easy to honor and hard to pull. Honoring is declaring the lens; pulling is asking the fiction to test what's under it. The asking is rougher than pulling a world thread — it surfaces something internal that the player has been carrying and might be wrong about.
+
+**Why you'd pull.** You pull your own character thread when you want the world to tell you something about yourself that you can't decide alone. The character has a belief about who they are in this territory; the pull asks the fiction to confirm, deny, or wound it. Pulls of this kind don't decide what your character *does* — that stays yours. They decide what your character *learns about themselves* by acting.
+
+**Pick a probe.** Because there is no single question, the pull picks one. The probe steers what facet of the territory the dice surface. A starter menu (the table can add their own):
+
+- *Who taught you this [theme] — and did they mean to?*
+- *When did [theme] first fail you?*
+- *What does [theme] hide?*
+- *What does [theme] feel like at full pitch?*
+- *What's the version of [theme] you'd never admit?*
+- *When did you first doubt [theme]?*
+- *What does [theme] want from you that you've never given?*
+
+Name the probe out loud before you roll. The Theme + the chosen probe is what the dice are answering.
+
+**Reading the outcome.** The probe shapes the texture, not the verdict:
+
+- **Clarity → Revelation.** The truth surfaces in the probe's direction. You learned this loyalty came from a parent who left. You learned the version of trust you hide is the one you most need. Write the caption as the answer to the probe.
+- **Cold → Silence.** The probe came back empty. You looked toward where the answer should have been and it slid away. Write the caption as the *shape of the absence*: what was reached for, what wasn't there.
+- **Break → Wound.** The asking itself wounded the theme. Name the wound (on the first Break) and write the caption as the damage the probe did to the territory.
+
+**When to pull.** A pull lands when the fiction has put the theme under genuine test. Most scenes don't qualify; they let you honor instead. Pull when:
+
+- The fiction has just demanded something of the theme (loyalty under fear, trust under betrayal, debt under reckoning).
+- You're carrying a belief about yourself you want the world to weigh.
+- A scene has built a moment that *would* surface something, and you want to know what.
+- At the **Collision**, every character present should pull at least one of their character threads. The Collision is the episode's crucible — what honors built across the act lands on the character's themes. The fiction has earned the test.
+
+If no scene this episode has put a theme under real test, that thread doesn't get pulled. That's fine. Theme-pulls happen when the fiction earns them, not on a schedule.
 
 ### The Bones
 
@@ -410,7 +453,7 @@ Three scenes in a fixed order: the bomb scene, the echo scene, and the collision
 
 **Scene 2 — The Echo.** A second thread develops alongside the bomb. It's thematically adjacent but logically independent. Honor and pull. The pressure should be visible in the cast before it peaks.
 
-**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. At least one manifestation must happen here. This is the climax. Everyone should be present in it.
+**Scene 3 — The Collision.** The echo and the bomb collide. This is the **detonation**: the point where escalation has nowhere left to go. At least one manifestation must happen here. **Every character present pulls at least one of their character threads** — the Collision is where what honors built across the act finally lands on the character's themes. This is the climax. Everyone should be present in it.
 
 ### Act Three: Aftermath
 
@@ -457,6 +500,7 @@ For campaigns, threads that went cold or transformed persist into the next episo
 
 ### Act Two — Scene 3: Collision
 - The echo and the bomb collide. Everyone present. At least one manifestation.
+- Every character present pulls at least one of their character threads.
 - **After:** What detonated? What's left?
 
 ### Act Three: Aftermath
@@ -509,7 +553,7 @@ The Finale is a regular episode with five rules changed. Everything else (Cold O
 
 **3. The Collision demands a permanent change.** A normal Collision requires at least one manifestation. The Finale's Collision requires that and one of: a **character thread reaching Transformed**, or the **retirement of a season-shaping thread** (an Anchor or the Opener). The detonation has to leave a permanent mark on the board.
 
-**4. Manifestation resolves a thread.** A normal Manifestation deepens the fiction and resolves nothing. The Finale's Collision Manifestation must settle one of the manifesting character's threads: a character thread shifts shape on the page. Name what its question was. Name what it becomes.
+**4. Manifestation resolves a thread.** A normal Manifestation deepens the fiction and resolves nothing. The Finale's Collision Manifestation must settle one of the manifesting character's threads: a character thread shifts shape on the page. Name what its theme was. Name what it becomes.
 
 **5. The Tag fades to black.** A normal Tag plants a fuse for the next episode. The Finale's Tag closes instead. Any thread still Open at the end of the Finale goes Silent. Write its final line. Silent threads carry into the next season as ghosts: reopenable, but only if the fiction directly confronts what went quiet.
 
@@ -531,11 +575,24 @@ Every pull deposits a tag. Tags accumulate. When any kind reaches three, the thr
 
 ### The Three Terminals
 
-**Clarified.** Three Revelations. The thread is answered. The Revelation captions, in order, are the answer the table now treats as established truth. The thread closes. No further pulls or honors. Spin-off threads may branch from the answer if the table finds new questions in it, but the original question is done.
+**Clarified.** Three Revelations.
 
-**Silent.** Three Silences. The question stopped being asked. The Silence captions are the body of the absence — what the table tried to learn and could not. At termination, the thread's owner writes a single line: the **silence statement**. (For character threads, the character's player. For connection threads, the player who owns the thread. For world threads, the GM.) Not the answer to the question; the *fact of the un-answering*. What has the world now established by refusing to yield? *Mira will never know what June is. She will live the rest of this season next to a person who might be anything.* *The crew does not get told. Some questions are above their clearance, and they will learn to stop asking.* The silence statement is a permanent feature of the fiction. New threads can grow from it. Other pulls can be shaped by it. A Silent thread can be reopened only if the fiction directly confronts what went quiet — and reopening requires raw confrontation, not investigation.
+- *For world and connection threads:* the question is answered. The Revelation captions, in order, are the answer the table now treats as established truth.
+- *For character threads:* the territory is mapped. The character's relationship to this theme is now established truth. The probes used and their captions are the biography of how the theme came clear.
 
-**Transformed.** Three Wounds. The wound has won. The thread is rewritten by the table to be what the wound made it. A character thread of Theme *Loyalty* whose wound was *Betrayal* becomes a thread about betrayal. A relationship whose wound was *Distance* becomes a thread about estrangement, or about the silence between them. The Wound captions become the new body. The original question is gone.
+The thread closes. No further pulls or honors. Spin-off threads may branch from what was learned if the table finds new questions in it.
+
+**Silent.** Three Silences. The thread stopped yielding.
+
+- *For world and connection threads:* the question stopped being asked. The Silence captions are the body of the absence — what the table tried to learn and could not.
+- *For character threads:* the territory closed. The character looked toward the theme three times and the truth slid away each time. The theme becomes a region they don't get to know about themselves.
+
+At termination, the thread's owner writes a single line: the **silence statement**. (For character threads, the character's player. For connection threads, the player who owns the thread. For world threads, the GM.) Not the answer; the *fact of the un-answering*. What has the world now established by refusing to yield? *Mira will never know what June is. She will live the rest of this season next to a person who might be anything.* *Danny will never know if his loyalty was ever real. The question is closed to him.* The silence statement is a permanent feature of the fiction. New threads can grow from it. Other pulls can be shaped by it. A Silent thread can be reopened only if the fiction directly confronts what went quiet — and reopening requires raw confrontation, not investigation.
+
+**Transformed.** Three Wounds. The wound has won.
+
+- *For world and connection threads:* the question is rewritten by the table to be what the wound made it. A relationship whose wound was *Distance* becomes a thread about estrangement, or about the silence between them.
+- *For character threads:* the theme itself has been hurt into something else. The Theme on the sheet changes. A *Loyalty* thread whose wound was *Betrayal* becomes a *Betrayal* thread — the character now lives that theme instead. The Wound captions become the new body. The original theme is gone.
 
 ### The First Wound Has a Name
 
@@ -568,7 +625,7 @@ Tags do not reduce. Once deposited, a Revelation, Silence, or Wound stays. The o
 
 ## Threads at a Glance
 
-**Shape:** Question / Body / Tags / Status. Character threads also carry a Theme.
+**Shape:** World and connection threads: Question / Body / Tags / Status. Character threads: Theme / Body / Tags / Status (no Question — pulls pick a probe; see *Pulling a Character Thread*).
 
 **Pull outcomes:**
 
@@ -608,10 +665,10 @@ Tags do not reduce. Once deposited, a Revelation, Silence, or Wound stays. The o
 ## The Rules on an Index Card
 
 1. **Agency.** Dice force resolution. Players write content. No die roll ever decides what a character is.
-2. **Create** a character: two character threads (Theme, Question, Body) and one directional connection thread naming a specific other.
+2. **Create** a character: two character threads (Theme + Body, territory-shaped) and one directional connection thread naming a specific other. World/connection threads are Question-shaped; character threads are not.
 3. **Threads** ask about what's *true* (not what a character chooses). Tags accumulate. Three of any kind terminates: Revelations → Clarified, Silences → Silent (write the silence statement), Wounds → Transformed. 18 active max.
-4. **Honor** a character thread once per scene (up to three threads per character per scene). Roll the bones, play the scene through the read. Earn one die. Honors do not deposit tags.
-5. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself.
+4. **Honor** up to two different threads per scene (one bone-read per thread). Earn one die per honor. Honors do not deposit tags.
+5. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself. **For character threads**, pick a probe (*Who taught you this? When did it fail you? What does it hide?*) before rolling. Every character pulls at least one character thread at the Collision.
 6. **The Bones.** After the dice settle (or at honor), roll one d6 per tag kind already on the thread. Tier 1 active on 1–3, tier 2 on 1–4. Active bones color the fiction.
 7. **Co-pull and Trade.** Players can co-pull in the same beat. A named character can sacrifice their own outcome one step to drag a puller's outcome down one step (no consent needed). Anyone can sacrifice to boost another's outcome up one step (consent needed). Narration is never tradeable.
 8. **Deliver.** Whoever owns the truth being surfaced narrates the outcome.
