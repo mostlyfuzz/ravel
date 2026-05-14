@@ -28,7 +28,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 
 *Players choose 3–4 characters. The rest become the GM's NPCs. Every seed is playable.*
 
-*Each pregen lists two of the three character threads to start. Pick a third from the Building Your Own Character tables below (or invent one with the table's agreement). Every character thread has a Theme, a Question, and a short Body. The Question asks after a truth nobody at the table can answer by playing their character — that's what threads are for.*
+*Each pregen lists their two character threads. Every character thread has a Theme, a Question, and a short Body. The Question asks after a truth nobody at the table can answer by playing their character — that's what threads are for.*
 
 ---
 
@@ -41,9 +41,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 | **Debt** | *What did Meridian buy when it bought your labor?* | You owe Meridian for your son's medical treatment. This job was supposed to clear the balance. You signed without reading every page. |
 | **Trust** | *What did a person do to teach you machines are kinder?* | You've been burned badly enough to keep everyone at arm's length. Something taught you that lesson. You haven't said what. |
 
-**Third thread:** pick one from the tables below.
-
-**Connection threads:** see the Connection Threads section.
+**Connection thread:** pick one from the Connection Threads section.
 
 ---
 
@@ -56,9 +54,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 | **Allegiance** | *When does loyalty become complicity?* | Loyalty to Meridian. Or maybe to something inside Meridian the others don't know about. |
 | **Dark** | *What did they ask of you?* | You were the last to communicate with Acheron-9 before it went dark. You have never told anyone what was said. |
 
-**Third thread:** pick one from the tables below.
-
-**Connection threads:** see the Connection Threads section.
+**Connection thread:** pick one from the Connection Threads section.
 
 ---
 
@@ -71,9 +67,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 | **Blood** | *What did Acheron-9 want from your sister?* | Your sister was stationed on Acheron-9 when the station went dark. Nobody at Meridian has been straight with you since. |
 | **Watch** | *What did you see growing up that taught you to watch first?* | You speak after you've watched. You remember everything. |
 
-**Third thread:** pick one from the tables below.
-
-**Connection threads:** see the Connection Threads section.
+**Connection thread:** pick one from the Connection Threads section.
 
 ---
 
@@ -86,9 +80,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 | **Helm** | *What happens when the ship won't be steered?* | You need to be the one at the controls. When you aren't, nothing makes sense. |
 | **Replay** | *When does the loop break?* | Your co-pilot died in a navigation error years ago. You haven't stopped replaying it. You don't sleep well either. |
 
-**Third thread:** pick one from the tables below.
-
-**Connection threads:** see the Connection Threads section.
+**Connection thread:** pick one from the Connection Threads section.
 
 ---
 
@@ -101,9 +93,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 | **Penance** | *What did you do, and who is still paying for it?* | You did something at your last posting you can't take back. This job was supposed to be the slate cleared. |
 | **Mercy** | *What did you do that you couldn't forgive in someone else?* | You believe everyone deserves another chance. Including yourself. You haven't decided if you mean it. |
 
-**Third thread:** pick one from the tables below.
-
-**Connection threads:** see the Connection Threads section.
+**Connection thread:** pick one from the Connection Threads section.
 
 ---
 
@@ -126,7 +116,7 @@ Acheron-9 is still weeks away. Whatever they're now pointed at is closer.
 
 ## Archetypes
 
-*Six role templates. Faster than building from scratch, freer than the named pregens. Pick an archetype, name your character, and play. Each archetype lists four suggested elements — pick three to be your character threads, or swap any for an option from the tables below.*
+*Six role templates. Faster than building from scratch, freer than the named pregens. Pick an archetype, name your character, and play. Each archetype lists four suggested elements — pick two to be your character threads, or swap any for an option from the tables below.*
 
 *The Connection Threads in the next section are written using the named pregens. If you build from an archetype, use your character's name in the matching column: The Engineer's connections become Maren's, The Pilot's become Daal's, and so on.*
 
@@ -298,7 +288,7 @@ What you do on the Harrow. Pick one or invent your own. Role doesn't make a thre
 
 ## Connection Threads
 
-*Each character owns five connection threads — one naming each other character on the manifest. The cast's connections form a cyclical web: every character names some others, and every character is named in some others' threads. Pick two of your five at character creation. The remaining three are available to open later if play earns them.*
+*Each character could own up to five connection threads — one naming each other character on the manifest — but at character creation everyone picks just **one** to start. The cast's connections form a cyclical web: every character names someone, and every character is named in someone else's thread. The remaining four entries below are available to open later if play earns them.*
 
 *When a connection thread is pulled, delivery follows the agency rule: each player narrates the part about themselves. The owner narrates their own piece. The named character's player narrates the part about themselves.*
 
@@ -446,7 +436,7 @@ What you do on the Harrow. Pick one or invent your own. Role doesn't make a thre
 
 ## Dissolution
 
-*When any of a character's three character threads reaches Transformed, the character is lost to themselves. In The Harrow, dissolution looks like this:*
+*When any of a character's character threads reaches Transformed, the character is lost to themselves. In The Harrow, dissolution looks like this:*
 
 - **The ship claims them.** Judith begins speaking in their voice. They begin speaking in Judith's.
 - **The web finishes the translation.** Whatever Acheron-9 started, the character completes. They are no longer separate from what they came here to find.

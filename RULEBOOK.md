@@ -114,7 +114,7 @@ The race between these three is the heart of every thread. Most threads end with
 
 ### Thread Limits and Cleanup
 
-Keep no more than **12 active threads** on the board. When you need to make room, keep the questions that are interesting. Drop the ones that aren't.
+Keep no more than **18 active threads** on the board (6 outcomes × 3 tiers — the natural ceiling of a d6 system). When you need to make room, keep the questions that are interesting. Drop the ones that aren't.
 
 - **Retire** threads the fiction has already answered.
 - **Collapse** threads absorbed into sharper questions.
@@ -136,7 +136,7 @@ The table decides together.
 
 A character in Ravel is a bundle of threads — not a list of traits, but a set of open questions about who this person is and who they're becoming. The character sheet is a personal web.
 
-**Every character starts with three character threads and two connection threads.**
+**Every character starts with two character threads and one connection thread.** Threads can be added later if the fiction earns them; the cap protects the table from carrying more than it can play through.
 
 ### Character Threads
 
@@ -156,7 +156,7 @@ A character thread has three parts: a **Theme** (one word naming the territory),
 
 ### Connection Threads
 
-After everyone has made their character threads, establish two connection threads per character. These live on the character sheet alongside character threads — they are *your* questions about your relationships with specific other characters.
+After everyone has made their character threads, each player establishes one connection thread. It lives on the character sheet alongside the character threads — it is *your* question about your relationship with a specific other character.
 
 Connection threads are **directional**: you own the thread, and the named character is named in it. They can't pull on your question — they can't pull on your belief about them — but they have stake in how its answers might surface things about them. They can co-pull and offer sacrifice trades when you pull (see *Co-Pulling and Sacrifice Trades*). Both players must agree on the question at creation.
 
@@ -187,7 +187,7 @@ Honoring is **characterization**. It is the player declaring that a piece of who
 4. **Earn the die.** You add one die to your pool.
 
 **Rules for earning:**
-- You can honor up to **three different character threads per scene** (one read per thread). Most scenes will see fewer.
+- You can honor up to **two different threads per scene** (one bone-read per thread). The chosen threads can be character threads or your connection thread — anything you own counts. Most scenes will see fewer.
 - You cannot honor the same character thread twice in the same scene. The bone-read you committed to at honoring time stands for the rest of the scene.
 - Dice accumulate through the session. Unspent dice carry from scene to scene.
 - Dice reset between sessions.
@@ -547,7 +547,7 @@ Revelations and Silences are not named, only captioned. Wounds get names because
 
 ### When a Character Thread Transforms
 
-When any of a character's three character threads reaches Transformed, the character is **lost to themselves**. Still in the story, but no longer who they were. From this point the player decides what their character does, including, if they choose, that the character is gone. The loom's dissolution note, if it has one, suggests what this looks like in the genre being played.
+When any of a character's character threads reaches Transformed, the character is **lost to themselves**. Still in the story, but no longer who they were. From this point the player decides what their character does, including, if they choose, that the character is gone. The loom's dissolution note, if it has one, suggests what this looks like in the genre being played.
 
 ### When a Relationship Thread Transforms
 
@@ -593,9 +593,9 @@ Tags do not reduce. Once deposited, a Revelation, Silence, or Wound stays. The o
 | Silent | Three Silences. Reopenable only if the fiction confronts what went quiet. |
 | Transformed | Three Wounds. Rewritten by the table to be what the wound made it. |
 
-**Limit:** 12 active threads. Retire (answered), Collapse (absorbed), Merge (same question).
+**Limit:** 18 active threads (6 × 3 — the natural ceiling of a d6 system). Retire (answered), Collapse (absorbed), Merge (same question).
 
-**Character threads:** Honor up to three different threads per scene (one bone-read per thread). Each honor mints one die. Honors do not deposit tags.
+**Character threads:** Honor up to two of your owned threads per scene (one bone-read per thread). Each honor mints one die. Honors do not deposit tags.
 
 **Pulls:** 1 or 2 dice, highest wins. Pulls are the only way tags accumulate.
 
@@ -604,8 +604,8 @@ Tags do not reduce. Once deposited, a Revelation, Silence, or Wound stays. The o
 ## The Rules on an Index Card
 
 1. **Agency.** Dice force resolution. Players write content. No die roll ever decides what a character is.
-2. **Create** a character: three character threads (Theme, Question, Body) and two directional connection threads naming specific others.
-3. **Threads** ask about what's *true* (not what a character chooses). Tags accumulate. Three of any kind terminates: Revelations → Clarified, Silences → Silent (write the silence statement), Wounds → Transformed. 12 active max.
+2. **Create** a character: two character threads (Theme, Question, Body) and one directional connection thread naming a specific other.
+3. **Threads** ask about what's *true* (not what a character chooses). Tags accumulate. Three of any kind terminates: Revelations → Clarified, Silences → Silent (write the silence statement), Wounds → Transformed. 18 active max.
 4. **Honor** a character thread once per scene (up to three threads per character per scene). Roll the bones, play the scene through the read. Earn one die. Honors do not deposit tags.
 5. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself.
 6. **The Bones.** After the dice settle (or at honor), roll one d6 per tag kind already on the thread. Tier 1 active on 1–3, tier 2 on 1–4. Active bones color the fiction.
