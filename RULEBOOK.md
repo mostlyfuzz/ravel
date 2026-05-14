@@ -58,21 +58,31 @@ Character threads also carry a **Theme** — one word naming the territory the q
 
 ### What Happens When You Pull
 
-A pull is how you ask the fiction to answer. The outcome shapes what happens to the thread:
+A pull is how you ask the fiction to answer. Every pull deposits a **tag** on the thread, named for the outcome:
 
-**Clear** — the question branches. The specific question is answered, but the answer opens more specific questions. Those become new threads. The parent thread is done. Clear doesn't close the fiction — it focuses it.
+- **Clarity** deposits a **Revelation**. The thread learned something true.
+- **Cold** deposits a **Silence**. The thread refused, and the refusal itself became fictional.
+- **Break** deposits a **Wound**. The thread was damaged.
 
-**Cold** — the question deepens. The thread stays open but gains weight. Add a line to the body: what the Cold revealed. A thread that goes Cold three times goes **Silent**.
+The thread carries every tag it ever earns. Tags accumulate. There is no healing.
 
-**Break** — the question ruptures. The thread closes with damage. Its wreckage opens new threads — the consequences keep going even though this question is done. See Breaks.
+When any tag kind reaches **three**, the thread reaches its **terminal state**. Three different ways for a thread to end:
+
+- 3 Revelations: **Clarified**. The thread is answered.
+- 3 Silences: **Silent**. The thread stopped being asked.
+- 3 Wounds: **Transformed**. The thread is what the wound made it.
+
+The race between these three is the heart of every thread. Most threads end within a handful of pulls. The table's only steering tool is which kind of ending to aim for. See *Pulling Threads* for the dice mechanic and *The Bones* for how a thread's existing tags color each new pull.
 
 ### Thread States
 
-**Open** — the question is live. Can be honored, pulled, branched.
+**Open** — the question is live. Can be honored, pulled, branched. Carries any combination of tags below three of each kind.
 
-**Silent** — the question stopped being asked. Not answered — eroded by three Colds. The body gets one final line. A Silent thread can be reopened if the fiction directly confronts what went quiet. The table decides when that threshold is met.
+**Clarified** — three Revelations. The thread is answered. The Revelation captions, in order, are the answer the table now treats as truth. No further pulls or honors. Spin-off threads may branch from the answer.
 
-**Broken** — the question is done. Closed through rupture. Its damage is permanent and its consequences open new threads.
+**Silent** — three Silences. The question stopped being asked. The Silence captions are the body of the absence. A Silent thread can be reopened only if the fiction directly confronts what went quiet. The table decides when that threshold is met.
+
+**Transformed** — three Wounds. The wound has won. The thread is rewritten by the table to be what the wound made it. The Wound captions become the new body. The original element is gone. See *Tags and Terminal Consequences*.
 
 ### Thread Limits and Cleanup
 
@@ -137,22 +147,24 @@ You honor the fiction to earn dice. You spend dice to pull threads. Pulling thre
 
 ### Earning Dice: Honoring
 
-During a scene, when you play to a character thread — making the question more real, heavier, or more specific — you can earn a die.
+Honoring is **characterization**. It is the player declaring that a piece of who their character is going to be the lens for *this scene*. Honors happen per scene, not per beat.
 
 **How it works:**
 
-1. **Deliver.** Play the element in the fiction. Show us what it looks like in action.
-2. **Point.** Name what you honored.
-3. **Validate.** If no one at the table objects, you earn a die.
+1. **Choose.** At a meaningful moment in the scene, name the character thread you are honoring. This says: "This is the part of me that is playing out right now."
+2. **Read the bones.** Roll one d6 for each tag kind the thread already carries. Each bone that lands in its tier zone is *active*: it colors how your character expresses this thread for the rest of the scene. See *The Bones*. A clean thread (no tags) rolls no bones and plays straight.
+3. **Play through the read.** The bones cue the texture. A Loyalty thread with two Wounds, where the Wound bone landed, means your loyalty is speaking through pain this scene. Play that.
+4. **Earn the die.** You add one die to your pool.
 
 **Rules for earning:**
-- You cannot honor the same character thread twice in the same scene. If you earned a die for Maria's Debt, you need to honor a different thread to earn another.
+- You can honor up to **three different character threads per scene** (one read per thread). Most scenes will see fewer.
+- You cannot honor the same character thread twice in the same scene. The bone-read you committed to at honoring time stands for the rest of the scene.
 - Dice accumulate through the session. Unspent dice carry from scene to scene.
 - Dice reset between sessions.
 
-Validation is lightweight. The default is *yes*. You earn the die unless someone speaks up. This isn't a courtroom. It's a gentle check that keeps play honest.
+**Honors do not deposit tags.** Only pulls deposit tags. Honoring colors *how* a thread plays without pushing it toward any terminal state. The damage and the truth come from pulls.
 
-**Honors specify the character.** A character thread starts as a sentence. Each time you honor it, you give it a more specific shape. *Drive: Control* in scene one becomes, by scene six, *the man who reframes others' contributions as his own and overrides truth to keep the helm.* The thread is the same; the honors have written who is behind it. By Aftermath the accumulated honors are a more accurate description of the character than anything the player wrote at character creation. Notice this. The pile of small moments is the person.
+**Honors specify the character.** A character thread starts as a sentence. Each time you honor it, you commit to a particular read of it for the scene. *Drive: Control* in scene one, honored clean, is a man bringing competent leadership. By scene six, the same Drive carrying two Wounds and honored through Wound-Pain is *the man who reframes others' contributions as his own and overrides truth to keep the helm.* The thread is the same; the bones and the honors have written who is behind it. By Aftermath, the accumulated bone-reads are a more accurate description of the character than anything the player wrote at character creation. Notice this. The pile of small commitments is the person.
 
 ### Spending Dice: Pulling Threads
 
@@ -164,31 +176,59 @@ Threads point outward. You honor yourself to earn dice. You pull on other charac
 
 **Adding detail to the fiction.** Anyone can add detail to a scene: describing what you see, what your character does, what the environment looks like. But there's a line. Detail that opens new questions is free. Detail that narrows the answer to an existing thread is not. If someone at the table feels a detail is answering a thread rather than setting one up, they can call it. The detail gets retracted, or it becomes a pull.
 
-When you want to pull a thread, spend **between 1 and 3 dice** and roll them. The **highest die** determines the outcome. **Pooling:** multiple characters can contribute dice to a single pull, up to the 3-die maximum. This widens where the answer comes from — the thread's outcome belongs to everyone who put dice in:
+When you want to pull a thread, spend **1 or 2 dice** and roll them. The **highest die** determines the outcome. **Pooling:** multiple characters can contribute dice to a single pull, up to the 2-die maximum. The outcome belongs to everyone who put dice in.
 
-| Roll | Outcome |
-|------|---------|
-| **5–6** | **Clarity.** The thread resolves into new established fiction. You learn something true. That truth is now load-bearing. |
-| **3–4** | **Cold.** The thread doesn't resolve, but its resistance is real. Something is missing, hidden, or inaccessible. The absence itself becomes established fiction. |
-| **1–2** | **Breaks.** Pulling on this made something worse. The thread snaps and tension releases in a bad direction. Something is damaged. Every Break leaves a mark. See below. |
+| Roll | Outcome | Tag deposited |
+|------|---------|---------------|
+| **5–6** | **Clarity** | A **Revelation**. Write a one-line caption naming what truth came clear. |
+| **3–4** | **Cold** | A **Silence**. Write a one-line caption naming what the cold revealed: what's missing, hidden, or inaccessible. |
+| **1–2** | **Break** | A **Wound**. Write a one-line caption naming what damaged the thread. On the *first* Wound, also name the wound itself — a behavioral descriptor (Denial, Distance, Betrayal) that captures how this thread now speaks under pressure. |
 
-**Clarity is a door, not a wall.** When a thread resolves, the answer is usually more specific than the question. "What does Tariq know?" becomes "Jun contacted him before the station went dark." That's true and load-bearing — and it immediately raises "What did Jun tell him?" and "Why did Jun reach out?" Clarity doesn't close the fiction. It focuses it. A Clarity that ends all questions is a lore dump. A Clarity that opens better questions is the engine running.
+The tag joins the thread's accumulating record. When any tag kind reaches three, the thread reaches its terminal state. See *Thread States* and *Tags and Terminal Consequences*.
 
-**There is no wasted roll.** Every outcome gives the table material to work with. Cold is not "nothing happens." Cold is: the files from 1998 are missing. The door is welded shut from the inside. She won't meet your eyes. The answer exists, but something is in the way, and that something is now part of the fiction. A thread that goes Cold multiple times gains weight. Each refusal to resolve makes the question heavier, the absence more present. Some of the most important threads in a campaign will be the ones that never gave you Clarity.
+**The bones color every pull.** After the main dice settle, roll the bones (one d6 per existing tag kind on the thread). Each bone that lands in its tier zone is active. Write the new tag's caption from inside the active bones' voice. A Break colored by a Wound-bone writes its caption from the wound. A Clarity colored by a Silence-bone writes its truth as something that emerged from absence. See *The Bones*.
 
 **The odds:**
 
-| Dice Spent | Clarity | Cold | Breaks |
-|------------|---------|------|--------|
+| Dice Spent | Clarity | Cold | Break |
+|------------|---------|------|-------|
 | 1 | 33% | 33% | 33% |
 | 2 | 56% | 33% | 11% |
-| 3 | 70% | 26% | 4% |
 
-One die is a genuine gamble. Three dice is playing it safe, but it's expensive. The choice between spending cautiously and gambling cheap is the heartbeat of the economy.
+One die is a genuine gamble. Two dice tilts toward Clarity but never away from Break. The race to three is always close.
 
-**Thread branching.** When a pull resolves a thread with Clarity, the answer often raises more specific questions. Those become child threads. The fiction gets more precise as it branches. See Threads for limits and cleanup.
+**There is no wasted roll.** Every outcome adds something. Cold is not nothing happening. Cold is: the files from 1998 are missing. The door is welded from the inside. She won't meet your eyes. Each Silence makes the thread's absence more present. Each Wound makes its damage louder. Each Revelation brings the truth closer to final. The thread is moving every time.
 
 **Contesting a pull.** When a thread is pulled that is about your character, you may spend your own dice to force rerolls of the puller's dice, one for one, up to a maximum of 2 rerolls. The new results stand.
+
+### The Bones
+
+The bones are a thread's memory, alive in every pull and honor. Each tag kind the thread already carries adds one die to the bones roll. The bones don't change the outcome. They color it.
+
+**Rolling the bones.** After a pull's dice settle, or at the moment of an honor, roll one d6 for each tag kind currently on the thread. A thread carrying two Wounds and one Silence rolls two bones: one for Wound, one for Silence. A clean thread rolls no bones; the outcome is read straight.
+
+**Influence zones by tier.** Tier is the count of that kind of tag on the thread.
+
+| Tier | A bone of that kind is active on d6 ≤ |
+|---|---|
+| 1 | 3 |
+| 2 | 4 |
+
+A thread cannot pass tier 2 without entering its terminal state, so bones are only ever rolled for tier 1 or tier 2 tags.
+
+**Reading the bones.** Each active bone tints the outcome. Multiple bones may be active at once. The interpretation grid below is *fuel*, not law. The table writes the actual fiction; the bones tell you which voice is speaking.
+
+| Outcome | + Wound bone active | + Silence bone active | + Revelation bone active |
+|---|---|---|---|
+| **Clarity** | Clarity through the wound. The truth comes wound-shaped. | A break in the silence. Something speaks from the quiet. | Truth reinforces truth. Converging toward the answer. |
+| **Cold** | The cold is the wound's hush. The thread holds the wound rather than slipping. | Withering accelerates. The silence is becoming the answer. | Some clarity goes cold. What was lit is being abandoned. |
+| **Break** | The wound deepens itself. The break is the wound speaking. | The break happens in a withering quiet. Nobody acknowledges. | The truth itself is what wounded. Clarity left a scar. |
+
+**Honoring through the bones.** The bones rolled at honor color the *scene's* play of your character. Honor through the read for the rest of the scene. Don't re-roll if the thread accumulates new tags mid-scene from someone's pull; the read you committed to stands until the scene ends.
+
+**Pulling through the bones.** The bones rolled at pull color *this pull's* outcome. Write the new tag's caption in the active bones' voice. The next pull rolls bones fresh.
+
+**Specialty dice (optional).** At the table, three colored d6 (one per tag kind) make bone-reading instant. The app handles this automatically; tabletop play can keep colored dice next to the thread cards.
 
 ---
 
@@ -305,7 +345,7 @@ The detonation did the heavy lifting. Now spend those dice. Pulls only. Find out
 
 Aftermath pulls **crystallize what honors have established**. The act has specified each character through play; the Collision proved those specifications under pressure; the Aftermath is where the proven truths spill into the world. Read your honors over the episode before you pull. The truths you built want a witness now.
 
-Aftermath pulls establish truths, not actions. The doing the truths invite plays out in the Tag and across future episodes. *No new threads* means no *spontaneous* new threads — but pulls still transform existing threads as they always do. Clarity branches into more specific child questions. Cold deepens. Break wounds. The system keeps operating; the proliferation just stops.
+Aftermath pulls establish truths, not actions. The doing the truths invite plays out in the Tag and across future episodes. *No new threads* means no *spontaneous* new threads. Pulls still deposit tags as they always do. Clarity adds Revelations. Cold adds Silences. Break adds Wounds. Threads can reach their terminals during Aftermath, and they often do. The system keeps operating; the proliferation just stops.
 
 **Mapping the wreckage.** The Collision rarely produces threads labeled *"collision wreckage"* — the damage is on the existing threads, the questions you opened during proliferation. To find the wreckage, reread the question of each open thread and ask: *did the Collision change my answer?* If yes, that thread is carrying wreckage. Pull it. If a connection thread between two characters has had its dynamic rewritten, pull it. If a Drive has just been exposed under pressure, pull it. The wreckage was always going to land on what was already there.
 
@@ -347,7 +387,7 @@ For campaigns, threads that went cold or transformed persist into the next episo
 - **After:** What detonated? What's left?
 
 ### Act Three: Aftermath
-- Pulls only. Spend what you have. Max 3 dice per pull, pooling allowed.
+- Pulls only. Spend what you have. Max 2 dice per pull, pooling allowed.
 - No new threads, no escalation. Read the wreckage.
 - **After:** Update the thread board. Retire, collapse, merge. Keep the questions that are interesting.
 
@@ -369,11 +409,11 @@ After every session, update your character threads. Look at what the fiction rev
 
 **Update the body** of any thread that moved during the session. Add what play discovered — a line, no more. The body is a record of what became true, not backstory.
 
-**A thread that went cold** gains weight. Write what the cold revealed. If a thread goes Silent — three Colds — write its final line and mark it *silent*. It is no longer being asked. It can be reopened if the fiction demands it.
+**A thread that gained tags** carries them forward with their captions. Tags do not heal between sessions.
 
-**A broken thread** closes. Note what broke and how. The table decides what the break means for this character going forward.
+**A thread that reached a terminal** stays terminal. Clarified threads are answered. Silent threads can be reopened only if the fiction confronts what went quiet. Transformed threads carry their new identity forward; the original element is gone.
 
-Dice reset. Threads don't. Open and Silent threads carry forward. Broken threads leave permanent marks on the fiction. New threads emerge from what play revealed.
+Dice reset. Threads and their tags don't. New threads emerge from what play revealed.
 
 ---
 
@@ -394,7 +434,7 @@ The Finale is a regular episode with five rules changed. Everything else (Cold O
 
 **2. The Bomb is the Opener.** A normal Bomb is whatever thread Act One's pressure pointed at. The Finale's Bomb is fixed: the Opener thread that started the season is the one that breaks open in Act Two. No roll, no prevention. The question that launched the season ruptures.
 
-**3. The Collision demands a permanent change.** A normal Collision requires at least one manifestation. The Finale's Collision requires that and one of: a **Third Break** on a character, or the **retirement of a season-shaping thread** (an Anchor or the Opener). The detonation has to leave a permanent mark on the board.
+**3. The Collision demands a permanent change.** A normal Collision requires at least one manifestation. The Finale's Collision requires that and one of: a **character thread reaching Transformed**, or the **retirement of a season-shaping thread** (an Anchor or the Opener). The detonation has to leave a permanent mark on the board.
 
 **4. Manifestation resolves an element.** A normal Manifestation deepens the fiction and resolves nothing. The Finale's Collision Manifestation must settle one of the manifesting character's elements: a Drive, an Approach, or a Memory shifts shape. The element changes on the page. Name what it was. Name what it becomes.
 
@@ -404,7 +444,7 @@ The Finale is a regular episode with five rules changed. Everything else (Cold O
 
 Cleanup is mandatory. Use Retire, Collapse, and Merge aggressively. The board entering Season 2 should be smaller than the board leaving Season 1.
 
-Break marks persist. Transformations persist. Silent threads persist as silent. New Openers are rolled. Connection rings may be re-rolled if the fiction supports it.
+All accumulated tags persist. Transformed, Clarified, and Silent threads persist in their terminal states. New Openers are rolled. Connection rings may be re-rolled if the fiction supports it.
 
 ### Shows
 
@@ -441,104 +481,95 @@ Violence is expensive. Not mechanically, but fictionally. It changes things, rev
 
 ---
 
-## Breaks
+## Tags and Terminal Consequences
 
-A Break is rare and decisive. Pulling on a thread made something worse. How that worseness lands depends on what kind of thread broke.
+Every pull deposits a tag. Tags accumulate. When any kind reaches three, the thread enters its terminal state. The terminal state ripples beyond the thread itself.
 
-### Story Threads
+### The Three Terminals
 
-A story thread closes on Break. Wreckage opens new threads. The **lineage** — the root thread plus all its descendants — accumulates a cumulative break count. As that count rises, breaks in the lineage escalate.
+**Clarified.** Three Revelations. The thread is answered. The Revelation captions, in order, are the answer the table now treats as established truth. The thread closes. No further pulls or honors. Spin-off threads may branch from the answer if the table finds new questions in it, but the original question is done.
 
-**1st break in lineage: Complication.** Wreckage opens a new thread, more pointed than the parent. Story shifts.
+**Silent.** Three Silences. The question stopped being asked. The Silence captions are the body of the absence: what the table tried to learn and could not. A Silent thread can be reopened only if the fiction directly confronts what went quiet. Until then it carries forward as a ghost.
 
-**2nd break in lineage: Implication.** Wreckage opens a new thread, and that thread negatively affects the puller specifically. The lineage has reached for them. They are now tangled in what they were pulling.
+**Transformed.** Three Wounds. The wound has won. The thread is rewritten by the table to be what the wound made it. A Loyalty Drive whose wound was *Betrayal* becomes a thread about betrayal. A relationship whose wound was *Distance* becomes a thread about estrangement, or about the silence between them. The Wound captions become the new body. The original element is gone.
 
-**3rd break in lineage: Shatter.** The lineage collapses. All open descendants of the root go Silent. Write their final lines now. The fictional region the lineage covered is permanently scarred: no thread reopens here without something carrying the weight of what was lost. The puller takes a Break on their most-damaged character thread.
+### The First Wound Has a Name
 
-### Character Threads and Relationship Threads
+When a thread takes its *first* Wound, the player names the wound: a short behavioral descriptor that captures how this thread now speaks under pressure. *Denial.* *Distance.* *Quietness.* *Excess.* The name is what the wound *does*, not what caused it. *Sars* is what wounded the thread; *Denial* is the wound.
 
-These threads do not close on a single Break. They are bound to a person (or to two people, for relationships), and damage accumulates on the thread itself.
+Subsequent Wounds on the same thread don't take new names. They deepen the named wound by adding captions. By the time the thread is Transformed, that name *is* the thread's new identity.
 
-When the first Break lands, the table names a **wound**: a short fictional descriptor that is now tagging along with the thread. *Betrayal* on a Loyalty Drive. *Nightmares* on a Memory. *Distance* on a relationship. The wound is the running consequence — a little devil at the thread's shoulder. Body line records what wounded it.
+Revelations and Silences are not named, only captioned. Wounds get names because the name is what the player plays to when the bones light up Wound-active.
 
-Name the wound for the *behavior it produces*, not the event or person that caused it. *Denial* is a wound; *Sars* is what wounded the thread. The wound's name has to tell the player what to play when the wound manifests.
+### When a Character Thread Transforms
 
-Each subsequent Break amplifies the same wound rather than adding a new one.
+When any of a character's three slot threads (Drive, Approach, Memory) reaches Transformed, the character is **lost to themselves**. Still in the story, but no longer who they were. From this point the player decides what their character does, including, if they choose, that the character is gone. The loom's dissolution note, if it has one, suggests what this looks like in the genre being played.
 
-**Tier 1 — Scarred (1 Break):** the wound shows on a 1d6 roll of 1–3. Half the time the thread plays clean; half the time the wound is what comes through.
+### When a Relationship Thread Transforms
 
-**Tier 2 — Fractured (2 Breaks):** the wound shows on 1–4. Two-thirds of the time the thread is the wound now, occasionally itself.
+The table picks the shape:
 
-**Tier 3 — Transformed (3 Breaks):** the wound has won. The thread is rewritten to be what the wound made it. A Loyalty Drive whose wound was *Betrayal* is now a thread about betrayal. A relationship whose wound was *Distance* is now a thread about estrangement, or about the silence between them. Body is rewritten. The original element is gone.
+- **Severed.** The bond ends. The two characters are strangers, enemies, or one is gone from the other's life. The thread closes.
+- **Inverted.** The bond becomes its opposite. Love into hatred. Loyalty into betrayal. Partnership into rivalry. The thread closes; a new thread can open, its question asked from the inverted state.
 
-**When the wound rolls.** Whenever a wounded thread is honored or pulled, roll 1d6 first. If the result lands in the wound zone for the thread's tier, the wound manifests:
+### No Healing
 
-- **Honoring through a wound:** you still earn the die, but the honor goes through the wound. You honor your Loyalty by *betraying* something this time. The wound's behavior is what the table sees. The body picks up another line.
-- **Pulling through a wound:** the answer the thread delivers is shaped by the wound. A pulled Scarred Memory delivers the nightmare's version of the truth. The dice math does not change; the fiction does.
-- **Manifestation through a wound:** the pressure that bleeds out is the wound's pressure, not the thread's clean version.
-
-The wound does not penalize the dice. It penalizes what the fiction becomes — which, in Ravel, is the thing that gets honored next time.
-
-**Lost to themselves.** When any character thread reaches Tier 3, the character is **lost to themselves**. Still in the story, but no longer who they were. The threads that broke them contain the answer. The loom's dissolution note, if it has one, suggests what this looks like in the genre you're playing. From this point the player decides what their character does, including, if they choose, that the character is gone.
-
-*(TODO: clarify the constraints of playing a lost-to-themselves character. The intent is that the constraints make playing them feel very different, not that they are removed from the fiction.)*
-
-**Severed vs. Inverted relationships.** When a relationship thread reaches Tier 3, the table picks the shape: *Severed* (the bond ends; they are strangers, enemies, or one is gone from the other's life) or *Inverted* (the bond becomes its opposite — love into hatred, loyalty into betrayal, partnership into rivalry). Severed threads close. Inverted threads can be reopened as a new thread, its question asked from the inverted state.
-
-### Recovering
-
-A wound can be quieted by pulling a related thread and achieving **Clarity** that fictionally addresses what wounded the thread. The table validates whether the remedy fits. Each successful recovery reduces the wound's tier by one: Tier 2 → Tier 1, Tier 1 → healed (the wound is dismissed and the thread plays clean again).
-
-Tier 3 cannot be recovered. The thread is what the wound made it.
-
-Rolling a Break while attempting to recover deepens the wound by one tier instead of healing it.
-
-Track wounds and their tiers openly on every thread. Watching the devil grow is part of the tension.
+Tags do not reduce. Once deposited, a Revelation, Silence, or Wound stays. The only escape from a thread's gravity is the *race itself*: stack Revelations or Silences before the Wounds reach three. A wounded thread can still be Clarified or Silenced before it Transforms. That is the table's only steering wheel.
 
 ---
 
 ## Threads at a Glance
 
-**Shape:** Question / Body / Status — Character threads also carry a Theme.
+**Shape:** Question / Body / Tags / Status. Character threads also carry a Theme.
 
 **Pull outcomes:**
 
-| Outcome | What happens |
-|---------|--------------|
-| Clear | Branches. Question answered, children open. Parent done. |
-| Cold | Deepens. Thread stays open, body gains a line. Three Colds → Silent. |
-| Break | Damage. Story threads close, lineage escalates. Character and relationship threads gain a wound that grows over three tiers, then transforms the thread. See Breaks. |
+| Outcome | Deposits | Caption asks |
+|---------|----------|--------------|
+| Clarity (5–6) | a Revelation | What truth came clear? |
+| Cold (3–4) | a Silence | What did the cold reveal? |
+| Break (1–2) | a Wound | What damaged the thread? On the first Wound, also name the wound. |
+
+**Race to three:**
+
+| Tags at 3 | Terminal state |
+|---|---|
+| 3 Revelations | Clarified. Answered. |
+| 3 Silences | Silent. Abandoned. |
+| 3 Wounds | Transformed. The wound has won. |
+
+**The Bones.** After the dice settle on a pull, or at the moment of an honor, roll one d6 for each tag kind already on the thread. Tier 1 influences on 1–3, tier 2 on 1–4. Active bones color the outcome's fiction; they don't change dice math.
 
 **States:**
 
 | State | What it means |
 |-------|---------------|
-| Open | Live. Can be honored, pulled, branched. |
-| Silent | Three Colds. Stopped being asked. Can be reopened by the fiction. |
-| Broken | Story thread ruptured. Done. Consequences continue as new threads. |
-| Transformed | Character or relationship thread at third Break. Element or bond changed shape. See Breaks. |
+| Open | Live. Carries tags below three of each kind. |
+| Clarified | Three Revelations. Answered. |
+| Silent | Three Silences. Reopenable only if the fiction confronts what went quiet. |
+| Transformed | Three Wounds. Rewritten by the table to be what the wound made it. |
 
 **Limit:** 12 active threads. Retire (answered), Collapse (absorbed), Merge (same question).
 
-**Character threads:** Honor to earn a die. Pull at least once per episode when the fiction earns it.
+**Character threads:** Honor up to three different threads per scene (one bone-read per thread). Each honor mints one die. Honors do not deposit tags.
 
-**World threads:** Pull to resolve. Clear branches into more specific questions.
+**Pulls:** 1 or 2 dice, highest wins. Pulls are the only way tags accumulate.
 
 ---
 
 ## The Rules on an Index Card
 
-1. **Create** a character: three character threads (Theme, Question, Body) and two connection threads in the web
-2. **Threads** move: Clear → branches / Cold (×3 → Silent) / Break → wreckage. 12 active max.
-3. **Honor** an established element. Point to it, play it, earn a die (no repeats per scene)
-4. **Pull** a thread. Spend 1–3 dice, highest die wins: 5–6 Clarity / 3–4 Cold / 1–2 Breaks
-5. **Deliver.** The person the thread is about narrates the outcome
-6. **Episodes.** Cold Open → Act One: 3 scenes, proliferate, name the bomb → Act Two: bomb scene (thread breaks), echo scene (manifest), collision → Act Three: pulls only → Tag: one twist
-7. **Scenes.** Anyone frames. GM frames when nobody does. Every character in at least one scene per act.
-8. **Manifest.** Once per episode, show the thread pressure bleeding through your character. No dice, no resolution. Just make the weight visible.
-9. **The GM** holds the baton by default, watches the web, plays NPCs. NPCs generate threads and deliver outcomes. They don't pull.
-10. **Between sessions,** update thread bodies with what play revealed. Carry threads forward. Dice reset.
-11. **Breaks mark the character.** First: the story changes. Second: the character changes. Third: lost to themselves. Clarity on a related thread can recover a mark.
+1. **Create** a character: three character threads (Theme, Question, Body) and two connection threads in the web.
+2. **Threads** accumulate tags. Three of any kind terminates: Revelations → Clarified, Silences → Silent, Wounds → Transformed. 12 active max.
+3. **Honor** a character thread once per scene (up to three threads per character per scene). Roll the bones, play the scene through the read. Earn one die. Honors do not deposit tags.
+4. **Pull** a thread. Spend 1 or 2 dice, highest wins: 5–6 Clarity / 3–4 Cold / 1–2 Break. Deposit the matching tag with a one-line caption. On the first Wound, name the wound itself.
+5. **The Bones.** After the dice settle (or at honor), roll one d6 per tag kind already on the thread. Tier 1 active on 1–3, tier 2 on 1–4. Active bones color the fiction.
+6. **Deliver.** The person the thread is about narrates the outcome.
+7. **Episodes.** Cold Open → Act One: 3 scenes, proliferate, name the bomb → Act Two: bomb scene (thread breaks), echo scene, collision → Act Three: pulls only → Tag: one twist.
+8. **Manifest.** Once per episode, show the thread pressure bleeding through. No dice. Just make the weight visible.
+9. **The GM** holds the baton, watches the web, plays NPCs. NPCs don't pull.
+10. **Between sessions,** carry threads forward with their tags. Dice reset. Tags do not.
+11. **No healing.** The only escape from one path to terminal is racing another to three first.
 
 Teach in five minutes. The depth comes from play, not from rules.
 
